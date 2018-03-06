@@ -1,0 +1,13 @@
+<ion-view title="Search Rules" id="page3" class="pageSearchByKeyword" ng-init="changeLangNarrowList();">
+  <ion-content padding="true" class="has-header">
+    <form id="searchRules-form5" class="list">
+      <label class="item item-input" id="searchRules-search1">
+        <i class="icon ion-search placeholder-icon"></i>
+        <input type="search" placeholder="" ng-model="dataRuleInput.search" ng-change="search()">
+      </label>
+    </form>
+    <ion-list id="searchRules-list1">
+      <ion-item id="searchRules-list-item5" ng-repeat="rule in narrowed_rules" ng-click="showRuleSelected(  rule  )">{{rule.title}}</ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>
