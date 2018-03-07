@@ -1,6 +1,9 @@
 angular.module('app.controllers', [])
   
-.controller('homeCtrl', ['$scope', '$stateParams', '$state', 'Languages', 'Rules_en', 'Rules_es', 'Rules_de', function ($scope, $stateParams, $state, Languages, Rules_en, Rules_es, Rules_de) {
+.controller('homeCtrl', ['$scope', '$stateParams', '$state', 'Languages', 'Rules_en', 'Rules_es', 'Rules_de', 'Rules_bg', 'Rules_cs', 'Rules_da', 'Rules_et', 'Rules_el', 'Rules_fr', 'Rules_ga', 'Rules_hr', 'Rules_it', 'Rules_lv', 'Rules_lt', 'Rules_hu', 'Rules_mt', 'Rules_nl', 'Rules_pl', 'Rules_pt', 'Rules_ro', 'Rules_sk', 'Rules_sl', 'Rules_fi', 'Rules_sv', function ($scope, $stateParams, $state, Languages, 
+Rules_en, Rules_es, Rules_de, Rules_bg, Rules_cs, Rules_da,
+Rules_et, Rules_el, Rules_fr, Rules_ga, Rules_hr, Rules_it, Rules_lv, Rules_lt, Rules_hu, 
+Rules_mt, Rules_nl, Rules_pl, Rules_pt, Rules_ro, Rules_sk, Rules_sl, Rules_fi, Rules_sv) {
 
     var RULE_LIST_SIZE = Rules_en.listRulesLength;
     $scope.activeSelection = 1;
@@ -170,10 +173,13 @@ $scope.changeLangList();
 
 ])
    
-.controller('searchRulesCtrl', ['$scope', '$stateParams', '$state', 'Rules_en', 'Rules_es', 'Rules_de', // The following is the constructor function for this page's controller. See https://docs.angularjs.org/guide/controller
+.controller('searchRulesCtrl', ['$scope', '$stateParams', '$state', 'Rules_en', 'Rules_es', 'Rules_de', 'Rules_bg', 'Rules_cs', 'Rules_da', 'Rules_et', 'Rules_el', 'Rules_fr', 'Rules_ga', 'Rules_hr', 'Rules_it', 'Rules_lv', 'Rules_lt', 'Rules_hu', 'Rules_mt', 'Rules_nl', 'Rules_pl', 'Rules_pt', 'Rules_ro', 'Rules_sk', 'Rules_sl', 'Rules_fi', 'Rules_sv', // The following is the constructor function for this page's controller. See https://docs.angularjs.org/guide/controller
 // You can include any angular dependencies as parameters for this function
 // TIP: Access Route Parameters for your page via $stateParams.parameterName
-function ($scope, $stateParams, $state, Rules_en, Rules_es, Rules_de ) {
+function ($scope, $stateParams, $state, 
+Rules_en, Rules_es, Rules_de, Rules_bg, Rules_cs, Rules_da,
+Rules_et, Rules_el, Rules_fr, Rules_ga, Rules_hr, Rules_it, Rules_lv, Rules_lt, Rules_hu, 
+Rules_mt, Rules_nl, Rules_pl, Rules_pt, Rules_ro, Rules_sk, Rules_sl, Rules_fi, Rules_sv ) {
 
     $scope.data = {
         'language': $stateParams.language,
@@ -182,18 +188,75 @@ function ($scope, $stateParams, $state, Rules_en, Rules_es, Rules_de ) {
         'rule_id': parseInt($stateParams.rule_id)  //ep version 19.04
     }
     
-    // ep version 0.18
+    $scope.currentList  = Rules_en.list;
     $scope.narrowed_rules = Rules_en.list;
-    // changeLangNarrowList();  
+    console.log('i have just set narrow rules to EN');
 
-
-    
     $scope.dataRuleInput = {
         search: ''
     }
     
+/*    $scope.loadSearch = function () {
+        console.log('enter in loadSearch()');
+        console.log('$stateParams lang : '+$stateParams.language ); 
+        if ( $stateParams.languague != ''   ){//|| $stateParams.languague == null ){
+            console.log('lang : '+$stateParams.language );
+            $scope.changeLangCurrentList(); 
+        }
+    }  
+    
+    
+    $scope.changeLangCurrentList = function () { 
+        $scope.currentList  = Rules_en.list;
+        if ($scope.data.language == 'es')  $scope.currentList  = Rules_es.list; 
+        else
+        if ($scope.data.language == 'en')  $scope.currentList  = Rules_en.list; 
+        else
+        if ($scope.data.language == 'de')  $scope.currentList  = Rules_de.list; 
+         else
+        if ($scope.data.language == 'fr')  $scope.currentList  = Rules_fr.list; 
+        else
+        if ($scope.data.language == 'it')  $scope.currentList  = Rules_it.list; 
+         else
+        if ($scope.data.language == 'nl')  $scope.currentList  = Rules_nl.list; 
+        else
+        if ($scope.data.language == 'mt')  $scope.currentList  = Rules_mt.list; 
+         else
+        if ($scope.data.language == 'bg')  $scope.currentList  = Rules_bg.list; 
+        else
+        if ($scope.data.language == 'cs')  $scope.currentList  = Rules_cs.list; 
+         else
+        if ($scope.data.language == 'da')  $scope.currentList  = Rules_da.list; 
+        else
+        if ($scope.data.language == 'el')  $scope.currentList  = Rules_el.list; 
+         else
+        if ($scope.data.language == 'et')  $scope.currentList  = Rules_et.list; 
+        else
+        if ($scope.data.language == 'hr')  $scope.currentList  = Rules_hr.list; 
+         else
+        if ($scope.data.language == 'lv')  $scope.currentList  = Rules_lv.list; 
+        else
+        if ($scope.data.language == 'hu')  $scope.currentList  = Rules_hu.list; 
+         else
+        if ($scope.data.language == 'pl')  $scope.currentList  = Rules_pl.list; 
+        else
+        if ($scope.data.language == 'pt')  $scope.currentList  = Rules_pt.list; 
+         else
+        if ($scope.data.language == 'ro')  $scope.currentList  = Rules_ro.list; 
+        else
+        if ($scope.data.language == 'sk')  $scope.currentList  = Rules_sk.list; 
+        else
+        if ($scope.data.language == 'sl')  $scope.currentList  = Rules_sl.list; 
+        else
+        if ($scope.data.language == 'fi')  $scope.currentList  = Rules_fi.list; 
+        else
+        if ($scope.data.language == 'sv')  $scope.currentList  = Rules_sv.list; 
+        
+    }   
+*/
+    
     $scope.search = function() {
-        console.log('enter in search function');
+        console.log('enter in search function ');
         var s = $scope.dataRuleInput.search.toLowerCase();
         if (s == ''){
             $scope.changeLangNarrowList();  //$scope.narrowed_rules = Rules_en.list;
@@ -201,7 +264,7 @@ function ($scope, $stateParams, $state, Rules_en, Rules_es, Rules_de ) {
             return;
         }
         
-        $scope.narrowed_rules = Rules_en.list.filter(function( rule ){
+        $scope.narrowed_rules = $scope.currentList.filter(function( rule ){
             if ( rule.title.toLowerCase().indexOf(s) > -1 || 
                  rule.text.toLowerCase().indexOf(s) > -1 ){
                 return true;
@@ -226,10 +289,34 @@ function ($scope, $stateParams, $state, Rules_en, Rules_es, Rules_de ) {
     
     $scope.changeLangNarrowList = function () { 
         console.log("inside changeLangNarrowList ");
-        if ($scope.data.language == 'es')  $scope.narrowed_rules  = Rules_es.list; 
-        if ($scope.data.language == 'en')  $scope.narrowed_rules  = Rules_en.list; 
-        if ($scope.data.language == 'de')  $scope.narrowed_rules  = Rules_de.list; 
+        console.log(" lang: "+$scope.data.language);        
 
+        if ($scope.data.language == 'es')  $scope.currentList  = Rules_es.list; 
+        else if ($scope.data.language == 'en')  $scope.currentList  = Rules_en.list; 
+        else if ($scope.data.language == 'de')  $scope.currentList  = Rules_de.list; 
+        else if ($scope.data.language == 'bg')  $scope.currentList  = Rules_bg.list; 
+        else if ($scope.data.language == 'cs')  $scope.currentList  = Rules_cs.list; 
+        else if ($scope.data.language == 'da')  $scope.currentList  = Rules_da.list; 
+        else if ($scope.data.language == 'et')  $scope.currentList  = Rules_et.list; 
+        else if ($scope.data.language == 'el')  $scope.currentList  = Rules_el.list; 
+        else if ($scope.data.language == 'fr')  $scope.currentList  = Rules_fr.list; 
+        else if ($scope.data.language == 'ga')  $scope.currentList  = Rules_ga.list; 
+        else if ($scope.data.language == 'hr')  $scope.currentList  = Rules_hr.list; 
+        else if ($scope.data.language == 'it')  $scope.currentList  = Rules_it.list; 
+        else if ($scope.data.language == 'lv')  $scope.currentList  = Rules_lv.list; 
+        else if ($scope.data.language == 'it')  $scope.currentList  = Rules_it.list; 
+        else if ($scope.data.language == 'hu')  $scope.currentList  = Rules_hu.list; 
+        else if ($scope.data.language == 'mt')  $scope.currentList  = Rules_mt.list; 
+        else if ($scope.data.language == 'nl')  $scope.currentList  = Rules_nl.list; 
+        else if ($scope.data.language == 'pl')  $scope.currentList  = Rules_pl.list; 
+        else if ($scope.data.language == 'pt')  $scope.currentList  = Rules_pt.list; 
+        else if ($scope.data.language == 'ro')  $scope.currentList  = Rules_ro.list; 
+        else if ($scope.data.language == 'sk')  $scope.currentList  = Rules_sk.list; 
+        else if ($scope.data.language == 'sl')  $scope.currentList  = Rules_sl.list; 
+        else if ($scope.data.language == 'fi')  $scope.currentList  = Rules_fi.list; 
+        else if ($scope.data.language == 'sv')  $scope.currentList  = Rules_sv.list; 
+        
+        $scope.narrowed_rules =  $scope.currentList;
     }      
     
 }])
@@ -256,30 +343,30 @@ function ($scope, $stateParams, UsefulInfo, Languages) {
     $scope.changeLangList = function () { 
 
         if (lang == 'bg')  index = 0;
-        if (lang == 'es')  index = 1 ;
-        if (lang == 'cs')  index = 2 ;
-        if (lang == 'da')  index = 3 ;
-        if (lang == 'de')  index = 4 ;
-        if (lang == 'et')  index = 5 ;
-        if (lang == 'el')  index = 6 ;
-        if (lang == 'en')  index = 7 ;
+        else if (lang == 'es')  index = 1 ;
+        else if (lang == 'cs')  index = 2 ;
+        else if (lang == 'da')  index = 3 ;
+        else if (lang == 'de')  index = 4 ;
+        else if (lang == 'et')  index = 5 ;
+        else if (lang == 'el')  index = 6 ;
+        else if (lang == 'en')  index = 7 ;
         
-        if (lang == 'fr')  index = 8 ;
-        if (lang == 'ga')  index = 9 ;
-        if (lang == 'hr')  index = 10 ;
-        if (lang == 'it')  index = 11 ;
-        if (lang == 'lv')  index = 12 ;
-        if (lang == 'lt')  index = 13 ;
-        if (lang == 'hu')  index = 14 ;
-        if (lang == 'mt')  index = 15 ;
-        if (lang == 'nl')  index = 16 ;
-        if (lang == 'pl')  index = 17 ;
-        if (lang == 'pt')  index = 18 ;
-        if (lang == 'ro')  index = 19 ;
-        if (lang == 'sk')  index = 20 ;
-        if (lang == 'sl')  index = 21 ;
-        if (lang == 'fi')  index = 22 ;
-        if (lang == 'sv')  index = 23 ;
+        else if (lang == 'fr')  index = 8 ;
+        else if (lang == 'ga')  index = 9 ;
+        else if (lang == 'hr')  index = 10 ;
+        else if (lang == 'it')  index = 11 ;
+        else if (lang == 'lv')  index = 12 ;
+        else if (lang == 'lt')  index = 13 ;
+        else if (lang == 'hu')  index = 14 ;
+        else if (lang == 'mt')  index = 15 ;
+        else if (lang == 'nl')  index = 16 ;
+        else if (lang == 'pl')  index = 17 ;
+        else if (lang == 'pt')  index = 18 ;
+        else if (lang == 'ro')  index = 19 ;
+        else if (lang == 'sk')  index = 20 ;
+        else if (lang == 'sl')  index = 21 ;
+        else if (lang == 'fi')  index = 22 ;
+        else if (lang == 'sv')  index = 23 ;
 
         console.log('index '+ index);
 
