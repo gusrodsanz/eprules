@@ -9821,13 +9821,23 @@ a.button {
 .ep_logo {
   z-index: 1;
   background-color: #014A73;
-  padding-top: 1%;
+  padding-top: -1%;
   padding-botton: 1%; }
 
 .ep_logo_text {
+  font-size: 10px  !important;
   z-index: 1;
   background-color: #014A73;
-  margin: 0; }
+  margin: -5% 0 0 0; }
+
+@media screen and (min-width: 737px) {
+  .ep_logo img {
+    padding-botton: -4%;
+    margin-top: -4%;
+    width: 30% !important; }
+  .ep_logo_text {
+    margin: -4% 0 0 0;
+    font-size: 1.2em; } }
 
 ion-view, .pane, .view {
   background-color: #4C99D3; }
@@ -9937,6 +9947,9 @@ ion-view, .pane, .view {
 .usefulInformation {
   padding-left: 5%;
   padding-right: 5%; }
+
+.lineBrake {
+  white-space: pre-wrap; }
 
 ion-view, .pane, .view {
   background-color: #FAFCFD; }

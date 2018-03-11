@@ -2,10 +2,9 @@
   <ion-content padding="false" class="manual-ios-statusbar-padding">
     <div id="home-container1">
       <div class="ep_logo">
-        <img src="img/UPIgHgsSVOL3mrCOn5qy_header_icon_eplogo_new.png" style="display: block; width: 28%; height: auto; margin-left: auto; margin-right: auto;">
+        <img src="img/t0OlmndZQBKJZxant2VU_EPlogoRGB_EN.png" style="display: block; width: 40%; height: auto; margin-left: auto; margin-right: auto;">
       </div>
-      <h3 id="home-heading2" style="color:#FFFFFF;text-align:center;" class="ep_logo_text">European Parliament </h3>
-      <h4 id="home-heading3" style="color:#FEFEFE;font-weight:400;text-align:center;" class="ep_logo_text">Rules of Procedure v.1.1</h4>
+      <h4 id="home-heading3" style="color:#FEFEFE;font-weight:400;text-align:center;" class="ep_logo_text">Rules of Procedure v.1.0</h4>
       <div id="home-button-bar3" class="button-bar buttonBarHead">
         <button id="home-button18" ng-click="showLanguage()" ng-class="{ 'active': data.isLanguageActive == true}" style="font-weight:500;border-radius:15px 15px 15px 15px;" class="button button-positive button-block icon ion-headphone buttonBarHead_1">
         {{data.language}}</button>
@@ -32,9 +31,9 @@
         <button id="home-button10" ng-class="{'active': activeBtn == 3}" ng-click="changeBtn(  3 )" ng-model="activeBtn" class="button button-stable button-small button-block icon ion-ios-arrow-forward"></button>
         <button id="home-button11" ng-class="{'active': activeBtn == 4}" ng-click="changeBtn( 4 )" ng-model="activeBtn" style="border-radius:-1px -1px -1px -1px;" class="button button-stable button-small button-block icon ion-ios-skipforward-outline"></button>
       </div>
-      <h3 id="home-heading4" ng-model="listRules[ activeSelection -1 ].title" ng-value="listRules[ activeSelection -1 ].title" style="color:#014A73;font-weight:400;">{{listRules[ activeSelection -1 ].title}}</h3>
-      <div id="home-markdown267" ng-model="listRules[ activeSelection -1 ].text" class="show-list-numbers-and-dots">
-        <p style="margin-top:0px;color:#014A73;font-size:15px;">{{listRules[ activeSelection -1 ].text}}</p>
+      <h3 id="home-heading4" ng-model="listRules[ activeSelection -1 ].title" ng-value="listRules[ activeSelection -1 ].title" style="color:#014A73;font-weight:400;" class="lineBrake">{{listRules[ activeSelection -1 ].title}}</h3>
+      <div id="home-markdown267" ng-model="listRules[ activeSelection -1 ].text" class="show-list-numbers-and-dots lineBrake">
+        <p style="margin-top:0px;color:#014A73;font-size:15px;">{{listRules[ activeSelection -1 ].text }}</p>
       </div>
     </form>
   </ion-content>

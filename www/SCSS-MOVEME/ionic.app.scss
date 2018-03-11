@@ -1,8 +1,7 @@
 $calm: #014A73;
 $positive: #3059A0;
 $ionicons-font-path: "../lib/ionic/fonts" !default;
-// Include all of Ionic
-@import "www/lib/ionic/scss/ionic";
+@import "../www/lib/ionic/scss";
 .rule-selection {
 	background-color: #014A73;
 	font-size: 14px;
@@ -47,12 +46,12 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 		margin-top: -4%;
 		width: 30% !important;
 	}
-
+	
 	.ep_logo_text {
 		margin: -4% 0 0 0;
 		font-size: 1.2em;
 	}
-
+	
 }
 @media screen and (max-width: 736px) {}
 ion-view,.pane,.view {
@@ -171,7 +170,7 @@ ion-view,.pane,.view {
 	.input-label {
 		padding: 0;
 	}
-
+	
 }
 /*    PAGE SALECT LANGUAGE */
 //(56,178,238,0.4);
