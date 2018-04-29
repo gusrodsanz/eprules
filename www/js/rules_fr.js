@@ -10,86 +10,86 @@ var listRules = [
 {
 'id': 1,
 'title': 'Article 1 : Le Parlement européen',
-'text': "1.   Le Parlement européen est l'assemblée élue conformément aux traités, à l'acte du 20 septembre 1976 portant élection des membres du Parlement européen au suffrage universel direct et aux législations nationales arrêtées en application des traités.
-
-2.   La dénomination des représentants élus au Parlement européen est la suivante:
-
-   "Членове на Европейския парламент" pour le bulgare,
-
-   "Diputados al Parlamento Europeo" pour l'espagnol,
-
-   "Poslanci Evropského parlamentu" pour le tchèque,
-
-   "Medlemmer af Europa-Parlamentet" pour le danois,
-
-   "Mitglieder des Europäischen Parlaments" pour l'allemand,
-
-   "Euroopa Parlamendi liikmed" pour l'estonien,
-
-   "Βoυλευτές τoυ Ευρωπαϊκoύ Κoιvoβoυλίoυ" pour le grec,
-
-   "Members of the European Parliament" pour l'anglais,
-
-   "Députés au Parlement européen" pour le français,
-
-   "Feisirí de Pharlaimint na hEorpa" pour l'irlandais,
-
-   "Zastupnici u Europskom parlamentu" pour le croate,
-
-   "Deputati al Parlamento europeo" pour l'italien,
-
-   "Eiropas Parlamenta deputāti" pour le letton,
-
-   "Europos Parlamento nariai" pour le lituanien,
-
-   "Európai Parlamenti Képviselők" pour le hongrois,
-
-   "Membri tal-Parlament Ewropew" pour le maltais,
-
-   "Leden van het Europees Parlement" pour le néerlandais,
-
-   "Posłowie do Parlamentu Europejskiego" pour le polonais,
-
-   "Deputados ao Parlamento Europeu" pour le portugais,
-
-   "Deputaţi în Parlamentul European" pour le roumain,
-
-   "Poslanci Európskeho parlamentu" pour le slovaque,
-
-   "Poslanci Evropskega parlamenta" pour le slovène,
-
-   "Euroopan parlamentin jäsenet" pour le finnois,
-
-   "Ledamöter av Europaparlamentet" pour le suédois."
+'text': '1.   Le Parlement européen est l\'assemblée élue conformément aux traités, à l\'acte du 20 septembre 1976 portant élection des membres du Parlement européen au suffrage universel direct et aux législations nationales arrêtées en application des traités.\
+\
+2.   La dénomination des représentants élus au Parlement européen est la suivante:\
+\
+   "Членове на Европейския парламент" pour le bulgare,\
+\
+   "Diputados al Parlamento Europeo" pour l\'espagnol,\
+\
+   "Poslanci Evropského parlamentu" pour le tchèque,\
+\
+   "Medlemmer af Europa-Parlamentet" pour le danois,\
+\
+   "Mitglieder des Europäischen Parlaments" pour l\'allemand,\
+\
+   "Euroopa Parlamendi liikmed" pour l\'estonien,\
+\
+   "Βoυλευτές τoυ Ευρωπαϊκoύ Κoιvoβoυλίoυ" pour le grec,\
+\
+   "Members of the European Parliament" pour l\'anglais,\
+\
+   "Députés au Parlement européen" pour le français,\
+\
+   "Feisirí de Pharlaimint na hEorpa" pour l\'irlandais,\
+\
+   "Zastupnici u Europskom parlamentu" pour le croate,\
+\
+   "Deputati al Parlamento europeo" pour l\'italien,\
+\
+   "Eiropas Parlamenta deputāti" pour le letton,\
+\
+   "Europos Parlamento nariai" pour le lituanien,\
+\
+   "Európai Parlamenti Képviselők" pour le hongrois,\
+\
+   "Membri tal-Parlament Ewropew" pour le maltais,\
+\
+   "Leden van het Europees Parlement" pour le néerlandais,\
+\
+   "Posłowie do Parlamentu Europejskiego" pour le polonais,\
+\
+   "Deputados ao Parlamento Europeu" pour le portugais,\
+\
+   "Deputaţi în Parlamentul European" pour le roumain,\
+\
+   "Poslanci Európskeho parlamentu" pour le slovaque,\
+\
+   "Poslanci Evropskega parlamenta" pour le slovène,\
+\
+   "Euroopan parlamentin jäsenet" pour le finnois,\
+\
+   "Ledamöter av Europaparlamentet" pour le suédois.'
 },
 {
 'id': 2,
 'title': 'Article 2 : Indépendance du mandat',
-'text': "Conformément à l'article 6, paragraphe 1, de l'acte du 20 septembre 1976, à l'article 2, paragraphe 1, et à l'article 3, paragraphe 1, du statut des députés au Parlement européen, les députés exercent leur mandat de façon libre et indépendante et ne peuvent être liés par des instructions ni recevoir de mandat impératif."
+'text': "Conformément à l\'article 6, paragraphe 1, de l\'acte du 20 septembre 1976, à l\'article 2, paragraphe 1, et à l\'article 3, paragraphe 1, du statut des députés au Parlement européen, les députés exercent leur mandat de façon libre et indépendante et ne peuvent être liés par des instructions ni recevoir de mandat impératif."
 },
 {
 'id': 3,
 'title': 'Article 3 : Vérification des pouvoirs',
-'text': "1.   À l'issue des élections générales au Parlement européen, le Président invite les autorités compétentes des États membres à communiquer sans retard au Parlement les noms des députés élus, afin que l'ensemble de ceux-ci puissent siéger au Parlement dès l'ouverture de la première séance suivant les élections.
-
-Le Président attire en même temps l'attention de ces mêmes autorités sur les dispositions pertinentes de l'acte du 20 septembre 1976 et les invite à prendre les mesures nécessaires afin d'éviter la survenance de toute incompatibilité avec le mandat de député au Parlement européen.
-
-2.   Les députés dont l'élection est communiquée au Parlement sont tenus de déclarer par écrit, avant de siéger au Parlement, qu'ils n'exercent pas une fonction incompatible avec celle de député au Parlement européen, aux termes de l'article 7, paragraphe 1 ou 2, de l'acte du 20 septembre 1976. À l'issue des élections générales, cette déclaration doit être faite dans la mesure du possible six jours au plus tard avant l'ouverture de la première séance suivant les élections. Aussi longtemps que leurs pouvoirs n'ont pas été vérifiés ou qu'il n'a pas été statué sur une contestation éventuelle, les députés siègent au Parlement et dans ses organes en pleine jouissance de leurs droits, à la condition qu'ils aient effectué au préalable la déclaration écrite susmentionnée.
-
-Dans le cas où des faits vérifiables à partir de sources accessibles au public permettent d’établir qu’un député exerce une fonction incompatible avec celle de député au Parlement européen, aux termes de l’article 7, paragraphe 1 ou 2, de l’acte du 20 septembre 1976, le Parlement, sur la base des informations fournies par son Président, constate la vacance.
-
-3.   Sur la base d’un rapport de la commission compétente, le Parlement procède sans retard à la vérification des pouvoirs et statue sur la validité du mandat de chacun de ses membres nouvellement élus, ainsi que sur les contestations éventuelles présentées conformément aux dispositions de l’acte du 20 septembre 1976, à l’exclusion de celles qui, en vertu dudit acte, relèvent exclusivement des dispositions nationales auxquelles celui-ci renvoie.
-
-Le rapport de la commission est fondé sur la communication officielle, par chaque État membre, de l’ensemble des résultats électoraux précisant le nom des candidats élus, ainsi que celui des suppléants éventuels, avec leur ordre de classement tel qu’il résulte du vote.
-
-La validité du mandat des députés ne peut être confirmée qu’après que ceux-ci ont effectué les déclarations écrites exigées par le présent article ainsi que par l’annexe I du présent règlement intérieur.
-
-4.   Le Parlement, sur la base d’une proposition de la commission compétente, procède sans retard à la vérification des pouvoirs de chacun des députés remplaçant un député sortant et peut à tout moment se prononcer sur toute contestation concernant la validité du mandat d’un de ses membres.
-
-5.   Lorsque la nomination d’un député résulte du désistement de candidats figurant sur la même liste, la commission compétente veille à ce que ce désistement soit intervenu conformément à l’esprit et à la lettre de l’acte du 20 septembre 1976, ainsi que de l’article 4, paragraphe 2, du présent règlement intérieur.
-
-6.   La commission compétente veille à ce que toute information pouvant affecter l’éligibilité des députés ou l’éligibilité ou l’ordre de classement de leurs suppléants soit communiquée sans retard au Parlement par les autorités des États membres ou de l’Union, avec mention de la prise d’effet lorsqu’il s’agit d’une nomination.
-
+'text': "1.   À l\'issue des élections générales au Parlement européen, le Président invite les autorités compétentes des États membres à communiquer sans retard au Parlement les noms des députés élus, afin que l\'ensemble de ceux-ci puissent siéger au Parlement dès l\'ouverture de la première séance suivant les élections.\
+\
+Le Président attire en même temps l\'attention de ces mêmes autorités sur les dispositions pertinentes de l\'acte du 20 septembre 1976 et les invite à prendre les mesures nécessaires afin d'éviter la survenance de toute incompatibilité avec le mandat de député au Parlement européen.\
+\
+2.   Les députés dont l\'élection est communiquée au Parlement sont tenus de déclarer par écrit, avant de siéger au Parlement, qu'ils n'exercent pas une fonction incompatible avec celle de député au Parlement européen, aux termes de l\'article 7, paragraphe 1 ou 2, de l\'acte du 20 septembre 1976. À l\'issue des élections générales, cette déclaration doit être faite dans la mesure du possible six jours au plus tard avant l\'ouverture de la première séance suivant les élections. Aussi longtemps que leurs pouvoirs n'ont pas été vérifiés ou qu'il n'a pas été statué sur une contestation éventuelle, les députés siègent au Parlement et dans ses organes en pleine jouissance de leurs droits, à la condition qu'ils aient effectué au préalable la déclaration écrite susmentionnée.\
+\
+Dans le cas où des faits vérifiables à partir de sources accessibles au public permettent d’établir qu’un député exerce une fonction incompatible avec celle de député au Parlement européen, aux termes de l’article 7, paragraphe 1 ou 2, de l’acte du 20 septembre 1976, le Parlement, sur la base des informations fournies par son Président, constate la vacance.\
+\
+3.   Sur la base d’un rapport de la commission compétente, le Parlement procède sans retard à la vérification des pouvoirs et statue sur la validité du mandat de chacun de ses membres nouvellement élus, ainsi que sur les contestations éventuelles présentées conformément aux dispositions de l’acte du 20 septembre 1976, à l’exclusion de celles qui, en vertu dudit acte, relèvent exclusivement des dispositions nationales auxquelles celui-ci renvoie.\
+\
+Le rapport de la commission est fondé sur la communication officielle, par chaque État membre, de l’ensemble des résultats électoraux précisant le nom des candidats élus, ainsi que celui des suppléants éventuels, avec leur ordre de classement tel qu’il résulte du vote.\
+\
+La validité du mandat des députés ne peut être confirmée qu’après que ceux-ci ont effectué les déclarations écrites exigées par le présent article ainsi que par l’annexe I du présent règlement intérieur.\
+\
+4.   Le Parlement, sur la base d’une proposition de la commission compétente, procède sans retard à la vérification des pouvoirs de chacun des députés remplaçant un député sortant et peut à tout moment se prononcer sur toute contestation concernant la validité du mandat d’un de ses membres.\
+\
+5.   Lorsque la nomination d’un député résulte du désistement de candidats figurant sur la même liste, la commission compétente veille à ce que ce désistement soit intervenu conformément à l’esprit et à la lettre de l’acte du 20 septembre 1976, ainsi que de l’article 4, paragraphe 2, du présent règlement intérieur.\
+\
+6.   La commission compétente veille à ce que toute information pouvant affecter l’éligibilité des députés ou l’éligibilité ou l’ordre de classement de leurs suppléants soit communiquée sans retard au Parlement par les autorités des États membres ou de l’Union, avec mention de la prise d’effet lorsqu’il s’agit d’une nomination.\
+\
 Lorsque les autorités compétentes des États membres entament une procédure susceptible d’aboutir à la déchéance du mandat d’un député, le Président leur demande à être régulièrement informé de l’état de la procédure, et en saisit la commission compétente, sur proposition de laquelle le Parlement peut se prononcer."
 },
 {
