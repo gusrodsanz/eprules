@@ -30,31 +30,58 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 .ep_logo {
 	z-index: 1;
 	background-color: #014A73;
-	padding-top: -1%;
-	padding-botton: 1%;
+	margin: 2% 0% 1% 0%;
+	//padding-top: -1%;
+	//padding-botton: 1%;
 }
 
 .ep_logo_text {
-	font-size: 10px  !important;
+	font-size: 1em;
 	z-index: 1;
 	background-color: #014A73;
 	margin: -5% 0 0 0;
 }
 
-@media screen and (min-width: 737px) {
-	.ep_logo img {
-		padding-botton: -4%;
-		margin-top: -4%;
-		width: 30% !important;
-	}
+// @media screen and (min-width: 680px) and (max-width: 679px) {}
+// @media creen and (min-width : 1024px) and (max-width: 1024px) {}
 
-	.ep_logo_text {
-		margin: -4% 0 0 0;
-		font-size: 1.2em;
-	}
-
+@media screen and (min-width : 320px) {
+	.ep_logo_text { font-size: 11px  !important; }
+	.ep_logo img { width: 30% !important; margin: -3% 0% 2% 0%; }
 }
-@media screen and (max-width: 736px) {}
+@media screen and (min-width : 504px) {
+	.ep_logo_text { font-size: 12px  !important; }
+	.ep_logo img { width: 27% !important; margin: -3% 0% 2% 0%; }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 568px) {
+	.ep_logo_text { font-size: 14px  !important; margin: -3% 0% 2% 0%; }
+	.ep_logo img { width: 25% !important; margin: -3% 0 0 0; }
+} 
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 736px) {
+	.ep_logo_text { font-size: 16px  !important;  margin: -3% 0% 2% 0%; }
+	.ep_logo img { width: 25% !important;  margin-top: -4%; }
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 834px) {
+	.ep_logo_text { font-size: 20px  !important; margin: -3% 0% 2% 0%; }
+	.ep_logo img { width: 20% !important; margin-top: -4%;  }
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+	.ep_logo_text { font-size: 20px  !important; margin: -3% 0% 2% 0%; }
+	.ep_logo img { width: 20% !important; margin-top: -4%; }
+}
+@media only screen and (min-width: 1336px) {
+	.ep_logo_text { font-size: 25px  !important; margin: -3% 0% 2% 0%; }
+	.ep_logo img { width: 17% !important; margin-top: -4%; }
+}
+
+	
 ion-view,.pane,.view {
 	background-color: #4C99D3;
 }
@@ -204,3 +231,13 @@ ion-view,.pane,.view {
 	background-color: #FAFCFD;
 }
 
+#home-markdown267 {
+	margin-left: 2px;
+	margin-right: 2px;
+}
+#home-heading4 {
+	font: bold;
+	margin-bottom: -8%;
+	margin-left: 2px;
+	margin-right: 2px;
+}
