@@ -3614,7 +3614,3 @@ These provisions shall not apply to petitions and communications that do not req
 
 }]);
 
-
-
-
-

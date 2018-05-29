@@ -3608,7 +3608,3 @@ Diese Bestimmungen gelten nicht für Petitionen und für Texte, die keiner Besch
 }]);
 
 
-
-
-
-
