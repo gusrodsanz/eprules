@@ -3635,6 +3635,3 @@ Tato ustanovení se nevztahují na petice a sdělení, která nevyžadují rozho
 }]);
 
 
-
-
-
