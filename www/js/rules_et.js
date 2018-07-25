@@ -12,7 +12,7 @@ var listRules = [
 'title': 'Artikkel 1 : Euroopa Parlament',
 'text': '1.   Euroopa Parlament on aluslepingute, Euroopa Parlamendi liikmete valimist otsestel ja üldistel valimistel käsitleva 20. septembri 1976. aasta akti ning aluslepingutest tulenevate siseriiklike õigusaktide alusel valitud kogu.\n\r\
 \n\r\
-2.   Euroopa Parlamendi liikmeid nimetatakse alljärgnevalt:\n\r\
+2.   Euroopa Parlamendi liikmeid nimetatakse alljärgnevalt: \n\r\
 \n\r\
    bulgaaria keeles "Членове на Европейския парламент",\n\r\
 \n\r\
@@ -70,25 +70,28 @@ var listRules = [
 {
 'id': 3,
 'title': 'Artikkel 3 : Volituste kontrollimine',
-'text': "1.   Euroopa Parlamendi üldiste valimiste järel palub president liikmesriikide pädevatel asutustel teatada parlamendile viivitamatult valitud liikmete nimed, et kõik liikmed saaksid parlamendis tööle asuda alates valimisjärgse esimese istungi avamisest.\n\r\
+'text': "1.   Euroopa Parlamendi üldiste valimiste järel palub president liikmesriikide pädevatel asutustel teatada parlamendile viivitamatult valitud liikmete nimed, et kõik liikmed saaksid parlamendis tööle asuda alates valimisjärgse esimese istungi avamisest. \n\r\
 \n\r\
 Ühtlasi juhib president pädevate asutuste tähelepanu 20. septembri 1976. aasta akti asjakohastele sätetele ja palub neil võtta vajalikud meetmed, et vältida ühitamatust Euroopa Parlamendi liikme ametiga.\n\r\
 \n\r\
-2.   Parlamendiliige, kelle valimisest on parlamendile teatatud, esitab enne parlamendis ametisse asumist kirjaliku deklaratsiooni selle kohta, et tal ei ole ühtki Euroopa Parlamendi liikme ametiga ühitamatut ametit 20. septembri 1976. aasta akti artikli 7 lõike 1 või 2 tähenduses. Deklaratsioon tuleb esitada pärast üldisi valimisi võimaluse korral hiljemalt kuus päeva enne parlamendi valimisjärgset avaistungit. Kuni parlamendiliikme volitusi ei ole kontrollitud või vaidluses ei ole veel otsust tehtud ja tingimusel, et parlamendiliige on eespool nimetatud deklaratsioonile alla kirjutanud, võtab ta täievoliliselt parlamendi istungitest ja selle organite koosolekutest osa.\n\r\
+\n\r\
+2.   Parlamendiliige, kelle valimisest on parlamendile teatatud, esitab enne parlamendis ametisse asumist kirjaliku deklaratsiooni selle kohta, et tal ei ole ühtki Euroopa Parlamendi liikme ametiga ühitamatut ametit 20. septembri 1976. aasta akti artikli 7 lõike 1 või 2 tähenduses. Deklaratsioon tuleb esitada pärast üldisi valimisi võimaluse korral hiljemalt kuus päeva enne parlamendi valimisjärgset avaistungit. Kuni parlamendiliikme volitusi ei ole kontrollitud või vaidluses ei ole veel otsust tehtud ja tingimusel, et parlamendiliige on eespool nimetatud deklaratsioonile alla kirjutanud, võtab ta täievoliliselt parlamendi istungitest ja selle organite koosolekutest osa. \n\r\
 \n\r\
 Kui avalikkusele kättesaadavate allikate abil kontrollitud asjaolude alusel on kindlaks tehtud, et liikmel on 20. septembri 1976. aasta akti artikli 7 lõigete 1 või 2 tähenduses Euroopa Parlamendi liikme ametiga ühitamatu amet, loeb parlament presidendilt saadud teabe põhjal ametikoha vabaks.\n\r\
 \n\r\
-3.   Vastutava komisjoni raporti alusel kontrollib parlament viivitamatult iga vastvalitud liikme volitusi ja teeb otsuse tema mandaadi kehtivuse kohta, samuti vaidluste kohta, mis võivad tekkida 20. septembri 1976. aasta akti sätete alusel, kuid mitte nende vaidluste kohta, mis kuuluvad nimetatud akti kohaselt üksnes selles aktis osutatud riigisiseste sätete kohaldamisalasse.\n\r\
+\n\r\
+3.   Vastutava komisjoni raporti alusel kontrollib parlament viivitamatult iga vastvalitud liikme volitusi ja teeb otsuse tema mandaadi kehtivuse kohta, samuti vaidluste kohta, mis võivad tekkida 20. septembri 1976. aasta akti sätete alusel, kuid mitte nende vaidluste kohta, mis kuuluvad nimetatud akti kohaselt üksnes selles aktis osutatud riigisiseste sätete kohaldamisalasse. \n\r\
 \n\r\
 Vastutava komisjoni raport põhineb iga liikmesriigi ametlikul teatel lõplike valimistulemuste kohta, mis sisaldab valituks osutunud kandidaatide ja kõigi asendusliikmete nimesid koos nende järjestusega vastavalt hääletustulemustele.\n\r\
 \n\r\
 Parlamendiliikme mandaadi kehtivust ei ole võimalik kinnitada, kui parlamendiliige ei ole esitanud käesolevas artiklis ja kodukorra I lisas nõutud kirjalikke deklaratsioone.\n\r\
 \n\r\
+\n\r\
 4.   Parlament kontrollib viivitamatult vastutava komisjoni ettepaneku alusel parlamendiliikme asemele asuva liikme volitusi ning võib igal ajal teha otsuse vaidluses iga oma liikme mandaadi kehtivuse üle.\n\r\
 \n\r\
 5.   Kui parlamendiliikme ametissenimetamine on tingitud samas nimekirjas olnud kandidaatide tagasiastumisest, tagab vastutav komisjon, et tagasiastumine on kooskõlas 20. septembri 1976. aasta akti sätte ja mõttega ning kodukorra artikli 4 lõikega 2.\n\r\
 \n\r\
-6.   Vastutav komisjon tagab, et liikmesriikide või liidu asutused edastavad parlamendile viivitamatult kogu teabe, mis võib mõjutada liikme sobivust ametikohale või asendusliikmete järjestust või nende sobivust ametikohale, ning näitavad ametissenimetamise puhul ära otsuse jõustumise kuupäeva.\n\r\
+6.   Vastutav komisjon tagab, et liikmesriikide või liidu asutused edastavad parlamendile viivitamatult kogu teabe, mis võib mõjutada liikme sobivust ametikohale või asendusliikmete järjestust või nende sobivust ametikohale, ning näitavad ametissenimetamise puhul ära otsuse jõustumise kuupäeva. \n\r\
 \n\r\
 Kui liikmesriigi pädevad asutused algatavad mõne parlamendiliikme kohta menetluse, mille tagajärjeks võib olla liikmemandaadi kaotamine, palub president hoida end kursis menetluse käiguga ja edastab küsimuse vastutavale komisjonile. Vastutava komisjoni ettepanekul võib parlament võtta küsimuse kohta seisukoha."
 },
@@ -97,21 +100,24 @@ Kui liikmesriigi pädevad asutused algatavad mõne parlamendiliikme kohta menetl
 'title': 'Artikkel 4 : Parlamendiliikme ametiaeg',
 'text': "1.   Parlamendiliikme ametiaeg algab ja lõpeb vastavalt 20. septembri 1976. aasta akti artiklitele 5 ja 13.\n\r\
 \n\r\
-2.   Tagasiastuv parlamendiliige teatab presidendile tagasiastumisest ja märgib ära kuupäeva, millal ta tagasi astub; see peab toimuma kolme kuu jooksul pärast teatamist. Teade vormistatakse peasekretäri või tema esindaja juuresolekul koostatava ametliku protokollina, millele kirjutavad alla peasekretär või tema esindaja ja asjaomane parlamendiliige. Teade antakse viivitamatult üle vastutavale komisjonile, kes võtab küsimuse dokumendi saamisele järgneva esimese koosoleku päevakorda.\n\r\
+2.   Tagasiastuv parlamendiliige teatab presidendile tagasiastumisest ja märgib ära kuupäeva, millal ta tagasi astub; see peab toimuma kolme kuu jooksul pärast teatamist. Teade vormistatakse peasekretäri või tema esindaja juuresolekul koostatava ametliku protokollina, millele kirjutavad alla peasekretär või tema esindaja ja asjaomane parlamendiliige. Teade antakse viivitamatult üle vastutavale komisjonile, kes võtab küsimuse dokumendi saamisele järgneva esimese koosoleku päevakorda. \n\r\
 \n\r\
 Kui vastutav komisjon on arvamusel, et tagasiastumine on kooskõlas 20. septembri 1976. aasta aktiga, loetakse ametikoht vabaks alates tagasiastuva parlamendiliikme poolt ametlikus protokollis märgitud kuupäevast ning president teavitab sellest parlamenti.\n\r\
 \n\r\
 Kui vastutav komisjon on arvamusel, et tagasiastumine ei ole kooskõlas 20. septembri 1976. aasta aktiga, teeb ta parlamendile ettepaneku jätta ametikoht vabaks lugemata.\n\r\
 \n\r\
-3.   Kui enne järgmise osaistungjärgu algust ei ole kavas ühtegi vastutava komisjoni koosolekut, vaatab vastutava komisjoni raportöör viivitamatult läbi kõik tagasiastumise teated, millest teda on nõuetekohaselt teavitatud. Kui viivitus tagasiastumisteate läbivaatamisel võiks põhjustada kahju, pöördub raportöör vastutava komisjoni esimehe poole, paludes tal vastavalt lõikele 2\n\r\
+\n\r\
+3.   Kui enne järgmise osaistungjärgu algust ei ole kavas ühtegi vastutava komisjoni koosolekut, vaatab vastutava komisjoni raportöör viivitamatult läbi kõik tagasiastumise teated, millest teda on nõuetekohaselt teavitatud. Kui viivitus tagasiastumisteate läbivaatamisel võiks põhjustada kahju, pöördub raportöör vastutava komisjoni esimehe poole, paludes tal vastavalt lõikele 2 \n\r\
 \n\r\
 -   teavitada vastutava komisjoni nimel presidenti sellest, et ametikoha võib vabaks lugeda, või\n\r\
 \n\r\
 -   kutsuda kokku vastutava komisjoni erakorralise koosoleku raportööri tõstatatud probleemide arutamiseks.\n\r\
 \n\r\
-4.   Kui liikmesriigi või liidu pädev asutus või asjaomane parlamendiliige teavitab presidenti parlamendiliikme nimetamisest või valimisest ametisse, mis on ühitamatu Euroopa Parlamendi liikme ametiga 20. septembri 1976. aasta akti artikli 7 lõike 1 või 2 tähenduses, teavitab president sellest parlamenti, ja parlament kuulutab ametikoha vabaks alates ühitamatuse tekkimise kuupäevast.\n\r\
+\n\r\
+4.   Kui liikmesriigi või liidu pädev asutus või asjaomane parlamendiliige teavitab presidenti parlamendiliikme nimetamisest või valimisest ametisse, mis on ühitamatu Euroopa Parlamendi liikme ametiga 20. septembri 1976. aasta akti artikli 7 lõike 1 või 2 tähenduses, teavitab president sellest parlamenti, ja parlament kuulutab ametikoha vabaks alates ühitamatuse tekkimise kuupäevast. \n\r\
 \n\r\
 Kui liikmesriigi pädev asutus teavitab presidenti parlamendiliikme ametiaja lõppemisest kas täiendava ühitamatuse tõttu selle liikmesriigi õiguse kohaselt vastavalt 20. septembri 1976. aasta akti artikli 7 lõikele 3 või parlamendiliikme mandaadi kehtetuks tunnistamise tõttu vastavalt nimetatud akti artikli 13 lõikele 3, teavitab president parlamenti asjaomase parlamendiliikme ametiaja lõppemisest alates liikmesriigi pädevate asutuste teatatud kuupäevast. Kui kuupäeva ei ole teatatud, loetakse ametiaeg lõppenuks kuupäevast, mil liikmesriik ühitamatusest teatas.\n\r\
+\n\r\
 \n\r\
 5.   Kui liikmesriigi või liidu asutus teavitab presidenti ülesandest, mille ta kavatseb parlamendiliikmele anda, palub president vastutaval komisjonil hinnata, kas kavandatav ülesanne on kooskõlas 20. septembri 1976.  aasta aktiga, ning teavitab parlamenti, asjaomast parlamendiliiget ja asjaomaseid asutusi vastutava komisjoni järeldustest.\n\r\
 \n\r\
@@ -130,23 +136,24 @@ Kui liikmesriigi pädev asutus teavitab presidenti parlamendiliikme ametiaja lõ
 \n\r\
 4.   Kõigil liikmetel on ametiülesannete täitmise eesmärgil õigus osaleda aktiivselt parlamendikomisjonide ja parlamendi delegatsioonide töös vastavalt käesoleva kodukorra sätetele.\n\r\
 \n\r\
-5.   Parlamendiliikmel on õigus tutvuda parlamendi ja parlamendikomisjonide kõigi dokumentidega, välja arvatud isikutoimikud ja arved, millega lubatakse tutvuda ainult asjaomasel parlamendiliikmel. Erandid nimetatud põhimõttest selliste dokumentide käitlemiseks, millele võidakse üldsuse juurdepääs keelata vastavalt Euroopa Parlamendi ja nõukogu määrusele (EÜ) nr 1049/2001(1), on sätestatud artiklis 210a.\n\r\
+5.   Parlamendiliikmel on õigus tutvuda parlamendi ja parlamendikomisjonide kõigi dokumentidega, välja arvatud isikutoimikud ja arved, millega lubatakse tutvuda ainult asjaomasel parlamendiliikmel. Erandid nimetatud põhimõttest selliste dokumentide käitlemiseks, millele võidakse üldsuse juurdepääs keelata vastavalt Euroopa Parlamendi ja nõukogu määrusele (EÜ) nr 1049/2001(1), on sätestatud artiklis 210a. \n\r\
 \n\r\
 Juhatuse nõusolekul võib põhistatud otsusega keelduda andmast parlamendiliikmele võimalust tutvuda parlamendi dokumendiga, kui juhatus veendub pärast parlamendiliikme ärakuulamist, et dokumendiga tutvumine põhjustaks parlamendi institutsionaalsetele huvidele või avalikele huvidele lubamatut kahju ning parlamendiliikme soov dokumendiga tutvuda lähtub isiklikest või erahuvidest. Parlamendiliige võib otsuse peale ühe kuu jooksul pärast selle teatavaks tegemist esitada kirjaliku kaebuse. Nõuetekohane kirjalik kaebus peab sisaldama põhjendusi. Parlament teeb kaebuse kohta otsuse kaebuse esitamisele järgneva osaistungjärgu jooksul ilma eelneva aruteluta.\n\r\
 \n\r\
-\n\r\
-(1)	Euroopa Parlamendi ja nõukogu 30. mai 2001. aasta määrus (EÜ) nr 1049/2001 üldsuse juurdepääsu kohta Euroopa Parlamendi, nõukogu ja komisjoni dokumentidele (EÜT L 145, 31.5.2001, lk 43)."
+ \n\r\
+ \n\r\
+(1) Euroopa Parlamendi ja nõukogu 30. mai 2001. aasta määrus (EÜ) nr 1049/2001 üldsuse juurdepääsu kohta Euroopa Parlamendi, nõukogu ja komisjoni dokumentidele (EÜT L 145, 31.5.2001, lk 43). "
 },
 {
 'id': 6,
 'title': 'Artikkel 6 : Puutumatuse äravõtmine',
 'text': "1.   Puutumatuse äravõtmise taotlust hinnatakse Euroopa Liidu privileege ja immuniteete käsitleva protokolli (nr 7) artiklite 7, 8 ja 9 ning kodukorra artikli 5 lõikes 2 osutatud põhimõtete kohaselt.\n\r\
 \n\r\
-2.   Kui parlamendiliikmel tuleb esineda tunnistajana või anda tunnistusi eksperdina, ei ole vaja taotleda puutumatuse äravõtmist juhul, kui:\n\r\
+2.   Kui parlamendiliikmel tuleb esineda tunnistajana või anda tunnistusi eksperdina, ei ole vaja taotleda puutumatuse äravõtmist juhul, kui: \n\r\
 \n\r\
 -   parlamendiliiget ei kohustata ilmuma sellisel kuupäeval või kellaajal, mis takistab või raskendab tema kui parlamendiliikme kohustuste täitmist, või kui ta võib anda tunnistuse kirjalikult või muus vormis, mis ei raskenda tema parlamendiliikme ülesannete täitmist; ning\n\r\
 \n\r\
--   parlamendiliiget ei kohustata andma tunnistusi küsimustes, mille kohta ta oma ametiülesannete täitmisel on saanud konfidentsiaalset teavet, mille avaldamist ta ei pea asjakohaseks."
+-   parlamendiliiget ei kohustata andma tunnistusi küsimustes, mille kohta ta oma ametiülesannete täitmisel on saanud konfidentsiaalset teavet, mille avaldamist ta ei pea asjakohaseks"
 },
 {
 'id': 7,
@@ -173,9 +180,10 @@ Juhatuse nõusolekul võib põhistatud otsusega keelduda andmast parlamendiliikm
 'title': 'Artikkel 9 : Puutumatusega seotud menetlused',
 'text': "1.   Kui liikmesriigi pädev asutus on esitanud presidendile parlamendiliikmelt puutumatuse äravõtmise taotluse või kui parlamendiliige või endine parlamendiliige on esitanud presidendile eesõiguste ja puutumatuse kaitsmise taotluse, antakse taotlusest teada täiskogu istungil ja taotlus edastatakse vastutavale komisjonile.\n\r\
 \n\r\
-2.   Asjaomase parlamendiliikme või endise parlamendiliikme nõusolekul võib taotluse esitada teine parlamendiliige, kellel lubatakse asjaomast parlamendiliiget või endist parlamendiliiget esindada kõikides menetluse etappides.\n\r\
+2.   Asjaomase parlamendiliikme või endise parlamendiliikme nõusolekul võib taotluse esitada teine parlamendiliige, kellel lubatakse asjaomast parlamendiliiget või endist parlamendiliiget esindada kõikides menetluse etappides. \n\r\
 \n\r\
 Teist parlamendiliiget või endist parlamendiliiget esindav parlamendiliige ei osale vastutava komisjoni otsuse tegemisel.\n\r\
+\n\r\
 \n\r\
 3.   Vastutav komisjon vaatab puutumatuse äravõtmise ning eesõiguste ja puutumatuse kaitsmise taotlused läbi viivitamatult, võttes seejuures arvesse nende suhtelist keerukust.\n\r\
 \n\r\
@@ -183,9 +191,9 @@ Teist parlamendiliiget või endist parlamendiliiget esindav parlamendiliige ei o
 \n\r\
 5.   Vastutav komisjon võib paluda asjaomasel ametiasutusel anda teavet või selgitusi, mida komisjon peab vajalikuks, et võtta seisukoht, kas puutumatus tuleks ära võtta või tuleks seda kaitsta.\n\r\
 \n\r\
-6.   Parlamendiliikmele antakse võimalus anda selgitusi ja ta võib esitada dokumente või muid kirjalikke tõendeid, mida ta peab asjakohaseks.\n\r\
+6.   Parlamendiliikmele antakse võimalus anda selgitusi ja ta võib esitada dokumente või muid kirjalikke tõendeid, mida ta peab asjakohaseks. \n\r\
 \n\r\
-Asjaomane parlamendiliige ei viibi kohal tema puutumatuse äravõtmise või kaitsmise taotlust käsitlevatel aruteludel, välja arvatud kuulamisel.\n\r\\n\r\
+Asjaomane parlamendiliige ei viibi kohal tema puutumatuse äravõtmise või kaitsmise taotlust käsitlevatel aruteludel, välja arvatud kuulamisel.\n\r\
 \n\r\
 Komisjoni esimees kutsub parlamendiliikme selgitusi andma, teatades talle kuulamise toimumiskuupäeva ja kellaaja. Asjaomane parlamendiige võib loobuda õigusest anda kuulamisel selgitusi.\n\r\
 \n\r\
@@ -193,11 +201,12 @@ Kui asjaomane parlamendiliige ei ilmu kuulamisele, kuhu teda kutsuti, loetakse s
 \n\r\
 Kui komisjoni esimees rahuldab parlamendiliikme taotluse tema kuulamisel osalemisest vabastamiseks, kutsub ta asjaomase parlamendiliikme kuulamisele uuel kuupäeval ja kellaajal. Kui asjaomane parlamendiliige ei ilmu ka teisele kuulamisele, jätkatakse menetlust parlamendiliiget ära kuulmata. Edasisi taotlusi vabastamiseks või selgituste andmiseks vastu ei võeta.\n\r\
 \n\r\
+\n\r\
 7.   Kui puutumatuse äravõtmist või kaitsmist taotletakse mitmel alusel, võib iga aluse kohta teha eraldi otsuse. Erandjuhul võib vastutav komisjon teha oma raportis ettepaneku, et puutumatuse äravõtmist või kaitsmist rakendataks ainult juurdlustoimingutele ja kuni lõpliku kohtuotsuse tegemiseni säiliks parlamendiliikme puutumatus kinnipidamise, eelvangistuse või muu meetme suhtes, mis takistaks tal mandaadiga seotud ülesannete täitmist.\n\r\
 \n\r\
 8.   Komisjon võib esitada põhjendatud arvamuse taotluse esitanud ametiasutuse pädevuse ja taotluse lubatavuse kohta, kuid ei võta mingil juhul seisukohta küsimuses, kas parlamendiliige on süüdi või mitte või kas arvamused või teod, milles parlamendiliiget süüdistatakse, põhjendavad tema vastutuselevõtmist, seda isegi siis, kui taotluse läbivaatamise käigus on juhtumi asjaolud komisjonile üksikasjalikult teatavaks saanud.\n\r\
 \n\r\
-9.   Vastutava komisjoni otsuse ettepanek pannakse selle esitamise päevale järgneva esimese istungi päevakorda. Ettepanekule ei saa esitada muudatusettepanekuid.\n\r\
+9.   Vastutava komisjoni otsuse ettepanek pannakse selle esitamise päevale järgneva esimese istungi päevakorda. Ettepanekule ei saa esitada muudatusettepanekuid. \n\r\
 \n\r\
 Arutelu piirdub puutumatuse äravõtmise või allesjätmise või eesõiguste või puutumatuse kaitsmise ettepanekutele poolt- ja vastuargumentide esitamisega.\n\r\
 \n\r\
@@ -206,6 +215,7 @@ Ilma et see piiraks artikli 164 kohaldamist, ei võta parlamendiliige, kelle ees
 Raportis sisalduv(ad) otsuse ettepanek(ud) pannakse hääletusele esimesel arutelule järgneval hääletusel.\n\r\
 \n\r\
 Kui parlament on küsimust arutanud, pannakse iga raportis sisalduv ettepanek eraldi hääletusele. Kui mõni ettepanek lükatakse tagasi, loetakse vastuvõetuks sellele vastupidine otsus.\n\r\
+\n\r\
 \n\r\
 10.   President teatab parlamendi otsuse viivitamatult asjaomasele parlamendiliikmele ja asjaomase liikmesriigi pädevale asutusele ning taotleb, et teda teavitataks edasisest menetluse käigust ja selle tulemusel tehtud kohtuotsustest. Pärast teabe saamist edastab president selle parlamendile viisil, mida ta peab kõige sobivamaks, vajaduse korral pärast nõupidamist vastutava komisjoniga.\n\r\
 \n\r\
@@ -225,13 +235,14 @@ Kui parlament on küsimust arutanud, pannakse iga raportis sisalduv ettepanek er
 {
 'id': 11,
 'title': 'Artikkel 11 : Parlamendiliikmete majanduslikud huvid ja käitumisreeglid',
-'text': "1.   Parlament kehtestab parlamendiliikmete majanduslike huvide läbipaistvust reguleeriva eeskirja käitumisjuhendina, mis võetakse vastu parlamendiliikmete häälteenamusega ja lisatakse kodukorrale(1).\n\r\
+'text': "1.   Parlament kehtestab parlamendiliikmete majanduslike huvide läbipaistvust reguleeriva eeskirja käitumisjuhendina, mis võetakse vastu parlamendiliikmete häälteenamusega ja lisatakse kodukorrale(1). \n\r\
 \n\r\
 Eeskiri ei piira muul viisil parlamendiliiget tema ametikohustuste täitmisel ega sellega seotud poliitilises või muus tegevuses.\n\r\
 \n\r\
+\n\r\
 2.   Parlamendiliikmed peaksid omaks võtma tava kohtuda ainult nende huvirühma esindajatega, kes on registreeritud läbipaistvusregistris, mis on Euroopa Parlamendi ja Euroopa Komisjoni vahelise läbipaistvusregistri loomist käsitleva kokkuleppega loodud register(2).\n\r\
 \n\r\
-3.   Parlamendiliikmete käitumine põhineb vastastikusel austusel ning aluslepingutes ja eelkõige Euroopa Liidu põhiõiguste hartas sätestatud väärtustel ja põhimõtetel ning tagab parlamendi väärikuse. Parlamendiliikme käitumine ei tohi ka ohustada parlamendi töö sujuvust, julgeoleku ja korra tagamist parlamendi ruumides ega parlamendi töövahendite toimimist.\n\r\
+3.   Parlamendiliikmete käitumine põhineb vastastikusel austusel ning aluslepingutes ja eelkõige Euroopa Liidu põhiõiguste hartas sätestatud väärtustel ja põhimõtetel ning tagab parlamendi väärikuse. Parlamendiliikme käitumine ei tohi ka ohustada parlamendi töö sujuvust, julgeoleku ja korra tagamist parlamendi ruumides ega parlamendi töövahendite toimimist. \n\r\
 \n\r\
 Parlamendiliikmed ei tohi kasutada parlamendi arutelude käigus laimavat, rassistlikku või ksenofoobset keelepruuki, käitumismaneere ega visuaalseid loosungeid.\n\r\
 \n\r\
@@ -239,21 +250,23 @@ Parlamendiliikmed järgivad parlamendi eeskirju konfidentsiaalse teabe käsitlem
 \n\r\
 Kui nimetatud põhimõtteid ja eeskirju ei järgita võib kohaldada meetmeid  vastavalt artiklitele 165, 166 ja 167.\n\r\
 \n\r\
-4.   Käesoleva artikli kohaldamine ei piira muul viisil parlamendis toimuvate arutelude elavust ega parlamendiliikmete sõnavabadust.\n\r\
+\n\r\
+4.   Käesoleva artikli kohaldamine ei piira muul viisil parlamendis toimuvate arutelude elavust ega parlamendiliikmete sõnavabadust. \n\r\
 \n\r\
 Artikli kohaldamine põhineb liidu esmases õiguses ja parlamendiliikmete põhimääruses sätestatud parlamendiliikmete õiguste täielikul austamisel.\n\r\
 \n\r\
 Artikli kohaldamine põhineb läbipaistvuse põhimõttel ning tagatakse antud valdkonda puudutavate sätete teatavakstegemine parlamendiliikmetele, keda teavitatakse isiklikult nende õigustest ja kohustustest.\n\r\
+\n\r\
 \n\r\
 5.   Kui lõikes 3 sätestatud käitumisreegleid rikub isik, kes on parlamendiliikme teenistuses või kelle juurdepääsu parlamendi ruumidesse või töövahenditele on korraldanud parlamendiliige, võib asjaomase parlamendiliikme suhtes asjakohasel juhul kohaldada artiklis 166 sätestatud karistusi.\n\r\
 \n\r\
 6.   Kvestorid määravad kindlaks, mitu assistenti võib iga parlamendiliige registreerida.\n\r\
 \n\r\
 7.   Endiste parlamendiliikmete eetikakoodeks, õigused ja eesõigused kehtestatakse juhatuse otsusega. Endisi parlamendiliikmeid koheldakse võrdselt.\n\r\
-\n\r\
-\n\r\
-(1)	Vt I lisa.\n\r\
-(2)	Euroopa Parlamendi ja Euroopa Komisjoni vaheline 16. aprilli 2014. aasta läbipaistvusregistri loomist käsitleva kokkuleppega loodud register organisatsioonidele ja füüsilisest isikust ettevõtjatele, kes tegelevad ELi poliitika kujundamise ja rakendamisega (ELT L 277, 19.9.2014, lk 11)."
+ \n\r\
+ \n\r\
+(1) Vt I lisa. \n\r\
+(2) Euroopa Parlamendi ja Euroopa Komisjoni vaheline 16. aprilli 2014. aasta läbipaistvusregistri loomist käsitleva kokkuleppega loodud register organisatsioonidele ja füüsilisest isikust ettevõtjatele, kes tegelevad ELi poliitika kujundamise ja rakendamisega (ELT L 277, 19.9.2014, lk 11). "
 },
 {
 'id': 12,
@@ -261,8 +274,8 @@ Artikli kohaldamine põhineb läbipaistvuse põhimõttel ning tagatakse antud va
 'text': "Vastavalt parlamendi 18. novembri 1999. aasta otsusele(1) kohaldatakse parlamendis 25. mai 1999. aasta institutsioonidevahelises kokkuleppes (mis käsitleb Euroopa Pettustevastase Ameti (OLAF) sisejuurdlust)(2) kehtestatud ühtseid eeskirju, milles on toodud meetmed ameti korraldatavate juurdluste takistusteta läbiviimiseks.\n\r\
 \n\r\
 \n\r\
-(1)	EÜT L 136, 31.5.1999, lk 15.\n\r\
-(2)	Euroopa Parlamendi 18. novembri 1999. aasta otsus pettuste, korruptsiooni ja muu ühenduste huve kahjustava ebaseadusliku tegevuse tõkestamisega seotud sisejuurdluse tingimuste kohta."
+(1) EÜT L 136, 31.5.1999, lk 15. \n\r\
+(2) Euroopa Parlamendi 18. novembri 1999. aasta otsus pettuste, korruptsiooni ja muu ühenduste huve kahjustava ebaseadusliku tegevuse tõkestamisega seotud sisejuurdluse tingimuste kohta. "
 },
 {
 'id': 13,
@@ -283,13 +296,14 @@ Artikli kohaldamine põhineb läbipaistvuse põhimõttel ning tagatakse antud va
 {
 'id': 15,
 'title': 'Artikkel 15 : Kandidaatide ülesseadmine ja üldsätted',
-'text': "1.   President ning seejärel asepresidendid ja kvestorid valitakse salajasel hääletusel artikli 180a alusel.\n\r\
+'text': "1.   President ning seejärel asepresidendid ja kvestorid valitakse salajasel hääletusel artikli 180a alusel. \n\r\
 \n\r\
 Kandidaadi ülesseadmiseks on vajalik tema nõusolek ja kandidaate võivad üles seada üksnes fraktsioon või vähemalt miinimumlävendile vastav arv parlamendiliikmeid. Enne iga hääletusvooru võib esitada uusi kandidaate.\n\r\
 \n\r\
 Kui ülesseatud kandidaatide arv ei ületa täidetavate kohtade arvu, valitakse kandidaadid ühise heakskiitmise teel, välja arvatud juhul, kui parlamendiliikmed või fraktsioon(id) vastavalt kõrgele lävendile nõuavad salajase hääletuse korraldamist.\n\r\
 \n\r\
 Kui ühe hääletussedeliga tuleb valida enam kui üks ametikandja, loetakse hääletussedel kehtivaks üksnes siis, kui antud on üle poole võimalikest häältest.\n\r\
+\n\r\
 \n\r\
 2.   Presidendi, asepresidentide ja kvestorite valimisel tuleks arvestada vajadusega tagada poliitiliste vaadete üldine õiglane esindatus ning sooline ja geograafiline tasakaal."
 },
@@ -305,7 +319,7 @@ Kui ühe hääletussedeliga tuleb valida enam kui üks ametikandja, loetakse hä
 'title': 'Artikkel 17 : Asepresidentide valimine',
 'text': "1.   Seejärel valitakse asepresidendid ühe hääletussedeliga. Esimeses hääletusvoorus osutub valituks häälte arvu järjekorras kuni 14 kandidaati, kes on saanud antud häälte absoluutse enamuse. Kui valitud kandidaatide arv on väiksem kui täidetavate ametikohtade arv, korraldatakse samadel tingimustel teine hääletusvoor, et täita ülejäänud ametikohad. Kui pärast seda läheb vaja veel kolmandat hääletusvooru, osutuvad ülejäänud kohtade täitmisel valituks kandidaadid, kes on saanud suhtelise häälteenamuse. Võrdse häälte arvu puhul osutuvad valituks vanimad kandidaadid.\n\r\
 \n\r\
-2.   Asepresidentide järjestuse määrab nende valimise järjekord ja võrdse häälte arvu korral nende vanus, kui artikli 20 lõikes 1 ei ole sätestatud teisiti.\n\r\
+2.   Asepresidentide järjestuse määrab nende valimise järjekord ja võrdse häälte arvu korral nende vanus, kui artikli 20 lõikes 1 ei ole sätestatud teisiti. \n\r\
 \n\r\
 Kui asepresidendid valitakse ühise heakskiitmise teel, määratakse nende järjestus salajasel hääletusel."
 },
@@ -326,9 +340,10 @@ Kui parlamendiliige vahetab fraktsiooni, säilitab ta kahe ja poole aasta pikkus
 {
 'id': 20,
 'title': 'Artikkel 20 : Vabaks jäävad ametikohad',
-'text': "1.   Kui presidendi, asepresidendi või kvestori ametikohale tuleb valida uus parlamendiliige, valitakse ametijärglane asjaomase ametikoha täitmiseks korraldavaid valimisi käsitlevate sätete alusel.\n\r\
+'text': "1.   Kui presidendi, asepresidendi või kvestori ametikohale tuleb valida uus parlamendiliige, valitakse ametijärglane asjaomase ametikoha täitmiseks korraldavaid valimisi käsitlevate sätete alusel. \n\r\
 \n\r\
 Uus asepresident asub asepresidentide järjestuses oma eelkäija kohale.\n\r\
+\n\r\
 \n\r\
 2.   Kui presidendi ametikoht jääb vabaks, täidab kuni uue presidendi valimiseni presidendi ülesandeid asepresident, kes määratakse vastavalt asepresidentide järjestusele."
 },
@@ -338,9 +353,9 @@ Uus asepresident asub asepresidentide järjestuses oma eelkäija kohale.\n\r\
 'text': "Võttes otsuse vastu antud häälte kolmeviiendikulise enamusega ja tingimusel, et esindatud on vähemalt kolm fraktsiooni, võib esimeeste konverents teha parlamendile ettepaneku lõpetada parlamendi presidendi, asepresidendi, kvestori, parlamendikomisjoni esimehe või aseesimehe, parlamentidevahelise delegatsiooni juhi või asejuhi või mõne muu parlamendis valitud ametikandja volitused, kui esimeeste konverents on arvamusel, et kõnealune parlamendiliige on süüdi rängas eksimuses. Parlament võtab otsuse kõnealuse ettepaneku kohta vastu antud häälte kahekolmandikulise enamusega ja parlamendi koosseisu häälteenamusega.\n\r\
 \n\r\
 Kui raportöör rikub kodukorrale lisatud Euroopa Parlamendi liikmete majanduslikke huve ja huvide konflikti käsitlevat käitumisjuhendit(1), võib komisjon, kes ta nimetas, esimehe algatusel ja esimeeste konverentsi ettepanekul lõpetada nimetatud volitused. Esimeses lõigus sätestatud häälteenamuse nõuet kohaldatakse vajalike muudatustega nimetatud menetluse igas etapis.\n\r\
-\n\r\
-\n\r\
-(1)	Vt I lisa."
+ \n\r\
+ \n\r\
+(1) Vt I lisa. "
 },
 {
 'id': 22,
@@ -392,9 +407,10 @@ Kui raportöör rikub kodukorrale lisatud Euroopa Parlamendi liikmete majandusli
 \n\r\
 8.   Juhatus võtab vastu suunised kvestoritele ja võib neilt nõuda teatud ülesannete täitmist.\n\r\
 \n\r\
-9.   Juhatuse pädevuses on anda komisjonidele luba korraldada koosolekuid ja lähetusi väljaspool tavapäraseid töökohti ja raportööridele luba viia läbi kuulamisi ning uurimis- ja teabekogumisreise.\n\r\
+9.   Juhatuse pädevuses on anda komisjonidele luba korraldada koosolekuid ja lähetusi väljaspool tavapäraseid töökohti ja raportööridele luba viia läbi kuulamisi ning uurimis- ja teabekogumisreise. \n\r\
 \n\r\
 Kui nimetatud koosolekute ja lähetuste korraldamise luba on antud, määratakse keelte kasutamise kord kindlaks vastavalt juhatuse vastu võetud mitmekeelsuse eeskirjale. Sama reegel kehtib ka delegatsioonide kohta.\n\r\
+\n\r\
 \n\r\
 10.   Juhatus nimetab vastavalt artiklile 222 ametisse peasekretäri.\n\r\
 \n\r\
@@ -417,7 +433,7 @@ Kui nimetatud koosolekute ja lähetuste korraldamise luba on antud, määratakse
 \n\r\
 2.   Parlamendi president palub ühel fraktsioonilise kuuluvuseta parlamendiliikmel, võimaldades fraktsioonilise kuuluvuseta parlamendiliikmetel eelnevalt oma arvamust avaldada, osaleda esimeeste konverentsi koosolekutel ilma hääleõiguseta.\n\r\
 \n\r\
-3.   Esimeeste konverents püüab talle lahendamiseks antud küsimustes saavutada konsensuse.\n\r\
+3.   Esimeeste konverents püüab talle lahendamiseks antud küsimustes saavutada konsensuse. \n\r\
 \n\r\
 Kui konsensust saavutada ei õnnestu, pannakse küsimus hääletusele; häältele kaalu omistamisel võetakse arvesse liikmete arvu igas fraktsioonis."
 },
@@ -471,10 +487,9 @@ Kui konsensust saavutada ei õnnestu, pannakse küsimus hääletusele; häältel
 \n\r\
 4.   Juhatus ja esimeeste konverents võivad anda delegatsioonide juhtide konverentsile teatavaid ülesandeid.\n\r\
 \n\r\
-\n\r\
 Artikkel 30a : Ametiülesannete jätkuv täitmine valimiste perioodil\n\r\
 \n\r\
-Kui parlamendi uus koosseis on valitud, jätkavad kõik ametist lahkuva koosseisu organid ja parlamendi ametikohtade täitjad oma ametikohal kuni parlamendi uue koosseisu esimese istungini."
+Kui parlamendi uus koosseis on valitud, jätkavad kõik ametist lahkuva koosseisu organid ja parlamendi ametikohtade täitjad oma ametikohal kuni parlamendi uue koosseisu esimese istungini. "
 },
 {
 'id': 31,
@@ -492,7 +507,7 @@ Tavaliselt ei ole parlamendil vaja hinnata fraktsiooni liikmete poliitiliste vaa
 \n\r\
 2.   Fraktsioon koosneb parlamendiliikmetest, kes on valitud vähemalt veerandist liikmesriikidest. Fraktsiooni moodustamiseks nõutav minimaalne parlamendiliikmete arv on 25.\n\r\
 \n\r\
-3.   Kui fraktsioon jääb väiksemaks ühest nõutud lävendist, võib president esimeeste konverentsi nõusolekul lubada fraktsioonil edasi tegutseda kuni parlamendi järgmise avaistungini, kui on täidetud järgmised tingimused:\n\r\
+3.   Kui fraktsioon jääb väiksemaks ühest nõutud lävendist, võib president esimeeste konverentsi nõusolekul lubada fraktsioonil edasi tegutseda kuni parlamendi järgmise avaistungini, kui on täidetud järgmised tingimused: \n\r\
 \n\r\
 -   fraktsiooni liikmed esindavad jätkuvalt vähemalt viiendikku liikmesriikidest;\n\r\
 \n\r\
@@ -500,13 +515,14 @@ Tavaliselt ei ole parlamendil vaja hinnata fraktsiooni liikmete poliitiliste vaa
 \n\r\
 President ei kohalda kõnealust erandit, kui on piisavalt alust kahtlustada selle kuritarvitamist.\n\r\
 \n\r\
+\n\r\
 4.   Parlamendiliige ei saa kuuluda rohkem kui ühte fraktsiooni.\n\r\
 \n\r\
 5.   Fraktsiooni moodustamise kohta tehakse presidendile avaldus. Avalduses näidatakse ära fraktsiooni nimi, selle liikmete ja juhatuse liikmete nimed. Avaldusele kirjutavad alla kõik fraktsiooni liikmed.\n\r\
 \n\r\
 6.   Fraktsiooni moodustamise avaldus lisatakse selle osaistungjärgu protokollile, mille käigus fraktsiooni loomisest teada anti.\n\r\
 \n\r\
-7.   President annab fraktsiooni moodustamisest täiskogu istungil teada. Nimetatud teadaandel on tagasiulatuv õiguslik mõju alates hetkest, mil fraktsioon vastavalt käesolevale artiklile oma moodustamisest presidenti teavitas.\n\r\
+7.   President annab fraktsiooni moodustamisest täiskogu istungil teada. Nimetatud teadaandel on tagasiulatuv õiguslik mõju alates hetkest, mil fraktsioon vastavalt käesolevale artiklile oma moodustamisest presidenti teavitas. \n\r\
 \n\r\
 President annab täiskogu istungil teada ka fraktsiooni tegevuse lõpetamisest. Teadaandel on õiguslik mõju alates päevast, mis järgneb päevale, mil fraktsiooni tegevuseks vajalikke tingimusi enam ei täidetud."
 },
@@ -549,23 +565,25 @@ President annab täiskogu istungil teada ka fraktsiooni tegevuse lõpetamisest. 
 {
 'id': 37,
 'title': 'Artikkel 37 : Iga-aastane programmitöö',
-'text': "1.   Parlament teeb liidu õigusloomekava koostamisel koostööd Euroopa Komisjoni ja nõukoguga.\n\r\
+'text': "1.   Parlament teeb liidu õigusloomekava koostamisel koostööd Euroopa Komisjoni ja nõukoguga. \n\r\
 \n\r\
 Parlament ja Euroopa Komisjon teevad Euroopa Komisjoni tööprogrammi – mis on Euroopa Komisjoni panus liidu tegevuse iga-aastasel ja mitmeaastasel kavandamisel – ettevalmistamisel koostööd vastavalt ajakavale ja korrale, milles need kaks institutsiooni on kokku leppinud(1).\n\r\
 \n\r\
-2.   Pärast Euroopa Komisjoni tööprogrammi vastuvõtmist vahetavad parlament, nõukogu ja Euroopa Komisjon vastavalt 13. aprilli 2016. aasta institutsioonidevahelise parema õigusloome kokkuleppe(2) punktile 7 arvamusi ja lepivad kokku institutsioonidevahelist iga-aastast programmitööd käsitlevas ühisavalduses, milles nähakse ette üldised eesmärgid ja prioriteedid.\n\r\
+\n\r\
+2.   Pärast Euroopa Komisjoni tööprogrammi vastuvõtmist vahetavad parlament, nõukogu ja Euroopa Komisjon vastavalt 13. aprilli 2016. aasta institutsioonidevahelise parema õigusloome kokkuleppe(2) punktile 7 arvamusi ja lepivad kokku institutsioonidevahelist iga-aastast programmitööd käsitlevas ühisavalduses, milles nähakse ette üldised eesmärgid ja prioriteedid. \n\r\
 \n\r\
 Enne nõukogu ja Euroopa Komisjoniga ühisavalduse üle läbirääkimiste pidamist korraldab president arvamuste vahetuse esimeeste konverentsi ja komisjonide esimeeste konverentsiga parlamendi üldiste eesmärkide ja prioriteetide üle.\n\r\
 \n\r\
 Enne ühisavalduse allakirjutamist taotleb president esimeeste konverentsi nõusolekut.\n\r\
+\n\r\
 \n\r\
 3.   President edastab kõik parlamendi poolt õigusloomekava koostamise ja prioriteetide kohta vastu võetud resolutsioonid teistele liidu seadusandlikus menetluses osalevatele institutsioonidele ja liikmesriikide parlamentidele.\n\r\
 \n\r\
 4.   Kui Euroopa Komisjon kavatseb ettepaneku tagasi võtta, kutsub vastutav komisjon Euroopa Komisjoni asjaomase voliniku koosolekule seda kavatsust arutama. Nimetatud koosolekule võib kutsuda ka nõukogu eesistuja. Kui vastutav komisjon ei nõustu kavandatud tagasivõtmisega, võib ta nõuda, et Euroopa Komisjon teeks parlamendile avalduse. Kohaldatakse artiklit 123.\n\r\
 \n\r\
 \n\r\
-(1)	Euroopa Parlamendi ja Euroopa Komisjoni suhete 20. oktoobri 2010. aasta raamkokkulepe (ELT L 304, 20.11.2010, lk 47).\n\r\
-(2)	Euroopa Parlamendi, Euroopa Liidu Nõukogu ja Euroopa Komisjoni vahel sõlmitud institutsioonidevaheline parema õigusloome kokkulepe (ELT L 123, 12.5.2016, lk 1)."
+(1) Euroopa Parlamendi ja Euroopa Komisjoni suhete 20. oktoobri 2010. aasta raamkokkulepe (ELT L 304, 20.11.2010, lk 47). \n\r\
+(2) Euroopa Parlamendi, Euroopa Liidu Nõukogu ja Euroopa Komisjoni vahel sõlmitud institutsioonidevaheline parema õigusloome kokkulepe (ELT L 123, 12.5.2016, lk 1). "
 },
 {
 'id': 38,
@@ -592,7 +610,7 @@ Enne ühisavalduse allakirjutamist taotleb president esimeeste konverentsi nõus
 5.   Kui valdkonna eest vastutav komisjon ega õigusasjade eest vastutav komisjon ei ole vaidlustanud õigusliku aluse õiguspärasust ega sobivust, jäetakse parlamendile esitatud muudatusettepanekud, mille eesmärk on muuta õiguslikku alust, tähelepanuta.\n\r\
 \n\r\
 \n\r\
-(1)	13. aprilli 2016. aasta institutsioonidevahelise parema õigusloome kokkuleppe punkt 25 (ELT L 123, 12.5.2016, lk 1)."
+(1) 13. aprilli 2016. aasta institutsioonidevahelise parema õigusloome kokkuleppe punkt 25 (ELT L 123, 12.5.2016, lk 1). "
 },
 {
 'id': 40,
@@ -631,7 +649,7 @@ Enne ühisavalduse allakirjutamist taotleb president esimeeste konverentsi nõus
 \n\r\
 5.   Kui põhjendatud arvamused selle kohta, et seadusandlik ettepanek ei vasta subsidiaarsuse põhimõttele, moodustavad vastavalt protokolli (nr 2) artikli 7 lõike 1 teisele lõigule vähemalt kolmandiku või Euroopa Liidu toimimise lepingu artikli 76 alusel esitatud seadusandliku ettepaneku puhul neljandiku riikide parlamentide häälte üldarvust, ei tee Euroopa Parlament otsust enne, kui ettepaneku koostaja on teada andnud, kuidas ta kavatseb edasi toimida.\n\r\
 \n\r\
-6.   Kui seadusandliku tavamenetluse raames esitatud põhjendatud arvamused seadusandliku ettepaneku mittevastavuse kohta subsidiaarsuse põhimõttele esindavad vastavalt protokolli (nr 2) artikli 7 lõike 1 teisele lõigule vähemalt riikide parlamentide häälte lihtenamust, võib valdkonna eest vastutav komisjon pärast riikide parlamentide ja Euroopa Komisjoni põhjendatud arvamustega tutvumist ning pärast subsidiaarsuse põhimõtte järgimise eest vastutava komisjoni seisukoha ärakuulamist soovitada Euroopa Parlamendil ettepaneku subsidiaarsuse põhimõtte rikkumise tõttu tagasi lükata või esitab parlamendile muu soovituse, mis võib sisaldada ettepanekuid subsidiaarsuse põhimõtte järgimisega seotud muudatusteks. Soovitusele lisatakse subsidiaarsuse põhimõtte järgimise eest vastutava komisjoni arvamus.\n\r\
+6.   Kui seadusandliku tavamenetluse raames esitatud põhjendatud arvamused seadusandliku ettepaneku mittevastavuse kohta subsidiaarsuse põhimõttele esindavad vastavalt protokolli (nr 2) artikli 7 lõike 1 teisele lõigule vähemalt riikide parlamentide häälte lihtenamust, võib valdkonna eest vastutav komisjon pärast riikide parlamentide ja Euroopa Komisjoni põhjendatud arvamustega tutvumist ning pärast subsidiaarsuse põhimõtte järgimise eest vastutava komisjoni seisukoha ärakuulamist soovitada Euroopa Parlamendil ettepaneku subsidiaarsuse põhimõtte rikkumise tõttu tagasi lükata või esitab parlamendile muu soovituse, mis võib sisaldada ettepanekuid subsidiaarsuse põhimõtte järgimisega seotud muudatusteks. Soovitusele lisatakse subsidiaarsuse põhimõtte järgimise eest vastutava komisjoni arvamus. \n\r\
 \n\r\
 Soovitus esitatakse Euroopa Parlamendile aruteluks ja hääletuseks. Kui soovitus lükata ettepanek tagasi võetakse antud häälte enamusega vastu, kuulutab president menetluse lõppenuks. Kui Euroopa Parlament ettepanekut tagasi ei lükka, menetlus jätkub, arvesse võetakse Euroopa Parlamendis heakskiidetud soovitusi."
 },
@@ -652,13 +670,14 @@ Soovitus esitatakse Euroopa Parlamendile aruteluks ja hääletuseks. Kui soovitu
 'title': 'Artikkel 45 : Parlamendi õigus esitada ettepanekuid',
 'text': "Kui aluslepingud annavad parlamendile algatusõiguse, võib vastutav komisjon otsustada koostada algatusraporti vastavalt artiklile 52.\n\r\
 \n\r\
-Raport sisaldab:\n\r\
+Raport sisaldab: \n\r\
 \n\r\
 (a)   resolutsiooni ettepanekut;\n\r\
 \n\r\
 (b)   ettepaneku projekti;\n\r\
 \n\r\
 (c)   seletuskirja, asjakohasel juhul koos finantskalkulatsiooniga.\n\r\
+\n\r\
 \n\r\
 Kui õigusakti vastuvõtmine parlamendis eeldab nõukogu heakskiitu või nõusolekut ja Euroopa Komisjoni arvamust või nõusolekut, võib parlament pärast esitatud õigusakti üle hääletamist ning raportööri ettepaneku põhjal võtta vastu otsuse lükata hääletus resolutsiooni ettepaneku üle edasi, kuni nõukogu või Euroopa Komisjon on esitanud oma seisukoha."
 },
@@ -667,7 +686,7 @@ Kui õigusakti vastuvõtmine parlamendis eeldab nõukogu heakskiitu või nõusol
 'title': 'Artikkel 46 : Euroopa Komisjonilt ettepaneku esitamise taotlemine',
 'text': "1.   Parlament võib Euroopa Liidu toimimise lepingu artikli 225 alusel taotleda, et Euroopa Komisjon esitaks talle asjakohase ettepaneku uue õigusakti vastuvõtmiseks või kehtiva õigusakti muutmiseks. Selleks võtab parlament vastu resolutsiooni vastutava komisjoni poolt vastavalt artiklile 52 koostatud algatusraporti alusel. Resolutsioon võetakse lõpphääletusel vastu parlamendi liikmete häälteenamusega. Ühtlasi võib parlament määrata ettepaneku esitamiseks tähtaja.\n\r\
 \n\r\
-2.   Parlamendiliige võib vastavalt Euroopa Liidu toimimise lepingu artiklile 225 parlamendile antud algatusõiguse raames esitada liidu õigusakti ettepaneku.\n\r\
+2.   Parlamendiliige võib vastavalt Euroopa Liidu toimimise lepingu artiklile 225 parlamendile antud algatusõiguse raames esitada liidu õigusakti ettepaneku. \n\r\
 \n\r\
 Ettepaneku võivad esitada ühiselt kuni kümme parlamendiliiget. Ettepanekus märgitakse õiguslik alus, millel see põhineb, ja ettepanekule võib lisada kuni 150 sõna pikkuse seletuskirja.\n\r\
 \n\r\
@@ -678,6 +697,7 @@ Enne valdkonna eest vastutavale komisjonile edastamist tõlgitakse ettepanek nen
 Valdkonna eest vastutav komisjon teeb otsuse edasise menetluse kohta kolme kuu jooksul alates ettepaneku edastamisest ja pärast seda, kui ettepaneku koostajatele on antud võimalus tutvustada komisjonile oma seisukohti.\n\r\
 \n\r\
 Ettepaneku koostajaid mainitakse raporti pealkirjas nimeliselt.\n\r\
+\n\r\
 \n\r\
 3.   Parlamendi resolutsioonis märgitakse õigusakti õige õiguslik alus ja sellele lisatakse soovitused taotletava ettepaneku sisu kohta.\n\r\
 \n\r\
@@ -697,7 +717,6 @@ Ettepaneku koostajaid mainitakse raporti pealkirjas nimeliselt.\n\r\
 3.   Vastutav komisjon võib igal ajal otsustada määrata raportööri, kes jälgib ettepaneku ettevalmistamist. Raportööri määramist kaalutakse eelkõige juhul, kui ettepanek on kantud Euroopa Komisjoni tööprogrammi.\n\r\
 \n\r\
 4.   Kui teist ja kolmandat lugemist käsitleva kodukorra sätte ning kodukorra mõne muu sätte vahel ilmneb vastuolu, kohaldatakse teist ja kolmandat lugemist käsitlevat sätet.\n\r\
-\n\r\
 \n\r\
 Artikkel 47a : Seadusandlike menetluste kiirendamine\n\r\
 \n\r\
@@ -719,7 +738,7 @@ Vastutav komisjon või vastutavad komisjonid võivad kokku leppida, et koostöö
 \n\r\
 2.   Pärast menetluse üle otsustamist ja eeldusel, et ei kohaldata artikli 50 kohast lihtsustatud menetlust, määrab komisjon oma liikmete või nende alaliste asendusliikmete hulgast õiguslikult siduvale ettepanekule raportööri, kui ta ei ole artikli 47 lõike 3 alusel juba eelnevalt raportööri määranud.\n\r\
 \n\r\
-3.   Komisjoni raport sisaldab:\n\r\
+3.   Komisjoni raport sisaldab: \n\r\
 \n\r\
 (a)   ettepaneku võimalikke muudatusettepanekuid, millele on asjakohasel juhul lisatud lühikesed selgitused, mille koostamise eest vastutab autor ja mida ei panda hääletusele;\n\r\
 \n\r\
@@ -734,11 +753,12 @@ Vastutav komisjon või vastutavad komisjonid võivad kokku leppida, et koostöö
 'title': 'Artikkel 50 : Lihtsustatud menetlus',
 'text': "1.   Pärast õiguslikult siduva ettepaneku esimese arutelu lõppu võib komisjoni esimees teha ettepaneku võtta see muudatusteta vastu. Kui parlamendiliikmed või fraktsioon(id) vastavalt vähemalt keskmisele lävendile komisjonis ei esita vastuväiteid, loetakse lihtsustatud menetlus heakskiidetuks. Esimees või raportöör, kui ta on määratud, esitab parlamendile raporti, milles kiidetakse ettepanek heaks. Kohaldatakse artikli 150 lõike 1 teist lõiku ning lõikeid 2 ja 4.\n\r\
 \n\r\
-2.   Teise võimalusena võib komisjoni esimees teha ettepaneku, et tema ise või raportöör töötab seadusandliku ettepaneku kohta välja muudatusettepanekud, mis kajastavad komisjonis toimunud arutelu. Kui parlamendiliikmed või fraktsioon(id) vastavalt vähemalt keskmisele lävendile komisjonis ei esita vastuväiteid, loetakse menetlus heakskiidetuks ja muudatusettepanekud saadetakse komisjoni liikmetele.\n\r\
+2.   Teise võimalusena võib komisjoni esimees teha ettepaneku, et tema ise või raportöör töötab seadusandliku ettepaneku kohta välja muudatusettepanekud, mis kajastavad komisjonis toimunud arutelu. Kui parlamendiliikmed või fraktsioon(id) vastavalt vähemalt keskmisele lävendile komisjonis ei esita vastuväiteid, loetakse menetlus heakskiidetuks ja muudatusettepanekud saadetakse komisjoni liikmetele. \n\r\
 \n\r\
 Kui parlamendiliikmed või fraktsioon(id) vastavalt vähemalt keskmisele lävendile komisjonis ei esita muudatusettepanekute kohta kindlaksmääratud tähtaja (mis ei tohi olla lühem kui 10 tööpäeva alates muudatusettepanekute saatmisest) jooksul vastuväiteid, loetakse raport komisjonis vastuvõetuks. Sellisel juhul esitatakse seadusandliku resolutsiooni projekt ja muudatusettepanekud artikli 150 lõike 1 teise lõigu ning lõigete 2 ja 4 kohaselt parlamendile ilma aruteluta.\n\r\
 \n\r\
 Kui parlamendiliikmed või fraktsioon(id) vastavalt vähemalt keskmisele lävendile komisjonis esitavad muudatusettepanekute kohta vastuväiteid, pannakse muudatusettepanekud järgmisel komisjoni koosolekul hääletusele.\n\r\
+\n\r\
 \n\r\
 3.   Käesolevat artiklit, välja arvatud parlamendile esitamist käsitlevaid sätteid, kohaldatakse vajalike muudatustega komisjonide arvamuste suhtes artikli 53 tähenduses."
 },
@@ -747,7 +767,7 @@ Kui parlamendiliikmed või fraktsioon(id) vastavalt vähemalt keskmisele lävend
 'title': 'Artikkel 51 : Muud kui seadusandlikud raportid',
 'text': "1.   Kui komisjon töötab välja muu kui seadusandliku raporti, määrab ta oma liikmete või alaliste asendusliikmete hulgast raportööri.\n\r\
 \n\r\
-2.   Komisjoni raport sisaldab:\n\r\
+2.   Komisjoni raport sisaldab: \n\r\
 \n\r\
 (a)   resolutsiooni ettepanekut;\n\r\
 \n\r\
@@ -758,13 +778,15 @@ Kui parlamendiliikmed või fraktsioon(id) vastavalt vähemalt keskmisele lävend
 {
 'id': 52,
 'title': 'Artikkel 52 : Algatusraportid',
-'text': "1.   Kui komisjon kavatseb koostada muu kui seadusandliku raporti või artikli 45 või 46 kohase raporti oma pädevusse kuuluvas küsimuses, mille kohta ei ole ettepanekut edastatud, on komisjonil selleks vaja esimeeste konverentsi luba.\n\r\
+'text': "1.   Kui komisjon kavatseb koostada muu kui seadusandliku raporti või artikli 45 või 46 kohase raporti oma pädevusse kuuluvas küsimuses, mille kohta ei ole ettepanekut edastatud, on komisjonil selleks vaja esimeeste konverentsi luba. \n\r\
 \n\r\
 Esimeeste konverents teeb otsuse esimese lõigu kohaselt esitatud raporti koostamise loa saamise taotluste kohta vastavalt rakendussätetele, mille ta ise kehtestab.\n\r\
 \n\r\
-2.   Kui esimeeste konverents otsustab loa andmisest keelduda, peab ta seda põhjendama.\n\r\
+\n\r\
+2.   Kui esimeeste konverents otsustab loa andmisest keelduda, peab ta seda põhjendama. \n\r\
 \n\r\
 Kui raporti teema kuulub artiklis 45 osutatud parlamendi algatusõiguse alla, võib esimeeste konverents otsustada loa andmisest keelduda ainult juhul kui aluslepingutes sätestatud tingimused ei ole täidetud.\n\r\
+\n\r\
 \n\r\
 3.   Artiklites 45 ja 46 osutatud juhtudel teeb esimeeste konverents otsuse kahe kuu jooksul.\n\r\
 \n\r\
@@ -773,9 +795,8 @@ Kui raporti teema kuulub artiklis 45 osutatud parlamendi algatusõiguse alla, v�
 5.   Lõiget 4 ei kohaldata, kui raporti teema kuulub täiskogul arutatavate olulise tähtsusega küsimuste hulka, kui raport koostatakse artiklis 45 või 46 osutatud algatusõiguse kohaselt või kui on antud luba koostada raport strateegiaraportina(1).\n\r\
 \n\r\
 \n\r\
-(1)	Vt esimeeste konverentsi asjakohast otsust.\n\r\
-\n\r\
-\n\r\
+(1) Vt esimeeste konverentsi asjakohast otsust. \n\r\
+ \n\r\
 Artikkel 52a : Raporti koostamine\n\r\
 \n\r\
 1.   Raportöör vastutab komisjoni raporti koostamise ja selle komisjoni nimel parlamendile esitamise eest.\n\r\
@@ -784,9 +805,10 @@ Artikkel 52a : Raporti koostamine\n\r\
 \n\r\
 3.   Raportis esitatakse kogu raporti üle toimunud hääletuse tulemus ja märgitakse kooskõlas artikli 208 lõikega 3, kuidas iga üksik liige hääletas.\n\r\
 \n\r\
-4.   Vähemuse seisukohad võib esitada kogu teksti hääletusele panemise ajal ja vähemuse seisukohtade koostajate taotlusel võib need vormistada kuni 200 sõna sisaldava kirjaliku deklaratsioonina, mis lisatakse seletuskirja juurde.\n\r\
+4.   Vähemuse seisukohad võib esitada kogu teksti hääletusele panemise ajal ja vähemuse seisukohtade koostajate taotlusel võib need vormistada kuni 200 sõna sisaldava kirjaliku deklaratsioonina, mis lisatakse seletuskirja juurde. \n\r\
 \n\r\
 Käesoleva lõike kohaldamisel tekkinud vaidlused lahendab komisjoni esimees.\n\r\
+\n\r\
 \n\r\
 5.   Komisjon võib komisjoni esimehe ettepanekul määrata kindlaks tähtaja, mille jooksul peab raportöör esitama raporti projekti. Tähtaega võib pikendada, samuti võib komisjon määrata uue raportööri.\n\r\
 \n\r\
@@ -795,17 +817,19 @@ Käesoleva lõike kohaldamisel tekkinud vaidlused lahendab komisjoni esimees.\n\
 {
 'id': 53,
 'title': 'Artikkel 53 : Komisjonide arvamused',
-'text': "1.   Kui komisjon, kellele parlament asja algselt läbivaatamiseks edastas, soovib kuulda teise komisjoni arvamust või kui mõni teine komisjon soovib avaldada arvamust komisjonile, kellele küsimus algselt läbivaatamiseks edastati, võib ta esitada parlamendi presidendile taotluse määrata artikli 201 lõike 2 alusel üks komisjon vastutavaks komisjoniks ja teine nõuandvaks komisjoniks.\n\r\
+'text': "1.   Kui komisjon, kellele parlament asja algselt läbivaatamiseks edastas, soovib kuulda teise komisjoni arvamust või kui mõni teine komisjon soovib avaldada arvamust komisjonile, kellele küsimus algselt läbivaatamiseks edastati, võib ta esitada parlamendi presidendile taotluse määrata artikli 201 lõike 2 alusel üks komisjon vastutavaks komisjoniks ja teine nõuandvaks komisjoniks. \n\r\
 \n\r\
 Nõuandev komisjon võib määrata oma liikmete või alaliste asendusliikmete hulgast arvamuse koostaja või esitada oma arvamuse esimehe saadetava kirja vormis.\n\r\
 \n\r\
-2.   Kui arvamus puudutab õiguslikult siduva akti ettepanekut, koosneb arvamus komisjonile edastatud teksti muudatusettepanekutest, millele on asjakohasel juhul lisatud lühikesed selgitused. Selgituste eest vastutab nende autor ja neid ei panda hääletusele. Vajaduse korral võib nõuandev komisjon lisada ka kirjaliku lühiselgituse arvamuse kohta tervikuna. Kirjaliku lühiselgituse koostamise eest vastutab arvamuse koostaja.\n\r\
+\n\r\
+2.   Kui arvamus puudutab õiguslikult siduva akti ettepanekut, koosneb arvamus komisjonile edastatud teksti muudatusettepanekutest, millele on asjakohasel juhul lisatud lühikesed selgitused. Selgituste eest vastutab nende autor ja neid ei panda hääletusele. Vajaduse korral võib nõuandev komisjon lisada ka kirjaliku lühiselgituse arvamuse kohta tervikuna. Kirjaliku lühiselgituse koostamise eest vastutab arvamuse koostaja. \n\r\
 \n\r\
 Kui arvamus ei puuduta õiguslikult siduva akti ettepanekut, koosneb arvamus ettepanekutest vastutava komisjoni esitatud resolutsiooni ettepaneku osade kohta.\n\r\
 \n\r\
 Vastutav komisjon paneb muudatusettepanekud või ettepanekud hääletusele.\n\r\
 \n\r\
 Nõuandev komisjon käsitleb arvamuses ainult neid teemasid, mis kuuluvad tema vastutusalasse.\n\r\
+\n\r\
 \n\r\
 3.   Vastutav komisjon määrab kindlaks tähtaja, mille jooksul nõuandev komisjon peab esitama arvamuse, et vastutav komisjon saaks seda arvesse võtta. Väljakuulutatud ajakavas tehtavatest muudatustest teavitab vastutav komisjon viivitamatult nõuandvat komisjoni või nõuandvaid komisjone. Enne tähtaja möödumist vastutav komisjon lõplikke järeldusi ei tee.\n\r\
 \n\r\
@@ -822,7 +846,7 @@ Nõuandev komisjon käsitleb arvamuses ainult neid teemasid, mis kuuluvad tema v
 {
 'id': 54,
 'title': 'Artikkel 54 : Kaasatud komisjoni menetlus',
-'text': "1.   Kui esimeeste konverentsile on edastatud küsimus pädevuse kohta artikli 201a kohaselt ja esimeeste konverents on V lisa põhjal arvamusel, et valdkond kuulub peaaegu võrdselt kahe või enama komisjoni pädevusse või valdkonna eri osad kuuluvad kahe või enama komisjoni pädevusse, kohaldatakse artiklit 53 koos järgmiste täiendavate sätetega:\n\r\
+'text': "1.   Kui esimeeste konverentsile on edastatud küsimus pädevuse kohta artikli 201a kohaselt ja esimeeste konverents on V lisa põhjal arvamusel, et valdkond kuulub peaaegu võrdselt kahe või enama komisjoni pädevusse või valdkonna eri osad kuuluvad kahe või enama komisjoni pädevusse, kohaldatakse artiklit 53 koos järgmiste täiendavate sätetega: \n\r\
 \n\r\
 -   asjaomased komisjonid lepivad ühiselt kokku ajakava;\n\r\
 \n\r\
@@ -834,6 +858,7 @@ Nõuandev komisjon käsitleb arvamuses ainult neid teemasid, mis kuuluvad tema v
 \n\r\
 -   kui ettepaneku osas toimub lepitusmenetlus, arvatakse kaasatud komisjonide raportöörid parlamendi delegatsiooni.\n\r\
 \n\r\
+\n\r\
 Esimeeste konverentsi otsust kaasatud komisjoni menetluse kohta kohaldatakse kõnealuse menetluse kõigile etappidele.\n\r\
 \n\r\
 Vastutava komisjoni staatusega seotud õigusi teostab juhtiv komisjon. Oma õiguste teostamisel arvestab juhtiv komisjon kaasatud komisjoni eriõigusi. Eelkõige peab juhtiv komisjon järgima lojaalse koostöö kohustust seoses ajakavaga ning kaasatud komisjoni õigust teha otsus tema ainupädevusse kuuluvate muudatusettepanekute kohta, mis esitatakse täiskogule.\n\r\
@@ -843,17 +868,19 @@ Vastutava komisjoni staatusega seotud õigusi teostab juhtiv komisjon. Oma õigu
 {
 'id': 55,
 'title': 'Artikkel 55 : Komisjonide ühismenetlus',
-'text': "1.   Esimeeste konverents võib juhul, kui tema poole pöördutakse  pädevusküsimuses artikli 201a alusel, otsustada, et kohaldatakse komisjonide ühiste koosolekute ja ühise hääletusega menetlust, kui:\n\r\
+'text': "1.   Esimeeste konverents võib juhul, kui tema poole pöördutakse  pädevusküsimuses artikli 201a alusel, otsustada, et kohaldatakse komisjonide ühiste koosolekute ja ühise hääletusega menetlust, kui: \n\r\
 \n\r\
--   valdkond on V lisa alusel lahutamatult seotud mitme komisjoni vastutusalaga ning\n\r\
+-   valdkond on V lisa alusel lahutamatult seotud mitme komisjoni vastutusalaga ning \n\r\
 \n\r\
 -   esimeeste konverents leiab, et tegemist on väga olulise küsimusega.\n\r\
 \n\r\
-2.   Sellisel juhul koostavad vastavad raportöörid üheainsa raporti projekti, mille asjaomased komisjonid vaatavad läbi ja mis pannakse hääletusele asjaomaste komisjonide esimeeste ühisel juhtimisel.\n\r\
+\n\r\
+2.   Sellisel juhul koostavad vastavad raportöörid üheainsa raporti projekti, mille asjaomased komisjonid vaatavad läbi ja mis pannakse hääletusele asjaomaste komisjonide esimeeste ühisel juhtimisel. \n\r\
 \n\r\
 Kõikides menetlusetappides võivad vastutava komisjoni staatusega kaasnevaid õigusi kasutada ainult need asjaomased komisjonid, kes tegutsevad ühiselt. Asjaomased komisjonid võivad moodustada töörühmi koosolekute ja hääletuste ettevalmistamiseks.\n\r\
 \n\r\
-3.   Seadusandliku tavamenetluse teisel lugemisel vaadatakse nõukogu seisukoht läbi asjaomaste komisjonide ühisel koosolekul, mis asjaomaste komisjonide esimeeste kokkuleppe puudumisel toimub nõukogu seisukoha parlamendile edastamisele järgneva esimese parlamendi organite koosolekuteks ettenähtud nädala kolmapäeval. Kui järgmist koosolekut ei ole kokku lepitud, kutsub selle kokku komisjonide esimeeste konverentsi esimees. Soovitus teisele lugemisele pannakse hääletusele ühisel koosolekul asjaomaste komisjonide raportööride koostatud ühise teksti alusel või selle puudumisel asjaomaste komisjonide esitatud muudatusettepanekute alusel.\n\r\
+\n\r\
+3.   Seadusandliku tavamenetluse teisel lugemisel vaadatakse nõukogu seisukoht läbi asjaomaste komisjonide ühisel koosolekul, mis asjaomaste komisjonide esimeeste kokkuleppe puudumisel toimub nõukogu seisukoha parlamendile edastamisele järgneva esimese parlamendi organite koosolekuteks ettenähtud nädala kolmapäeval. Kui järgmist koosolekut ei ole kokku lepitud, kutsub selle kokku komisjonide esimeeste konverentsi esimees. Soovitus teisele lugemisele pannakse hääletusele ühisel koosolekul asjaomaste komisjonide raportööride koostatud ühise teksti alusel või selle puudumisel asjaomaste komisjonide esitatud muudatusettepanekute alusel. \n\r\
 \n\r\
 Seadusandliku tavamenetluse kolmandal lugemisel kuuluvad asjaomaste komisjonide esimehed ja raportöörid lepituskomitee delegatsiooni ametiülesannetest tulenevalt."
 },
@@ -877,7 +904,7 @@ Seadusandliku tavamenetluse kolmandal lugemisel kuuluvad asjaomaste komisjonide 
 'title': 'Artikkel 59 : Esimese lugemise hääletus parlamendis',
 'text': "1.   Parlament võib seadusandliku akti eelnõu heaks kiita, seda muuta või selle tagasi lükata.\n\r\
 \n\r\
-2.   Kõigepealt pannakse parlamendis hääletusele vastutava komisjoni, fraktsiooni või vähemalt miinimumlävendile vastava arvu parlamendiliikmete kirjalikult esitatud  ettepanekud  seadusandliku akti eelnõu viivitamata tagasilükkamiseks.\n\r\
+2.   Kõigepealt pannakse parlamendis hääletusele vastutava komisjoni, fraktsiooni või vähemalt miinimumlävendile vastava arvu parlamendiliikmete kirjalikult esitatud  ettepanekud  seadusandliku akti eelnõu viivitamata tagasilükkamiseks. \n\r\
 \n\r\
 Tagasilükkamise ettepaneku vastuvõtmise korral palub president seadusandliku akti eelnõu esitanud institutsioonil eelnõu tagasi võtta.\n\r\
 \n\r\
@@ -887,13 +914,15 @@ Kui eelnõu esitanud institutsioon ei võta seadusandliku akti eelnõu tagasi, t
 \n\r\
 Kui tagasilükkamise ettepanekut vastu ei võeta, jätkab parlament menetlust vastavalt lõigetele 3–5.\n\r\
 \n\r\
-3.   Eelisjärjekorras pannakse ühele hääletusele esialgsed kokkulepped, mille vastutav komisjon on esitanud vastavalt artikli 69f lõikele 4, välja arvatud juhul, kui parlament otsustab vastavalt lõikele 4 panna fraktsiooni või vähemalt miinimumlävendile vastava arvu parlamendiliikmete taotlusel selle asemel hääletusele muudatusettepanekud. Sellisel juhul otsustab parlament ka seda, kas muudatusettepanekud pannakse hääletusele kohe. Vastasel juhul kehtestab parlament muudatusettepanekute jaoks uue tähtaja ja hääletamine toimub mõnel edaspidisel istungil.\n\r\
+\n\r\
+3.   Eelisjärjekorras pannakse ühele hääletusele esialgsed kokkulepped, mille vastutav komisjon on esitanud vastavalt artikli 69f lõikele 4, välja arvatud juhul, kui parlament otsustab vastavalt lõikele 4 panna fraktsiooni või vähemalt miinimumlävendile vastava arvu parlamendiliikmete taotlusel selle asemel hääletusele muudatusettepanekud. Sellisel juhul otsustab parlament ka seda, kas muudatusettepanekud pannakse hääletusele kohe. Vastasel juhul kehtestab parlament muudatusettepanekute jaoks uue tähtaja ja hääletamine toimub mõnel edaspidisel istungil. \n\r\
 \n\r\
 Kui esialgne kokkulepe võetakse ühel hääletusel vastu, teeb president teatavaks, et parlamendi esimene lugemine on lõppenud.\n\r\
 \n\r\
 Kui esialgset kokkulepet ei võeta antud häälte enamusega ühel hääletusel vastu, määrab president seadusandliku akti eelnõule muudatusettepanekute esitamiseks uue tähtaja. Muudatusettepanekud pannakse parlamendi esimese lugemise lõpetamiseks hääletusele mõnel edaspidisel istungil.\n\r\
 \n\r\
-4.   Seejärel pannakse hääletusele seadusandliku akti eelnõu käsitlevad muudatusettepanekud, sh vajaduse korral esialgse kokkuleppe üksikud osad, kui on esitatud taotlus osade kaupa või eraldi hääletuseks või kui on esitatud konkureerivaid muudatusettepanekuid, välja arvatud juhul, kui vastavalt lõikele 2 on vastu võetud tagasilükkamise ettepanek või vastavalt lõikele 3 on vastu võetud esialgne kokkulepe.\n\r\
+\n\r\
+4.   Seejärel pannakse hääletusele seadusandliku akti eelnõu käsitlevad muudatusettepanekud, sh vajaduse korral esialgse kokkuleppe üksikud osad, kui on esitatud taotlus osade kaupa või eraldi hääletuseks või kui on esitatud konkureerivaid muudatusettepanekuid, välja arvatud juhul, kui vastavalt lõikele 2 on vastu võetud tagasilükkamise ettepanek või vastavalt lõikele 3 on vastu võetud esialgne kokkulepe. \n\r\
 \n\r\
 Enne kui parlament hääletab muudatusettepanekuid, võib president paluda Euroopa Komisjonil esitada nende kohta oma seisukoht ja nõukogul oma kommentaarid.\n\r\
 \n\r\
@@ -903,10 +932,10 @@ Kui seadusandliku akti eelnõu võetakse muudetud või muutmata kujul vastu, tee
 \n\r\
 Kui seadusandliku akti eelnõu ei võeta antud häälte enamusega muutmata või muudetud kujul vastu, teeb president teatavaks, et esimene lugemine on lõppenud, välja arvatud juhul, kui parlament otsustab vastutava komisjoni esimehe või raportööri või fraktsiooni või vähemalt miinimumlävendile vastava arvu parlamendiliikmete ettepanekul saata eelnõu vastutavale komisjonile uuesti läbivaatamiseks.\n\r\
 \n\r\
-5.   Pärast lõigete 2–4 kohaseid hääletusi ja nendele järgnevaid seadusandliku resolutsiooni projekti kohta esitatud võimalikke menetluslikke taotlusi puudutavate muudatusettepanekute hääletamist loetakse seadusandlik resolutsioon vastuvõetuks. Vajaduse korral muudetakse seadusandlikku resolutsiooni vastavalt artikli 193 lõikele 2, et võtta arvesse lõigete 2–4 kohaselt toimunud hääletuste tulemus.\n\r\
+\n\r\
+5.   Pärast lõigete 2–4 kohaseid hääletusi ja nendele järgnevaid seadusandliku resolutsiooni projekti kohta esitatud võimalikke menetluslikke taotlusi puudutavate muudatusettepanekute hääletamist loetakse seadusandlik resolutsioon vastuvõetuks. Vajaduse korral muudetakse seadusandlikku resolutsiooni vastavalt artikli 193 lõikele 2, et võtta arvesse lõigete 2–4 kohaselt toimunud hääletuste tulemus. \n\r\
 \n\r\
 President edastab seadusandliku resolutsiooni teksti ja parlamendi seisukoha nõukogule ja Euroopa Komisjonile ning juhul, kui seadusandliku akti eelnõu esitas liikmesriikide rühm, Euroopa Kohus või Euroopa Keskpank, ka eelnõu esitajale.\n\r\
-\n\r\
 \n\r\
 Artikkel 59a : Tagasisaatmine vastutavale komisjonile\n\r\
 \n\r\
@@ -934,7 +963,7 @@ Parlament võib otsustada, et pärast raporti vastuvõtmist vastutavas komisjoni
 {
 'id': 63,
 'title': 'Artikkel 63 : Ettepaneku uuesti menetlemine parlamendis',
-'text': "1.   Vastutava komisjoni taotlusel palub president Euroopa Komisjonil saata oma ettepanek parlamendile uueks läbivaatamiseks juhul, kui\n\r\
+'text': "1.   Vastutava komisjoni taotlusel palub president Euroopa Komisjonil saata oma ettepanek parlamendile uueks läbivaatamiseks juhul, kui \n\r\
 \n\r\
 -   Euroopa Komisjon pärast seda, kui parlament on oma seisukoha vastu võtnud, asendab oma esialgse ettepaneku uue ettepanekuga, muudab seda oluliselt või kavatseb seda oluliselt muuta, välja arvatud juhul, kui seda tehakse parlamendi seisukoha arvestamiseks,\n\r\
 \n\r\
@@ -942,10 +971,10 @@ Parlament võib otsustada, et pärast raporti vastuvõtmist vastutavas komisjoni
 \n\r\
 -   pärast parlamendi seisukoha esitamist on toimunud uued parlamendivalimised ja esimeeste konverents peab ettepaneku uuesti läbivaatamist soovitavaks.\n\r\
 \n\r\
+\n\r\
 2.   Kui kavas on muuta ettepaneku õiguslikku alust, mille tõttu seadusandlikku tavamenetlust enam ei kohaldata, arutavad parlamendi president, nõukogu eesistuja ja Euroopa Komisjoni president või nende esindajad seda vastavalt paremat õigusloomet käsitleva institutsioonidevahelise kokkuleppe punktile 25.\n\r\
 \n\r\
 3.   Kui Euroopa Komisjon või nõukogu kavatseb parlamendi esimese lugemise seisukohas sisalduvat õiguslikku alust muuta nii, et seadusandlikku tavamenetlust enam ei kohaldata, palub president vastutava komisjoni taotlusel pärast lõikes 2 osutatud arutamist nõukogul saata õiguslikult siduva akti eelnõu parlamendile uuesti läbivaatamiseks.\n\r\
-\n\r\
 \n\r\
 Artikkel 63a : Esimese lugemise kokkulepe\n\r\
 \n\r\
@@ -987,30 +1016,33 @@ Enne teatavakstegemist teeb president, pärast konsulteerimist vastutava komisjo
 'title': 'Artikkel 67 : Esitamine parlamendile',
 'text': "Nõukogu seisukoht ja vastutava komisjoni soovitus teisele lugemisele (kui see on olemas) kantakse automaatselt selle osaistungjärgu päevakorra projekti, mille kolmapäev eelneb ja on kõige lähemal kolmekuuse tähtaja või juhul, kui tähtaega pikendatakse artikli 65 alusel, neljakuuse tähtaja möödumise kuupäevale, välja arvatud juhul, kui selle küsimusega on tegeletud mõnel varasemal osaistungjärgul.\n\r\
 \n\r\
-\n\r\
 Artikkel 67a : Teise lugemise hääletus parlamendis\n\r\
 \n\r\
-1.   Kõigepealt pannakse parlamendis hääletusele vastutava komisjoni, fraktsiooni või vähemalt miinimumlävendile vastava arvu parlamendiliikmete kirjalikult esitatud ettepanekud nõukogu seisukoha viivitamata tagasilükkamiseks. Tagasilükkamise ettepaneku vastuvõtmiseks on vaja parlamendi liikmete häälteenamust.\n\r\
+1.   Kõigepealt pannakse parlamendis hääletusele vastutava komisjoni, fraktsiooni või vähemalt miinimumlävendile vastava arvu parlamendiliikmete kirjalikult esitatud ettepanekud nõukogu seisukoha viivitamata tagasilükkamiseks. Tagasilükkamise ettepaneku vastuvõtmiseks on vaja parlamendi liikmete häälteenamust. \n\r\
 \n\r\
 Kui tagasilükkamise ettepanek võetakse vastu, lükatakse nõukogu seisukoht tagasi ja president kuulutab parlamendis seadusandliku menetluse lõppenuks.\n\r\
 \n\r\
 Kui kõnealust tagasilükkamise ettepanekut vastu ei võeta, jätkab parlament menetlust vastavalt lõigetele 2–5.\n\r\
 \n\r\
-2.   Eelisjärjekorras pannakse ühele hääletusele esialgsed kokkulepped, mille vastutav komisjon on esitanud vastavalt artikli 69f lõikele 4, välja arvatud juhul, kui parlament otsustab vastavalt lõikele 3 panna fraktsiooni või vähemalt miinimumlävendile vastava arvu parlamendiliikmete taotlusel viivitamata hääletusele muudatusettepanekud.\n\r\
+\n\r\
+2.   Eelisjärjekorras pannakse ühele hääletusele esialgsed kokkulepped, mille vastutav komisjon on esitanud vastavalt artikli 69f lõikele 4, välja arvatud juhul, kui parlament otsustab vastavalt lõikele 3 panna fraktsiooni või vähemalt miinimumlävendile vastava arvu parlamendiliikmete taotlusel viivitamata hääletusele muudatusettepanekud. \n\r\
 \n\r\
 Kui esialgne kokkulepe võetakse parlamendi liikmete häälteenamusega ühel hääletusel vastu, teeb president parlamendis teatavaks, et parlamendi teine lugemine on lõppenud.\n\r\
 \n\r\
 Kui esialgset kokkulepet ei võeta parlamendi liikmete häälteenamusega ühel hääletusel vastu, jätkab parlament menetlust vastavalt lõigetele 3–5.\n\r\
 \n\r\
-3.   Seejärel pannakse hääletusele nõukogu seisukohale esitatud muudatusettepanekud, sh need, mis sisaldusid vastutava komisjoni poolt vastavalt artikli 69f lõikele 4 esitatud esialgses kokkuleppes, välja arvatud juhul, kui vastavalt lõikele 1 on vastu võetud tagasilükkamise ettepanek või kui vastavalt lõikele 2 on vastu võetud esialgne kokkulepe. Nõukogu seisukohale esitatud muudatusettepanekud võetakse vastu parlamendi liikmete häälteenamusega.\n\r\
+\n\r\
+3.   Seejärel pannakse hääletusele nõukogu seisukohale esitatud muudatusettepanekud, sh need, mis sisaldusid vastutava komisjoni poolt vastavalt artikli 69f lõikele 4 esitatud esialgses kokkuleppes, välja arvatud juhul, kui vastavalt lõikele 1 on vastu võetud tagasilükkamise ettepanek või kui vastavalt lõikele 2 on vastu võetud esialgne kokkulepe. Nõukogu seisukohale esitatud muudatusettepanekud võetakse vastu parlamendi liikmete häälteenamusega. \n\r\
 \n\r\
 Enne muudatusettepanekute hääletamist võib president paluda Euroopa Komisjonil esitada nende kohta oma seisukoha ja nõukogul oma kommentaarid.\n\r\
 \n\r\
-4.   Isegi kui parlament hääletab lõike 1 kohaselt nõukogu seisukoha tagasilükkamise algse ettepaneku vastu, võib parlament vastutava komisjoni esimehe või raportööri või fraktsiooni või vähemalt miinimumlävendile vastava arvu parlamendiliikmete ettepanekul arutada järgmist tagasilükkamise ettepanekut pärast muudatusettepanekute hääletamist vastavalt lõikele 2 või 3. Sellise ettepaneku vastuvõtmiseks on vaja parlamendi liikmete enamust.\n\r\
+\n\r\
+4.   Isegi kui parlament hääletab lõike 1 kohaselt nõukogu seisukoha tagasilükkamise algse ettepaneku vastu, võib parlament vastutava komisjoni esimehe või raportööri või fraktsiooni või vähemalt miinimumlävendile vastava arvu parlamendiliikmete ettepanekul arutada järgmist tagasilükkamise ettepanekut pärast muudatusettepanekute hääletamist vastavalt lõikele 2 või 3. Sellise ettepaneku vastuvõtmiseks on vaja parlamendi liikmete enamust. \n\r\
 \n\r\
 Kui nõukogu seisukoht lükatakse tagasi, kuulutab president parlamendis seadusandliku menetluse lõppenuks.\n\r\
 \n\r\
-5.   Pärast lõigete 1–4 kohaseid hääletusi ja nendele järgnevaid võimalike seadusandliku resolutsiooni projekti kohta esitatud menetluslikke taotlusi puudutavate muudatusettepanekute hääletusi teeb president teatavaks, et parlamendi teine lugemine on lõppenud ja seadusandlik resolutsioon loetakse vastuvõetuks. Vajaduse korral muudetakse seadusandlikku resolutsiooni kooskõlas artikli 193 lõikega 2, et võtta arvesse lõigete 1–4 kohaselt toimunud hääletuste või artikli 69a kohaldamise tulemust.\n\r\
+\n\r\
+5.   Pärast lõigete 1–4 kohaseid hääletusi ja nendele järgnevaid võimalike seadusandliku resolutsiooni projekti kohta esitatud menetluslikke taotlusi puudutavate muudatusettepanekute hääletusi teeb president teatavaks, et parlamendi teine lugemine on lõppenud ja seadusandlik resolutsioon loetakse vastuvõetuks. Vajaduse korral muudetakse seadusandlikku resolutsiooni kooskõlas artikli 193 lõikega 2, et võtta arvesse lõigete 1–4 kohaselt toimunud hääletuste või artikli 69a kohaldamise tulemust. \n\r\
 \n\r\
 President edastab seadusandliku resolutsiooni teksti ja parlamendi võimaliku seisukoha nõukogule ja Euroopa Komisjonile.\n\r\
 \n\r\
@@ -1026,7 +1058,7 @@ Kui nõukogu seisukoha tagasilükkamise või muutmise ettepanekuid ei esitata, l
 'title': 'Artikkel 69 : Nõukogu seisukoha kohta esitatud muudatusettepanekute lubatavus',
 'text': "1.   Nõukogu seisukoha muutmise ettepanekuid võivad parlamendile läbivaatamiseks esitada vastutav komisjon, fraktsioon või vähemalt miinimumlävendile vastav arv parlamendiliikmeid.\n\r\
 \n\r\
-2.   Nõukogu seisukoha  kohta esitatud muudatusettepanek on lubatav ainult siis, kui see vastab artiklitele 169 ja 170 ning sellega taotletakse:\n\r\
+2.   Nõukogu seisukoha  kohta esitatud muudatusettepanek on lubatav ainult siis, kui see vastab artiklitele 169 ja 170 ning sellega taotletakse: \n\r\
 \n\r\
 (a)   parlamendi poolt esimesel lugemisel vastu võetud seisukoha täielikku või osalist taastamist või\n\r\
 \n\r\
@@ -1038,46 +1070,46 @@ Kui nõukogu seisukoha tagasilükkamise või muutmise ettepanekuid ei esitata, l
 \n\r\
 Presidendi otsust tunnistada muudatusettepanek lubatavaks või jätta see lubatavaks tunnistamata ei saa vaidlustada.\n\r\
 \n\r\
-3.   Kui pärast esimest lugemist on toimunud uued valimised, kuid artiklit 63 ei ole kohaldatud, võib president otsustada kaotada lõikes 2 toodud lubatavuse piirangud.\n\r\
 \n\r\
+3.   Kui pärast esimest lugemist on toimunud uued valimised, kuid artiklit 63 ei ole kohaldatud, võib president otsustada kaotada lõikes 2 toodud lubatavuse piirangud.\n\r\
 \n\r\
 Artikkel 69a : Teise lugemise kokkulepe\n\r\
 \n\r\
 Kui muudatusettepanekute ja nõukogu seisukoha tagasilükkamise ettepanekute esitamiseks ning hääletusele panemiseks ette nähtud aja jooksul ei esitata artiklite 67a ja 69 alusel nõukogu seisukoha tagasilükkamise ettepanekut ega ühtegi seisukoha muutmise ettepanekut, teatab president parlamendis, et esitatud õigusakt on vastu võetud.\n\r\
 \n\r\
-\n\r\
 Artikkel 69b : Üldsätted\n\r\
 \n\r\
 Teiste institutsioonidega võib läbirääkimisi, mille eesmärk on saavutada seadusandliku menetluse käigus kokkulepe, alustada ainult siis, kui selleks on tehtud otsus vastavalt artiklitele 69c–69e või kui parlament on ettepaneku tagasi saatnud institutsioonidevahelisteks läbirääkimisteks. Läbirääkimistel järgitakse esimeeste konverentsi kehtestatud eeskirja(1).\n\r\
+ \n\r\
 \n\r\
-\n\r\
-(1)	Seadusandliku tavamenetluse dokumentide üle peetavate läbirääkimiste eeskiri.\n\r\
-\n\r\
+(1) Seadusandliku tavamenetluse dokumentide üle peetavate läbirääkimiste eeskiri. \n\r\
 \n\r\
 Artikkel 69c : Parlamendi esimesele lugemisele eelnevad läbirääkimised\n\r\
 \n\r\
 1.   Kui komisjon on artikli 49 alusel vastu võtnud seadusandliku raporti, võib ta oma liikmete häälteenamusega võtta vastu otsuse alustada selle raporti alusel läbirääkimisi.\n\r\
 \n\r\
-2.   Läbirääkimiste alustamise otsused tehakse komisjonis teatavaks otsuse vastuvõtmisele järgneva osaistungjärgu alguses. Parlamendile teatavakstegemisele järgneva päeva lõpuks võivad parlamendiliikmed või fraktsioon(id) vastavalt vähemalt keskmisele lävendile taotleda kirjalikult, et komisjoni otsus läbirääkimiste alustamise kohta pandaks hääletusele. Parlament hääletab otsuse üle sama osaistungjärgu jooksul.\n\r\
+2.   Läbirääkimiste alustamise otsused tehakse komisjonis teatavaks otsuse vastuvõtmisele järgneva osaistungjärgu alguses. Parlamendile teatavakstegemisele järgneva päeva lõpuks võivad parlamendiliikmed või fraktsioon(id) vastavalt vähemalt keskmisele lävendile taotleda kirjalikult, et komisjoni otsus läbirääkimiste alustamise kohta pandaks hääletusele. Parlament hääletab otsuse üle sama osaistungjärgu jooksul. \n\r\
 \n\r\
 Kui esimeses lõigus sätestatud tähtajaks ühtegi taotlust esitatud ei ole, annab president sellest parlamendile teada. Kui taotlus on esitatud, võib president anda vahetult enne hääletamist sõna ühele sõnavõtjale komisjoni läbirääkimiste alustamise otsuse poolt ja ühele sõnavõtjale selle otsuse vastu. Kumbki kõneleja võib esineda kuni kaheminutilise avaldusega.\n\r\
+\n\r\
 \n\r\
 3.   Kui parlament lükkab läbirääkimiste alustamist käsitleva komisjoni otsuse tagasi, võetakse seadusandliku akti eelnõu ja vastutava komisjoni raport järgmise osaistungjärgu päevakorda ja president määrab muudatusettepanekute esitamise tähtaja. Kohaldatakse artikli 59 lõiget 4.\n\r\
 \n\r\
 4.   Läbirääkimisi võib alustada igal ajal, kui lõike 2 esimeses lõigus sätestatud tähtaeg on möödunud, ilma et oleks esitatud taotlust panna läbirääkimiste alustamist käsitlev otsus parlamendis hääletusele. Kui selline taotlus on esitatud, võib läbirääkimisi alustada pärast seda, kui läbirääkimiste alustamist käsitlev komisjoni otsus on parlamendis heaks kiidetud.\n\r\
 \n\r\
+Artikkel 69d : Nõukogu esimesele lugemisele eelnevad läbirääkimised\n\r\
+\n\r\
+Kui parlament võtab esimesel lugemisel oma seisukoha vastu, käsitatakse seda volitusena läbirääkimisteks teiste institutsioonidega. Pärast seda võib vastutav komisjon igal ajal oma liikmete häälteenamusega võtta vastu otsuse alustada läbirääkimisi. Otsusest antakse parlamendile teada komisjonis toimunud hääletusele järgneva parlamendi osaistungjärgu ajal ja otsustele tuleb osutada ka osaistungjärgu protokollis.\n\r\
 \n\r\
 Artikkel 69d : Nõukogu esimesele lugemisele eelnevad läbirääkimised\n\r\
 \n\r\
 Kui parlament võtab esimesel lugemisel oma seisukoha vastu, käsitatakse seda volitusena läbirääkimisteks teiste institutsioonidega. Pärast seda võib vastutav komisjon igal ajal oma liikmete häälteenamusega võtta vastu otsuse alustada läbirääkimisi. Otsusest antakse parlamendile teada komisjonis toimunud hääletusele järgneva parlamendi osaistungjärgu ajal ja otsustele tuleb osutada ka osaistungjärgu protokollis.\n\r\
 \n\r\
-\n\r\\n\r\
 Artikkel 69e : Parlamendi teisele lugemisele eelnevad läbirääkimised\n\r\
 \n\r\
 Kui nõukogu esimese lugemise seisukoht on edastatud vastutavale komisjonile, käsitatakse parlamendi esimese lugemise seisukohta artikli 69 kohaselt volitusena läbirääkimiste pidamiseks teiste institutsioonidega. Pärast seda võib vastutav komisjon otsustada läbirääkimisi alustada igal ajal.\n\r\
 \n\r\
 Kui nõukogu esimese lugemise seisukoht sisaldab osi, mida seadusandliku akti eelnõu või parlamendi esimese lugemise seisukoht ei hõlma, võib komisjon võtta läbirääkimisrühma jaoks vastu suunised, sealhulgas nõukogu seisukoha muudatusettepanekute vormis.\n\r\
-\n\r\
 \n\r\
 Artikkel 69f : Läbirääkimiste pidamine\n\r\
 \n\r\
@@ -1085,14 +1117,14 @@ Artikkel 69f : Läbirääkimiste pidamine\n\r\
 \n\r\
 2.   Kõik dokumendid, mida on kavas arutada kohtumisel nõukogu ja Euroopa Komisjoniga (kolmepoolne kohtumine), edastatakse läbirääkimisrühmale vähemalt 48 tundi või kiireloomulistel juhtudel vähemalt 24 tundi enne kolmepoolset kohtumist.\n\r\
 \n\r\
-3.   Pärast iga kolmepoolset kohtumist annavad läbirääkimisrühma juhataja ja raportöör läbirääkimisrühma nimel aru vastutava komisjoni järgmisel koosolekul.\n\r\
+3.   Pärast iga kolmepoolset kohtumist annavad läbirääkimisrühma juhataja ja raportöör läbirääkimisrühma nimel aru vastutava komisjoni järgmisel koosolekul. \n\r\
 \n\r\
 Kui komisjoni koosolekut ei ole võimalik õigeaegselt kokku kutsuda, annavad läbirääkimisrühma juhataja ja raportöör läbirääkimisrühma nimel aru komisjoni koordinaatorite järgmisel koosolekul.\n\r\
+\n\r\
 \n\r\
 4.   Kui läbirääkimiste tulemusel saavutatakse esialgne kokkulepe, teatatakse sellest viivitamata vastutavale komisjonile. Viimase kolmepoolse kohtumise tulemusi kajastavad dokumendid tehakse vastutavale komisjonile kättesaadavaks ja avaldatakse. Esialgne kokkulepe esitatakse vastutavale komisjonile, kes teeb otsuse selle heakskiitmise kohta ühel hääletusel antud häälte enamusega. Kui esialgne kokkulepe kiidetakse heaks, esitatakse see parlamendile läbivaatamiseks ja näidatakse selgelt ära kõik seadusandliku akti eelnõusse tehtud muudatused.\n\r\
 \n\r\
 5.   Kui asjaomased komisjonid ei jõua artiklite 54 ja 55 kohaselt kokkuleppele, määrab läbirääkimiste alustamise ja pidamise üksikasjalikud eeskirjad kindlaks komisjonide esimeeste konverentsi esimees nimetatud artiklites sätestatud põhimõtete kohaselt.\n\r\
-\n\r\
 \n\r\
 Artikkel 69g : Tähtaegade pikendamine\n\r\
 \n\r\
@@ -1120,9 +1152,10 @@ Artikkel 69g : Tähtaegade pikendamine\n\r\
 \n\r\
 6.   Delegatsiooni juhib president või üks kolmest alalisest liikmest.\n\r\
 \n\r\
-7.   Delegatsioon teeb otsused oma liikmete häälteenamusega. Delegatsiooni arutelud ei ole avalikud.\n\r\
+7.   Delegatsioon teeb otsused oma liikmete häälteenamusega. Delegatsiooni arutelud ei ole avalikud. \n\r\
 \n\r\
 Täiendavad lepituskomitee delegatsiooni tööd käsitlevad menetlusreeglid kehtestab esimeeste konverents.\n\r\
+\n\r\
 \n\r\
 8.   Delegatsioon annab parlamendile lepitusmenetluse tulemustest aru."
 },
@@ -1175,11 +1208,9 @@ Täiendavad lepituskomitee delegatsiooni tööd käsitlevad menetlusreeglid keht
 \n\r\
 Pärast õigusakti allkirjastamist korraldavad parlamendi ja nõukogu peasekretärid õigusakti avaldamise Euroopa Liidu Teatajas.\n\r\
 \n\r\
-\n\r\
 Artikkel 78a : Õiguslikult siduva akti ettepaneku muutmine\n\r\
 \n\r\
 Kui Euroopa Komisjon kavatseb oma õiguslikult siduva akti ettepanekut muuta või selle uuega asendada, võib vastutav komisjon ettepaneku läbivaatamise edasi lükata, kuni ta on saanud uue ettepaneku või Euroopa Komisjoni muudatused.\n\r\
-\n\r\
 \n\r\
 Artikkel 78b : Euroopa Komisjoni seisukoht muudatusettepanekute kohta\n\r\
 \n\r\
@@ -1187,11 +1218,9 @@ Enne kui vastutav komisjon asub läbi viima õiguslikult siduva akti ettepaneku 
 \n\r\
 Euroopa Komisjoni seisukoht lisatakse raportile, kui see on asjakohane.\n\r\
 \n\r\
-\n\r\
 Artikkel 78c : Hääletus parlamendis\n\r\
 \n\r\
 Artikli 59 lõikeid 1, 2, 4 ja 5 kohaldatakse vajalike muudatustega.\n\r\
-\n\r\
 \n\r\
 Artikkel 78d : Tegevus parlamendi seisukoha võtmise järel\n\r\
 \n\r\
@@ -1199,7 +1228,7 @@ Artikkel 78d : Tegevus parlamendi seisukoha võtmise järel\n\r\
 \n\r\
 2.   Vastutav komisjon võib kutsuda Euroopa Komisjoni ja nõukogu asja arutama.\n\r\
 \n\r\
-3.   Kõnealuse menetluse igal etapil võib vastutav komisjon, kui ta peab seda vajalikuks, esitada resolutsiooni ettepaneku, milles soovitatakse, et parlament:\n\r\
+3.   Kõnealuse menetluse igal etapil võib vastutav komisjon, kui ta peab seda vajalikuks, esitada resolutsiooni ettepaneku, milles soovitatakse, et parlament: \n\r\
 \n\r\
 -   paluks Euroopa Komisjonil oma ettepanek tagasi võtta,\n\r\
 \n\r\
@@ -1207,8 +1236,8 @@ Artikkel 78d : Tegevus parlamendi seisukoha võtmise järel\n\r\
 \n\r\
 -   otsustaks võtta muid meetmeid, mida ta peab vajalikuks.\n\r\
 \n\r\
-Resolutsiooni ettepanek lisatakse selle osaistungjärgu päevakorra projekti, mis järgneb resolutsiooni ettepaneku vastuvõtmisele vastutavas komisjonis.\n\r\
 \n\r\
+Resolutsiooni ettepanek lisatakse selle osaistungjärgu päevakorra projekti, mis järgneb resolutsiooni ettepaneku vastuvõtmisele vastutavas komisjonis.\n\r\
 \n\r\
 Artikkel 78e : Ettepaneku uuesti menetlemine parlamendis\n\r\
 \n\r\
@@ -1221,15 +1250,17 @@ Artikkel 78e : Ettepaneku uuesti menetlemine parlamendis\n\r\
 'title': 'Artikkel 79 : Aluslepingute tavaline läbivaatamine',
 'text': "1.    Kooskõlas artiklitega 45 ja 52 võib vastutav komisjon esitada parlamendile raporti, mis sisaldab ettepanekuid nõukogule aluslepingute muutmiseks.\n\r\
 \n\r\
-2.   Kui parlamendiga konsulteeritakse Euroopa Liidu lepingu artikli 48 lõike 3 alusel aluslepingute muudatusettepanekute läbivaatamist pooldava Euroopa Ülemkogu otsuse ettepaneku küsimuses, edastatakse küsimus vastutavale komisjonile. Vastutav komisjon koostab raporti, mis sisaldab:\n\r\
+2.   Kui parlamendiga konsulteeritakse Euroopa Liidu lepingu artikli 48 lõike 3 alusel aluslepingute muudatusettepanekute läbivaatamist pooldava Euroopa Ülemkogu otsuse ettepaneku küsimuses, edastatakse küsimus vastutavale komisjonile. Vastutav komisjon koostab raporti, mis sisaldab: \n\r\
 \n\r\
 -   resolutsiooni ettepanekut, milles öeldakse, kas Euroopa Parlament kiidab kavandatud otsuse heaks või lükkab selle tagasi, ning mis võib sisaldada ettepanekuid konvendile või liikmesriikide valitsuste esindajate konverentsile;\n\r\
 \n\r\
 -   asjakohasel juhul seletuskirja.\n\r\
 \n\r\
-3.   Kui Euroopa Ülemkogu otsustab kokku kutsuda konvendi, nimetab parlament esimeeste konverentsi ettepaneku alusel konventi oma esindajad.\n\r\
+\n\r\
+3.   Kui Euroopa Ülemkogu otsustab kokku kutsuda konvendi, nimetab parlament esimeeste konverentsi ettepaneku alusel konventi oma esindajad. \n\r\
 \n\r\
 Parlamendi delegatsioon valib endale juhi ja konvendi poolt moodustatava juhtrühma või juhatuse liikme kandidaadid.\n\r\
+\n\r\
 \n\r\
 4.   Kui Euroopa Ülemkogu taotleb parlamendi heakskiitu otsusele aluslepingute muudatusettepanekute läbivaatamiseks konventi mitte kokku kutsuda, edastatakse taotlus kooskõlas artikliga 99 menetlemiseks vastutavale komisjonile."
 },
@@ -1261,13 +1292,14 @@ Parlamendi delegatsioon valib endale juhi ja konvendi poolt moodustatava juhtrü
 {
 'id': 83,
 'title': 'Artikkel 83 : Aluspõhimõtete ja -väärtuste rikkumine liikmesriigi poolt',
-'text': "1.   Parlament võib vastutava komisjoni eriraporti põhjal, mis koostatakse artiklite 45 ja 52 alusel, teha järgmist:\n\r\
+'text': "1.   Parlament võib vastutava komisjoni eriraporti põhjal, mis koostatakse artiklite 45 ja 52 alusel, teha järgmist: \n\r\
 \n\r\
 (a)   panna hääletusele põhjendatud ettepaneku, millega palutakse nõukogul võtta meetmed Euroopa Liidu lepingu artikli 7 lõike 1 alusel;\n\r\
 \n\r\
 (b)   panna hääletusele ettepaneku, millega palutakse Euroopa Komisjonil või liikmesriikidel esitada ettepanek Euroopa Liidu lepingu artikli 7 lõike 2 alusel;\n\r\
 \n\r\
 (c)   panna hääletusele ettepaneku, millega palutakse nõukogul võtta Euroopa Liidu lepingu artikli 7 lõike 3 või hiljem artikli 7 lõike 4 alusel kasutusele teatavad meetmed.\n\r\
+\n\r\
 \n\r\
 2.   Parlamendile teatatakse kõikidest nõukogu taotlustest, parlamendi nõusoleku saamiseks Euroopa Liidu lepingu artikli 7 lõigete 1 ja 2 alusel esitatud ettepanekule, millega koos on esitatud ka kõnealuse liikmesriigi tähelepanekud, ning need edastatakse menetlemiseks vastutavale komisjonile kooskõlas artikliga 99. Parlament võtab otsuse vastu vastutava komisjoni ettepaneku alusel, välja arvatud kiireloomulistel juhtudel ja põhjendatud asjaoludel.\n\r\
 \n\r\
@@ -1304,7 +1336,7 @@ Vastutav komisjon võib otsustada koostada eelarve kohta raporti, mida ta peab v
 Teised komisjonid võivad esitada arvamuse, järgides vastutava komisjoni kehtestatud ajakava.\n\r\
 \n\r\
 \n\r\
-(1)	ELT C 373, 20.12.2013, lk 1."
+(1) ELT C 373, 20.12.2013, lk 1. "
 },
 {
 'id': 87,
@@ -1314,9 +1346,10 @@ Teised komisjonid võivad esitada arvamuse, järgides vastutava komisjoni kehtes
 {
 'id': 88,
 'title': 'Artikkel 88 : Parlamendi seisukoht eelarveprojekti kohta',
-'text': "1.   Parlamendiliikmed võivad esitada vastutavas komisjonis ettepanekuid eelarveprojekti käsitleva nõukogu seisukoha muutmiseks.\n\r\
+'text': "1.   Parlamendiliikmed võivad esitada vastutavas komisjonis ettepanekuid eelarveprojekti käsitleva nõukogu seisukoha muutmiseks. \n\r\
 \n\r\
 Täiskogule võivad muudatusettepanekuid nõukogu seisukohale eelarveprojekti kohta, esitada fraktsioon, vähemalt miinimumlävendile vastav arv parlamendiliikmeid või komisjon.\n\r\
+\n\r\
 \n\r\
 2.   Muudatusettepanekud tuleb esitada ja neid selgitada kirjalikult, need peavad olema autorite poolt allkirjastatud ja neis peab olema märgitud eelarverida, mida need puudutavad.\n\r\
 \n\r\
@@ -1328,13 +1361,14 @@ Täiskogule võivad muudatusettepanekuid nõukogu seisukohale eelarveprojekti ko
 \n\r\
 6.   Parlamendi eelarvestuse muudatusettepanek, mis on sarnane parlamendi poolt eelarvestuse koostamise ajal tagasi lükatud muudatusettepaneku projektiga, võetakse parlamendis arutamisele üksnes juhul, kui vastutav komisjon on selle kohta esitanud toetava arvamuse.\n\r\
 \n\r\
-7.   Parlament hääletab alltoodud järjestuses järgmiste tekstide üle:\n\r\
+7.   Parlament hääletab alltoodud järjestuses järgmiste tekstide üle: \n\r\
 \n\r\
 -   muudatusettepanekud eelarveprojekti käsitleva nõukogu seisukoha kohta, jagude kaupa,\n\r\
 \n\r\
 -   resolutsiooni ettepanek eelarveprojekti kohta.\n\r\
 \n\r\
 Kohaldatakse artikli 174 lõikeid 4–10.\n\r\
+\n\r\
 \n\r\
 8.   Eelarveprojekti need artiklid, peatükid, jaotised ja jaod, mille kohta muudatusettepanekuid ei ole esitatud, loetakse vastuvõetuks.\n\r\
 \n\r\
@@ -1362,7 +1396,7 @@ Kohaldatakse artikli 174 lõikeid 4–10.\n\r\
 \n\r\
 6.   Ühine tekst pannakse hääletusele tervikuna ja selle üle toimub üks hääletus. Hääletus on nimeline. Ühine tekst loetakse heakskiidetuks, kui seda ei lükata parlamendi liikmete häälteenamusega tagasi.\n\r\
 \n\r\
-7.   Kui parlament kiidab ühise teksti heaks, kuid nõukogu lükkab selle tagasi, võib vastutav komisjon kooskõlas Euroopa Liidu toimimise lepingu artikli 314 lõike 7 punktiga d esitada kinnitamiseks kõik parlamendi muudatusettepanekud nõukogu seisukohale või osa neist.\n\r\
+7.   Kui parlament kiidab ühise teksti heaks, kuid nõukogu lükkab selle tagasi, võib vastutav komisjon kooskõlas Euroopa Liidu toimimise lepingu artikli 314 lõike 7 punktiga d esitada kinnitamiseks kõik parlamendi muudatusettepanekud nõukogu seisukohale või osa neist. \n\r\
 \n\r\
 Kinnitamise hääletus võetakse parlamendi selle istungi päevakorda, mis toimub 14 päeva jooksul alates kuupäevast, mil nõukogu teatas ühise teksti tagasilükkamisest.\n\r\
 \n\r\
@@ -1382,7 +1416,6 @@ Muudatusettepanekud loetakse kinnitatuks, kui need kiidetakse heaks parlamendi l
 \n\r\
 3.   Parlament teeb otsuse oma liikmete häälteenamusega.\n\r\
 \n\r\
-\n\r\
 Artikkel 92a : Eelarve täitmine\n\r\
 \n\r\
 1.   Parlament teostab järelevalvet jooksva aasta eelarve täitmise üle. Ta annab selle ülesande eelarve ja eelarvekontrolli eest vastutavatele komisjonidele ning teistele asjaomastele komisjonidele.\n\r\
@@ -1395,12 +1428,12 @@ Artikkel 92a : Eelarve täitmine\n\r\
 'text': "Sätted, mis käsitlevad Euroopa Komisjoni tegevusele eelarve täitmisel Euroopa Liidu toimimise lepingu finantssätete ja finantsmääruse ning Euroopa Parlamendi ja nõukogu määruse (EL, Euratom) nr 966/2012(1) (edaspidi „finantsmäärus“) alusel heakskiidu andmise menetlust, on lisatud kodukorrale.\n\r\
 \n\r\
 \n\r\
-(1)	Euroopa Parlamendi ja nõukogu 25. oktoobri 2012. aasta  määrus (EL, Euratom) nr 966/2012, mis käsitleb Euroopa Liidu üldeelarve suhtes kohaldatavaid finantseeskirju ning millega tunnistatakse kehtetuks nõukogu määrust (EÜ, Euratom) nr 1605/2002 (ELT L 298, 26.10.2012, lk 1)."
+(1) Euroopa Parlamendi ja nõukogu 25. oktoobri 2012. aasta  määrus (EL, Euratom) nr 966/2012, mis käsitleb Euroopa Liidu üldeelarve suhtes kohaldatavaid finantseeskirju ning millega tunnistatakse kehtetuks nõukogu määrust (EÜ, Euratom) nr 1605/2002 (ELT L 298, 26.10.2012, lk 1). "
 },
 {
 'id': 94,
 'title': 'Artikkel 94 : Muud eelarve täitmisele heakskiidu andmise menetlused',
-'text': "Sätteid, mis reguleerivad vastavalt Euroopa Liidu toimimise lepingu artiklile 319 Euroopa Komisjoni tegevusele eelarve täitmisel heakskiidu andmise menetlust, kohaldatakse ka järgmiste eelarve täitmisele heakskiidu andmise menetluste suhtes:\n\r\
+'text': "Sätteid, mis reguleerivad vastavalt Euroopa Liidu toimimise lepingu artiklile 319 Euroopa Komisjoni tegevusele eelarve täitmisel heakskiidu andmise menetlust, kohaldatakse ka järgmiste eelarve täitmisele heakskiidu andmise menetluste suhtes: \n\r\
 \n\r\
 -   Euroopa Parlamendi presidendi tegevusele Euroopa Parlamendi eelarve täitmisel;\n\r\
 \n\r\
@@ -1408,8 +1441,7 @@ Artikkel 92a : Eelarve täitmine\n\r\
 \n\r\
 -   Euroopa Komisjonile Euroopa Arengufondi eelarve täitmisel;\n\r\
 \n\r\
--   liidu ülesandeid täitvate õiguslikult iseseisvate üksuste eelarvete haldamise eest vastutavatele organitele eelarve täitmisel, kui nende tegevust reguleerivad õigusnormid, mille kohaselt Euroopa Parlamendi heakskiit eelarve täitmisele on nõutav.\n\r\
-\n\r\
+-   liidu ülesandeid täitvate õiguslikult iseseisvate üksuste eelarvete haldamise eest vastutavatele organitele eelarve täitmisel, kui nende tegevust reguleerivad õigusnormid, mille kohaselt Euroopa Parlamendi heakskiit eelarve täitmisele on nõutav. \n\r\
 \n\r\
 Artikkel 94a : Institutsioonidevaheline koostöö\n\r\
 \n\r\
@@ -1429,9 +1461,10 @@ Parlamendi president võib selle ülesande delegeerida asepresidendile, kellel o
 \n\r\
 2.   President edastab esialgse eelarvestuse projekti vastutavale komisjonile, kes koostab eelarvestuse projekti ja annab parlamendile aru.\n\r\
 \n\r\
-3.   President määrab eelarvestuse projekti kohta muudatusettepanekute esitamise tähtaja.\n\r\
+3.   President määrab eelarvestuse projekti kohta muudatusettepanekute esitamise tähtaja. \n\r\
 \n\r\
 Vastutav komisjon esitab muudatusettepanekute kohta arvamuse.\n\r\
+\n\r\
 \n\r\
 4.    Parlament võtab eelarvestuse vastu.\n\r\
 \n\r\
@@ -1442,19 +1475,21 @@ Vastutav komisjon esitab muudatusettepanekute kohta arvamuse.\n\r\
 {
 'id': 97,
 'title': 'Artikkel 97 : Parlamendi eelarvestuse koostamine',
-'text': "1.   Parlamendi eelarve osas võtavad juhatus ja eelarveküsimuste eest vastutav komisjon järjestikustel etappidel vastu otsused:\n\r\
+'text': "1.   Parlamendi eelarve osas võtavad juhatus ja eelarveküsimuste eest vastutav komisjon järjestikustel etappidel vastu otsused: \n\r\
 \n\r\
 (a)   ametikohtade loetelu kohta;\n\r\
 \n\r\
 (b)   eelarvestuse eelprojekti ja eelarvestuse projekti kohta.\n\r\
 \n\r\
-2.   Ametikohtade loetelu käsitlevate otsuste vastuvõtmisel järgitakse järgmist korda:\n\r\
+\n\r\
+2.   Ametikohtade loetelu käsitlevate otsuste vastuvõtmisel järgitakse järgmist korda: \n\r\
 \n\r\
 (a)   juhatus koostab eelarveaasta ametikohtade loetelu;\n\r\
 \n\r\
 (b)   kui eelarveküsimuste eest vastutava komisjoni seisukoht erineb juhatuse esialgsetest otsustest, alustatakse juhatuse ja nimetatud komisjoni vahel lepitusmenetlust;\n\r\
 \n\r\
 (c)   menetluse lõpul teeb juhatus vastavalt kodukorra artikli 222 lõikele 3 ja ilma et see piiraks Euroopa Liidu toimimise lepingu artikli 314 alusel vastuvõetud otsuste rakendamist, lõpliku otsuse ametikohtade loetelu eelarvestuse kohta.\n\r\
+\n\r\
 \n\r\
 3.   Tegeliku eelarvestuse koostamine algab niipea, kui juhatus on vastu võtnud lõpliku otsuse ametikohtade loetelu kohta. Eelarvestuse koostamise etapid on sätestatud kodukorra artiklis 96. Kui eelarveküsimuste eest vastutava komisjoni seisukoht erineb oluliselt juhatuse seisukohast, alustatakse lepitusmenetlust."
 },
@@ -1470,11 +1505,12 @@ Vastutav komisjon esitab muudatusettepanekute kohta arvamuse.\n\r\
 {
 'id': 99,
 'title': 'Artikkel 99 : Nõusolekumenetlus',
-'text': "1.   Kui parlamendilt taotletakse nõusolekut õiguslikult siduvale aktile, esitab vastutav komisjon parlamendile soovituse anda kavandatavale õigusaktile nõusolek või lükata see tagasi.\n\r\
+'text': "1.   Kui parlamendilt taotletakse nõusolekut õiguslikult siduvale aktile, esitab vastutav komisjon parlamendile soovituse anda kavandatavale õigusaktile nõusolek või lükata see tagasi. \n\r\
 \n\r\
 Soovitus sisaldab volitusi, kuid ei sisalda põhjendusi. Parlamendikomisjoni muudatusettepanekud on lubatud  üksnes juhul, kui nendes esitatakse raportööri soovitusele vastupidine seisukoht.\n\r\
 \n\r\
 Soovitusele võib lisada lühikese seletuskirja. Seletuskirja koostamise eest vastutab üksnes raportöör ja seda ei panda hääletusele. Artikli 52a lõiget 2 kohaldatakse vajalike muudatustega.\n\r\
+\n\r\
 \n\r\
 2.   Vastutav komisjon võib vajaduse korral esitada ka raporti, mis sisaldab muu kui seadusandliku resolutsiooni ettepanekut, tuues välja põhjused, miks parlament peaks nõusoleku andma või sellest keelduma, ning esitades asjakohasel juhul soovitused kavandatava õigusakti rakendamiseks.\n\r\
 \n\r\
@@ -1514,59 +1550,66 @@ Soovitusele võib lisada lühikese seletuskirja. Seletuskirja koostamise eest va
 \n\r\
 2.   Komisjonilt, kes oli kodifitseeritava õigusakti eest vastutav, võib tema enda või õigusasjade eest vastutava komisjoni taotlusel küsida arvamust kodifitseerimise asjakohasuse kohta.\n\r\
 \n\r\
-3.   Ettepaneku teksti kohta ei ole lubatud muudatusettepanekuid esitada.\n\r\
+3.   Ettepaneku teksti kohta ei ole lubatud muudatusettepanekuid esitada. \n\r\
 \n\r\
 Õigusasjade eest vastutava komisjoni esimees võib raportööri taotlusel esitada komisjonile heakskiitmiseks tehnilisi kohandusi, kui need ei muuda ettepanekut oluliselt ja kui need on vajalikud, et tagada ettepaneku vastavus kodifitseerimisreeglitele.\n\r\
 \n\r\
-4.   Kui õigusasjade eest vastutav komisjon on arvamusel, et ettepanek ei too kaasa liidu õigusaktide sisulisi muudatusi, edastab ta selle parlamendile heakskiitmiseks.\n\r\
+\n\r\
+4.   Kui õigusasjade eest vastutav komisjon on arvamusel, et ettepanek ei too kaasa liidu õigusaktide sisulisi muudatusi, edastab ta selle parlamendile heakskiitmiseks. \n\r\
 \n\r\
 Kui õigusasjade eest vastutav komisjon on arvamusel, et ettepanek toob kaasa sisulise muudatuse, soovitab ta parlamendil ettepaneku tagasi lükata.\n\r\
 \n\r\
 Mõlemal juhul võtab parlament otsuse vastu ühel hääletusel ilma muudatusettepanekute ja aruteluta.\n\r\
 \n\r\
-\n\r\
-(1)	20. detsembri 1994. aasta institutsioonidevaheline kokkulepe õigusaktide tekstide ametliku kodifitseerimise kiirendatud töömeetodi kohta, punkt 4 (EÜT C 102, 4.4.1996, lk 2)."
+ \n\r\
+ \n\r\
+(1) 20. detsembri 1994. aasta institutsioonidevaheline kokkulepe õigusaktide tekstide ametliku kodifitseerimise kiirendatud töömeetodi kohta, punkt 4 (EÜT C 102, 4.4.1996, lk 2). "
 },
 {
 'id': 104,
 'title': 'Artikkel 104 : Uuesti sõnastamine',
 'text': "1.   Kui parlamendile esitatakse liidu õigusaktide uuesti sõnastamise ettepanek, edastatakse see õigusasjade eest vastutavale komisjonile ja valdkonna eest vastutavale komisjonile.\n\r\
 \n\r\
-2.   Õigusasjade eest vastutav komisjon vaatab ettepaneku vastavalt institutsioonidevahelisel tasandil kokku lepitud korrale(1) läbi, et veenduda, kas see sisaldab muid sisulisi muudatusi peale nende, mis on ettepanekus esile toodud.\n\r\
+2.   Õigusasjade eest vastutav komisjon vaatab ettepaneku vastavalt institutsioonidevahelisel tasandil kokku lepitud korrale(1) läbi, et veenduda, kas see sisaldab muid sisulisi muudatusi peale nende, mis on ettepanekus esile toodud. \n\r\
 \n\r\
 Läbivaatamise käigus ei ole lubatud ettepaneku teksti kohta muudatusettepanekuid esitada. Sätetele, mida uuesti sõnastamise ettepanekuga ei muudeta, kohaldatakse artikli 103 lõike 3 teist lõiku.\n\r\
 \n\r\
-3.   Kui õigusasjade eest vastutav komisjon on arvamusel, et ettepanek ei sisalda muid sisulisi muudatusi peale nende, mis on vastavalt esile toodud, teavitab ta sellest valdkonna eest vastutavat komisjoni.\n\r\
+\n\r\
+3.   Kui õigusasjade eest vastutav komisjon on arvamusel, et ettepanek ei sisalda muid sisulisi muudatusi peale nende, mis on vastavalt esile toodud, teavitab ta sellest valdkonna eest vastutavat komisjoni. \n\r\
 \n\r\
 Sellisel juhul, välja arvatud artiklites 169 ja 170 sätestatud tingimustel, on ettepanekule muudatusettepanekute esitamine valdkonna eest vastutavas komisjonis lubatud üksnes juhul, kui need puudutavad ettepaneku neid osi, mis sisaldavad muudatusi.\n\r\
 \n\r\
 Valdkonna eest vastutava komisjoni esimees võib erandjuhul ja iga üksikjuhtumi puhul eraldi lubada esitada muudatusettepanekuid ettepaneku nende osade kohta, mida ei muudeta, kui ta on arvamusel, et see on vajalik teksti sisemist sidusust tagavatel mõjuvatel põhjustel või kui need muudatusettepanekud on lahutamatult seotud teiste lubatavate muudatusettepanekutega. Need põhjused tuleb muudatusettepanekute kirjalikes selgitustes välja tuua.\n\r\
 \n\r\
-4.   Kui õigusasjade eest vastutav komisjon on arvamusel, et ettepanek sisaldab muid sisulisi muudatusi peale nende, mis on ettepanekus esile toodud, soovitab ta parlamendil ettepaneku tagasi lükata ja teavitab sellest valdkonna eest vastutavat komisjoni.\n\r\
+\n\r\
+4.   Kui õigusasjade eest vastutav komisjon on arvamusel, et ettepanek sisaldab muid sisulisi muudatusi peale nende, mis on ettepanekus esile toodud, soovitab ta parlamendil ettepaneku tagasi lükata ja teavitab sellest valdkonna eest vastutavat komisjoni. \n\r\
 \n\r\
 Sellisel juhul palub president Euroopa Komisjonil oma ettepaneku tagasi võtta. Kui Euroopa Komisjon võtab ettepaneku tagasi, kuulutab president menetluse parlamendis alusetuks, ja teavitab sellest nõukogu. Kui Euroopa Komisjon ettepanekut tagasi ei võta, saadab parlament selle tagasi valdkonna eest vastutavale komisjonile, kes vaatab ettepaneku läbi vastavalt tavapärasele menetlusele.\n\r\
 \n\r\
-\n\r\
-(1)	28. novembri 2001. aasta institutsioonidevaheline kokkulepe õigusaktide uuesti sõnastamise tehnika süstemaatilise kasutamise kohta, punkt 9 (EÜT C 77, 28.3.2002, lk 1)."
+ \n\r\
+ \n\r\
+(1) 28. novembri 2001. aasta institutsioonidevaheline kokkulepe õigusaktide uuesti sõnastamise tehnika süstemaatilise kasutamise kohta, punkt 9 (EÜT C 77, 28.3.2002, lk 1)."
 },
 {
 'id': 105,
 'title': 'Artikkel 105 : Delegeeritud õigusaktid',
 'text': "1.   Kui Euroopa Komisjon esitab Euroopa Parlamendile delegeeritud õigusakti, edastab president selle põhiõigusakti eest vastutavale komisjonile, kes võib otsustada määrata ühe oma liikme vastutajaks ühe või mitme delegeeritud õigusakti läbivaatamise eest.\n\r\
 \n\r\
-2.   President teatab delegeeritud õigusakti kättesaamisele järgneval osaistungjärgul parlamendile kuupäeva, mil delegeeritud õigusakt saadi kätte kõikides ametlikes keeltes, ja tähtaja, mille jooksul võib esitada vastuväiteid. Tähtaega hakatakse arvestama alates kättesaamise kuupäevast.\n\r\
+2.   President teatab delegeeritud õigusakti kättesaamisele järgneval osaistungjärgul parlamendile kuupäeva, mil delegeeritud õigusakt saadi kätte kõikides ametlikes keeltes, ja tähtaja, mille jooksul võib esitada vastuväiteid. Tähtaega hakatakse arvestama alates kättesaamise kuupäevast. \n\r\
 \n\r\
 Teade avaldatakse istungi protokollis koos vastutava komisjoni nimega.\n\r\
+\n\r\
 \n\r\
 3.   Vastutav komisjon võib esitada parlamendile vastavalt põhiõigusakti sätetele resolutsiooni ettepaneku koos põhjendustega ja vastuväidetega delegeeritud õigusaktile, kui ta peab seda vajalikuks pärast konsulteerimist kõikide asjaomaste komisjonidega. Kui vastutav komisjon ei ole esitanud resolutsiooni ettepanekut kümme tööpäeva enne selle osaistungjärgu algust, mille kolmapäev eelneb ja on kõige lähem lõikes 5 osutatud tähtaja möödumisele, võib selleteemalise resolutsiooni ettepaneku nimetatud osaistungjärgu päevakorda lisamiseks esitada fraktsioon või vähemalt miinimumlävendile vastav arv parlamendiliikmeid.\n\r\
 \n\r\
 4.   Lõike 3 kohaselt esitatud resolutsiooni ettepanekus peavad olema märgitud parlamendi vastuväite põhjused ja selles võib paluda, et Euroopa Komisjon esitaks uue delegeeritud õigusakti, milles võetakse arvesse parlamendi soovitusi.\n\r\
 \n\r\
-5.   Parlament kiidab kõnealuse resolutsiooni ettepaneku heaks põhiõigusaktis sätestatud tähtaja jooksul ning vastavalt Euroopa Liidu toimimise lepingu artikli 290 lõike 2 oma liikmete enamusega.\n\r\
+5.   Parlament kiidab kõnealuse resolutsiooni ettepaneku heaks põhiõigusaktis sätestatud tähtaja jooksul ning vastavalt Euroopa Liidu toimimise lepingu artikli 290 lõike 2 oma liikmete enamusega. \n\r\
 \n\r\
 Kui vastutav komisjon peab asjakohaseks pikendada delegeeritud õigusaktile vastuväidete esitamise tähtaega vastavalt põhiõigusakti sätetele, teatab vastutava komisjoni esimees Euroopa Parlamendi nimel pikendamisest nõukogule ja Euroopa Komisjonile.\n\r\
 \n\r\
-6.   Kui vastutav komisjon soovitab parlamendil enne põhiõigusaktis sätestatud tähtaja möödumist teatada, et parlamendil ei ole delegeeritud õigusakti kohta vastuväiteid, siis:\n\r\
+\n\r\
+6.   Kui vastutav komisjon soovitab parlamendil enne põhiõigusaktis sätestatud tähtaja möödumist teatada, et parlamendil ei ole delegeeritud õigusakti kohta vastuväiteid, siis: \n\r\
 \n\r\
 -   teavitab vastutav komisjon sellest komisjonide esimeeste konverentsi esimeest kirja teel, tuues välja põhjused, ning esitab vastava soovituse;\n\r\
 \n\r\
@@ -1578,9 +1621,11 @@ Kui vastutav komisjon peab asjakohaseks pikendada delegeeritud õigusaktile vast
 \n\r\
 -   pärast sellise soovituse vastuvõtmist esitatud vastuväited delegeeritud õigusakti kohta jäetakse tähelepanuta.\n\r\
 \n\r\
-7.   Vastutav komisjon võib vastavalt põhiõigusakti sätetele esitada parlamendile resolutsiooni ettepaneku, millega tühistatakse täielikult või osaliselt kõnealune volituste delegeerimine või väljendatakse vastuseisu delegeeritud volituste automaatsele pikenemisele.\n\r\
+\n\r\
+7.   Vastutav komisjon võib vastavalt põhiõigusakti sätetele esitada parlamendile resolutsiooni ettepaneku, millega tühistatakse täielikult või osaliselt kõnealune volituste delegeerimine või väljendatakse vastuseisu delegeeritud volituste automaatsele pikenemisele. \n\r\
 \n\r\
 Vastavalt Euroopa Liidu toimimise lepingu artikli 290 lõike 2 teisele lõigule teeb parlament volituste delegeerimise tühistamise otsuse oma liikmete häälteenamusega.\n\r\
+\n\r\
 \n\r\
 8.   President teavitab nõukogu ja Euroopa Komisjoni käesoleva artikli alusel võetud seisukohast."
 },
@@ -1593,7 +1638,7 @@ Vastavalt Euroopa Liidu toimimise lepingu artikli 290 lõike 2 teisele lõigule 
 \n\r\
 3.   Resolutsiooni ettepanekus võib paluda Euroopa Komisjonil rakendusakti või meetme eelnõu tagasi võtta, seda parlamendi vastuväiteid arvesse võttes muuta või esitada uus seadusandlik ettepanek. President teavitab otsusest nõukogu ja komisjoni.\n\r\
 \n\r\
-4.   Kui Euroopa Komisjoni kavandatud rakendusmeetmed kuuluvad nõukogu otsuses 1999/468/EÜ(1) ette nähtud kontrolliga regulatiivmenetluse alla, kohaldatakse järgmisi täiendavaid sätteid:\n\r\
+4.   Kui Euroopa Komisjoni kavandatud rakendusmeetmed kuuluvad nõukogu otsuses 1999/468/EÜ(1) ette nähtud kontrolliga regulatiivmenetluse alla, kohaldatakse järgmisi täiendavaid sätteid: \n\r\
 \n\r\
 (a)   kontrolliks ette nähtud aega arvestatakse alates sellest, kui rakendusmeetme eelnõu on esitatud parlamendile kõigis ametlikes keeltes. Otsuse 1999/468/EÜ artikli 5a lõike 5 punktis b sätestatud lühema tähtaja korral ja nimetatud otsuse artikli 5a lõikes 6 sätestatud tungivalt kiireloomulistel juhtudel arvestatakse kontrolliks ette nähtud aega alates sellest, kui parlament on saanud kätte rakendusmeetme lõpliku eelnõu nendes keeleversioonides, mis esitati nimetatud otsuse kohaselt moodustatud komitee liikmetele, välja arvatud juhul, kui vastutava komisjoni esimehel on vastuväiteid. Eelmises lauses nimetatud kahel juhul nimetatud otsuse artiklit 158 ei kohaldata;\n\r\
 \n\r\
@@ -1605,14 +1650,15 @@ Vastavalt Euroopa Liidu toimimise lepingu artikli 290 lõike 2 teisele lõigule 
 \n\r\
 (d)   kui vastutav komisjon soovitab komisjonide esimeeste konverentsi esimehele saadetavas põhjendusi sisaldavas kirjas, et parlament peaks enne otsuse 1999/468/EÜ artikli 5a lõike 3 punktis c ja/või artikli 5a lõike 4 punktis e sätestatud tavapärase tähtaja möödumist teatama, et tal ei ole kavandatava meetme kohta vastuväiteid, kohaldatakse käesoleva määruse artikli 105 lõikes 6 sätestatud menetlust(2).\n\r\
 \n\r\
-\n\r\
-(1)	Nõukogu 28. juuni 1999. aasta otsus 1999/468/EÜ, millega kehtestatakse komisjoni rakendusvolituste kasutamise menetlused (EÜT L 184, 17.7.1999, lk 23).\n\r\
-(2)	Artikli 106 lõige 4 jäetakse kodukorrast välja, kui kontrolliga regulatiivmenetlus on õigusaktidest täielikult välja jäetud."
+ \n\r\
+ \n\r\
+(1) Nõukogu 28. juuni 1999. aasta otsus 1999/468/EÜ, millega kehtestatakse komisjoni rakendusvolituste kasutamise menetlused (EÜT L 184, 17.7.1999, lk 23). \n\r\
+(2) Artikli 106 lõige 4 jäetakse kodukorrast välja, kui kontrolliga regulatiivmenetlus on õigusaktidest täielikult välja jäetud. "
 },
 {
 'id': 107,
 'title': 'Artikkel 107 : Läbivaatamine kaasatud komisjoni menetluses ja komisjonide ühismenetluses',
-'text': "1.   Kui parlament võttis põhiõigusakti vastu artiklis 54 sätestatud menetluse kohaselt, kohaldatakse delegeeritud õigusaktide või rakendusaktide või rakendusmeetmete eelnõude läbivaatamise suhtes järgmisi täiendavaid sätteid:\n\r\
+'text': "1.   Kui parlament võttis põhiõigusakti vastu artiklis 54 sätestatud menetluse kohaselt, kohaldatakse delegeeritud õigusaktide või rakendusaktide või rakendusmeetmete eelnõude läbivaatamise suhtes järgmisi täiendavaid sätteid: \n\r\
 \n\r\
 -   delegeeritud õigusakt või rakendusakti või rakendusmeetme eelnõu edastatakse vastutavale komisjonile ja kaasatud komisjonile;\n\r\
 \n\r\
@@ -1620,7 +1666,8 @@ Vastavalt Euroopa Liidu toimimise lepingu artikli 290 lõike 2 teisele lõigule 
 \n\r\
 -   kui delegeeritud õigusakt või rakendusakti või rakendusmeetme eelnõu kuulub peamiselt kaasatud komisjoni vastutusalasse, võtab vastutav komisjon kaasatud komisjoni ettepanekud vastu ilma hääletuseta; kui vastutav komisjon sellest reeglist kinni ei pea, võib president anda kaasatud komisjonile loa esitada parlamendile resolutsiooni ettepanek.\n\r\
 \n\r\
-2.   Kui parlament võttis põhiõigusakti vastu artiklis 55 sätestatud menetluse kohaselt, kohaldatakse delegeeritud õigusaktide ja rakendusaktide või rakendusmeetmete eelnõude läbivaatamise suhtes järgmisi täiendavaid sätteid:\n\r\
+\n\r\
+2.   Kui parlament võttis põhiõigusakti vastu artiklis 55 sätestatud menetluse kohaselt, kohaldatakse delegeeritud õigusaktide ja rakendusaktide või rakendusmeetmete eelnõude läbivaatamise suhtes järgmisi täiendavaid sätteid: \n\r\
 \n\r\
 -   delegeeritud õigusakti või rakendusakti või rakendusmeetme eelnõu kättesaamisel otsustab president artiklis 55 sätestatud kriteeriumeid ja asjaomaste komisjonide esimeeste vahelisi võimalikke kokkuleppeid arvesse võttes, milline komisjon vastutab või millised komisjonid vastutavad ühiselt selle eest;\n\r\
 \n\r\
@@ -1639,21 +1686,24 @@ Vastavalt Euroopa Liidu toimimise lepingu artikli 290 lõike 2 teisele lõigule 
 \n\r\
 5.   Nõukogu taotlused parlamendi nõusoleku või arvamuse saamiseks edastab parlamendi president vastutavale komisjonile arutamiseks kooskõlas kodukorra artikliga 99 või artikli 47 lõikega 1.\n\r\
 \n\r\
-6.   Enne kui parlament hääletab nõusoleku või arvamuse taotluse üle, võivad vastutav komisjon, fraktsioon või vähemalt kümnendik parlamendiliikmetest teha igal ajal ettepaneku, et parlament paluks Euroopa Liidu Kohtu arvamust rahvusvahelise lepingu kooskõla kohta aluslepingutega.\n\r\
+6.   Enne kui parlament hääletab nõusoleku või arvamuse taotluse üle, võivad vastutav komisjon, fraktsioon või vähemalt kümnendik parlamendiliikmetest teha igal ajal ettepaneku, et parlament paluks Euroopa Liidu Kohtu arvamust rahvusvahelise lepingu kooskõla kohta aluslepingutega. \n\r\
 \n\r\
 Enne kui parlament ettepaneku üle hääletab, võib president taotleda arvamust õigusasjade eest vastutavalt komisjonilt, kes teavitab parlamenti oma järeldustest.\n\r\
 \n\r\
 Kui parlament kiidab heaks ettepaneku paluda Euroopa Liidu Kohtu arvamust, lükatakse nõusoleku andmise või arvamuse esitamise hääletus edasi, kuni kohus on arvamuse esitanud.\n\r\
 \n\r\
-7.   Kui nõukogu palub parlamendil anda nõusolek rahvusvahelise lepingu sõlmimiseks, pikendamiseks või muutmiseks, võtab parlament otsuse vastu ühe hääletusega vastavalt artiklile 99.\n\r\
+\n\r\
+7.   Kui nõukogu palub parlamendil anda nõusolek rahvusvahelise lepingu sõlmimiseks, pikendamiseks või muutmiseks, võtab parlament otsuse vastu ühe hääletusega vastavalt artiklile 99. \n\r\
 \n\r\
 Kui parlament nõusolekut ei anna, teatab president nõukogule, et lepingut ei saa sõlmida, pikendada või muuta.\n\r\
 \n\r\
 Ilma et see piiraks artikli 99 lõike 3 kohaldamist, võib parlament vastutava komisjoni soovituse alusel otsustada lükata nõusolekumenetluse kohta otsuse tegemine edasi kuni üheks aastaks.\n\r\
 \n\r\
-8.   Kui nõukogu palub parlamendil esitada arvamus rahvusvahelise lepingu sõlmimise, pikendamise või muutmise kohta, ei saa lepingu tekstile muudatusettepanekuid esitada. Ilma et see piiraks artikli 170 lõike 1 kohaldamist, on muudatusettepanekud nõukogu otsuse eelnõule lubatavad.\n\r\
+\n\r\
+8.   Kui nõukogu palub parlamendil esitada arvamus rahvusvahelise lepingu sõlmimise, pikendamise või muutmise kohta, ei saa lepingu tekstile muudatusettepanekuid esitada. Ilma et see piiraks artikli 170 lõike 1 kohaldamist, on muudatusettepanekud nõukogu otsuse eelnõule lubatavad. \n\r\
 \n\r\
 Kui parlamendi arvamus on eitav, palub president nõukogul lepingut mitte sõlmida.\n\r\
+\n\r\
 \n\r\
 9.   Vastutava komisjoni ja kaasatud komisjonide esimehed ja raportöörid kontrollivad ühiselt, et nõukogu, Euroopa Komisjon ja Euroopa Komisjoni asepresident ning liidu välisasjade ja julgeolekupoliitika kõrge esindaja teavitavad parlamenti vastavalt Euroopa Liidu toimimise lepingu artikli 218 lõikele 10 viivitamata, korrapäraselt ja täielikult, vajaduse korral konfidentsiaalselt, läbirääkimiste ettevalmistamise, nende käigu ja rahvusvaheliste lepingute sõlmimiste kõigil etappidel, sh esitavad teabe läbirääkimisjuhiste eelnõude ja vastuvõetud lõplike läbirääkimisjuhiste, nagu ka nende lepingute rakendamise kohta."
 },
@@ -1702,7 +1752,6 @@ Nimetatud korda kohaldatakse ka siis, kui Euroopa Komisjon või asepresident nin
 \n\r\
 6.   Soovitused loetakse vastuvõetuks, kui vähemalt miinimumlävendile vastav arv parlamendiliikmeid ei ole esitanud enne osaistungjärgu algust nendele kirjalikku vastuväidet. Vastuväite esitamise korral lisatakse komisjoni soovituste projekt sama osaistungjärgu päevakorda. Soovituste üle toimub arutelu ja kõik muudatusettepanekud, mille on esitanud fraktsioon või vähemalt miinimumlävendile vastav arv parlamendiliikmeid, pannakse hääletusele.\n\r\
 \n\r\
-\n\r\
 Artikkel 113a : Parlamendiga konsulteerimine ning parlamendi teavitamine ühise välis- ja julgeolekupoliitika raames\n\r\
 \n\r\
 1.   Kui parlamendiga konsulteeritakse vastavalt Euroopa Liidu lepingu artiklile 36, edastatakse küsimus vastutavale komisjonile, kes võib kodukorra artikli 113 alusel koostada soovituste projekti.\n\r\
@@ -1730,21 +1779,24 @@ Artikkel 113a : Parlamendiga konsulteerimine ning parlamendi teavitamine ühise 
 {
 'id': 116,
 'title': 'Artikkel 116 : Üldsuse juurdepääs dokumentidele',
-'text': "1.   Igal liidu kodanikul ja igal füüsilisel või juriidilisel isikul, kes elab või kelle registrijärgne asukoht on liikmesriigis, on Euroopa Liidu toimimise lepingu artikli 15 alusel õigus tutvuda parlamendi dokumentidega. Sellise juurdepääsu puhul tuleb arvestada määruses (EÜ) nr 1049/2001 sätestatud põhimõtete, tingimuste ja piirangutega.\n\r\
+'text': "1.   Igal liidu kodanikul ja igal füüsilisel või juriidilisel isikul, kes elab või kelle registrijärgne asukoht on liikmesriigis, on Euroopa Liidu toimimise lepingu artikli 15 alusel õigus tutvuda parlamendi dokumentidega. Sellise juurdepääsu puhul tuleb arvestada määruses (EÜ) nr 1049/2001 sätestatud põhimõtete, tingimuste ja piirangutega. \n\r\
 \n\r\
 Teistele füüsilistele ja juriidilistele isikutele tagatakse juurdepääs parlamendi dokumentidele samadel põhimõtetel võimalikult suures ulatuses.\n\r\
 \n\r\
-2.   Dokumentidele juurdepääsu mõttes tähistab väljend „parlamendi dokument” määruse (EÜ) nr 1049/2001 artikli 3 punkti a tähenduses teksti, mille on koostanud või saanud kodukorra I osa 2. peatükis nimetatud parlamendi volitatud ametnikud, parlamendi juhtorganid, parlamendikomisjonid, parlamentidevahelised delegatsioonid või parlamendi peasekretariaat.\n\r\
+\n\r\
+2.   Dokumentidele juurdepääsu mõttes tähistab väljend „parlamendi dokument” määruse (EÜ) nr 1049/2001 artikli 3 punkti a tähenduses teksti, mille on koostanud või saanud kodukorra I osa 2. peatükis nimetatud parlamendi volitatud ametnikud, parlamendi juhtorganid, parlamendikomisjonid, parlamentidevahelised delegatsioonid või parlamendi peasekretariaat. \n\r\
 \n\r\
 Vastavalt Euroopa Parlamendi liikmete põhimääruse artiklile 4 on üksikute parlamendiliikmete või fraktsioonide koostatud dokumendid juurdepääsu mõttes parlamendi dokumendid ainult siis, kui need on parlamendile esitatud kooskõlas kodukorraga.\n\r\
 \n\r\
 Juhatus võtab vastu eeskirjad, et tagada parlamendi kõikide dokumentide registreerimine.\n\r\
 \n\r\
-3.   Parlament seab sisse parlamendi dokumentide avaliku registri veebisaidi. Seadusandlikele dokumentidele ja teatavatele muudele dokumendiliikidele võimaldatakse kooskõlas määrusega (EÜ) nr 1049/2001 parlamendi avaliku registri veebisaidi kaudu vahetu juurdepääs. Võimaluse korral lisatakse parlamendi avaliku registri veebisaidile viited muudele parlamendi dokumentidele.\n\r\
+\n\r\
+3.   Parlament seab sisse parlamendi dokumentide avaliku registri veebisaidi. Seadusandlikele dokumentidele ja teatavatele muudele dokumendiliikidele võimaldatakse kooskõlas määrusega (EÜ) nr 1049/2001 parlamendi avaliku registri veebisaidi kaudu vahetu juurdepääs. Võimaluse korral lisatakse parlamendi avaliku registri veebisaidile viited muudele parlamendi dokumentidele. \n\r\
 \n\r\
 Juhatus võtab vastu nimekirja dokumendiliikidest, millele on parlamendi avaliku registri veebisaidi kaudu vahetu juurdepääs, ning see avaldatakse parlamendi avaliku registri veebisaidil. Nimekiri ei piira juurdepääsu dokumentidele, mis ei kuulu selles loetletud dokumendiliikide hulka. Sellised dokumendid võib teha kättesaadavaks kirjaliku taotluse alusel kooskõlas määrusega (EÜ) nr 1049/2001.\n\r\
 \n\r\
 Juhatus võtab vastavalt määrusele (EÜ) nr 1049/2001 vastu dokumentidele juurdepääsu reguleerivad eeskirjad, mis avaldatakse Euroopa Liidu Teatajas.\n\r\
+\n\r\
 \n\r\
 4.   Juhatus määrab kindlaks organid, mille ülesanne on esialgsete juurdepääsutaotluste läbivaatamine (nimetatud määruse (EÜ) nr 1049/2001 artikkel 7) ning otsuste vastuvõtmine kordustaotluste (nimetatud määruse artikkel 8) ja tundliku sisuga dokumentidele juurdepääsu taotluste kohta (määruse artikkel 9).\n\r\
 \n\r\
@@ -1752,12 +1804,12 @@ Juhatus võtab vastavalt määrusele (EÜ) nr 1049/2001 vastu dokumentidele juur
 \n\r\
 6.   Juhatus võtab vastu määruse (EÜ) nr 1049/2001 artikli 17 lõikes 1 osutatud aastaaruande.\n\r\
 \n\r\
-7.   Parlamendi vastutav komisjon kontrollib korrapäraselt parlamendi tegevuse läbipaistvust ja esitab täiskogule aruande oma järelduste ja soovitustega.\n\r\
+7.   Parlamendi vastutav komisjon kontrollib korrapäraselt parlamendi tegevuse läbipaistvust ja esitab täiskogule aruande oma järelduste ja soovitustega. \n\r\
 \n\r\
 Vastutav komisjon võib kontrollida ja hinnata ka aruandeid, mille on määruse (EÜ) nr 1049/2001 artikli 17 alusel vastu võtnud teised institutsioonid või asutused.\n\r\
 \n\r\
-8.   Esimeeste konverents nimetab parlamendi esindajad määruse (EÜ) nr 1049/2001 artikli 15 lõike 2 alusel moodustatud institutsioonidevahelisse komisjoni.\n\r\
 \n\r\
+8.   Esimeeste konverents nimetab parlamendi esindajad määruse (EÜ) nr 1049/2001 artikli 15 lõike 2 alusel moodustatud institutsioonidevahelisse komisjoni.\n\r\
 \n\r\
 Artikkel 116a : Pääs parlamendi ruumidesse\n\r\
 \n\r\
@@ -1765,7 +1817,7 @@ Artikkel 116a : Pääs parlamendi ruumidesse\n\r\
 \n\r\
 2.   Läbipääsulube ei anta parlamendiliikme lähikonda kuuluvatele isikutele, kes kuuluvad Euroopa Parlamendi ja Euroopa Komisjoni kokkuleppe (läbipaistvusregistri kohta) kohaldamisalasse.\n\r\
 \n\r\
-3.   Läbipaistvusregistrisse kantud üksused ja nende esindajad, kellele on antud Euroopa Parlamendi pikaajaline läbipääsuluba, peavad järgima:\n\r\
+3.   Läbipaistvusregistrisse kantud üksused ja nende esindajad, kellele on antud Euroopa Parlamendi pikaajaline läbipääsuluba, peavad järgima: \n\r\
 \n\r\
 -   kokkuleppele lisatud registreeritute käitumisjuhendit;\n\r\
 \n\r\
@@ -1775,6 +1827,7 @@ Artikkel 116a : Pääs parlamendi ruumidesse\n\r\
 \n\r\
 Ilma et see piiraks pikaajaliste läbipääsulubade äravõtmise või ajutise deaktiveerimise üldreeglite kohaldamist ning välja arvatud juhul, kui on mõjuvaid põhjuseid luba mitte ära võtta või seda deaktiveerida, võtab peasekretär kvestorite nõusolekul pikaajalise läbipääsuloa ära või deaktiveerib selle, kui loa omanik on läbipaistvusregistrist kustutatud registreeritute käitumisjuhendi rikkumise tõttu või kui ta on raskelt rikkunud käesoleva lõikes sätestatud kohustusi või kui ta on keeldunud ilma seda piisavalt põhjendamata järgimast ametlikku korraldust tulla kuulamisele või komisjoni koosolekule või teha uurimiskomisjoniga koostööd.\n\r\
 \n\r\
+\n\r\
 4.   Kvestorid võivad otsustada, millisel määral kohaldatakse lõikes 3 osutatud käitumisjuhendit isikute suhtes, kellel on pikaajaline läbipääsuluba, kuid kes ei kuulu kokkuleppe kohaldamisalasse.\n\r\
 \n\r\
 5.   Juhatus kehtestab peasekretäri ettepanekul meetmed, mida on registri loomist käsitleva kokkuleppe kohaselt vaja läbipaistvusregistri kasutusele võtmiseks."
@@ -1782,13 +1835,15 @@ Ilma et see piiraks pikaajaliste läbipääsulubade äravõtmise või ajutise de
 {
 'id': 117,
 'title': 'Artikkel 117 : Euroopa Komisjoni presidendi valimine',
-'text': "1.   Kui Euroopa Ülemkogu esitab Euroopa Komisjoni presidendi kandidaadi, palub parlamendi president kandidaadil esineda parlamendi ees avaldusega ja tutvustada oma poliitilisi eesmärke. Tema avaldusele järgneb arutelu.\n\r\
+'text': "1.   Kui Euroopa Ülemkogu esitab Euroopa Komisjoni presidendi kandidaadi, palub parlamendi president kandidaadil esineda parlamendi ees avaldusega ja tutvustada oma poliitilisi eesmärke. Tema avaldusele järgneb arutelu. \n\r\
 \n\r\
 Euroopa Ülemkogu kutsutakse arutelust osa võtma.\n\r\
 \n\r\
-2.   Vastavalt Euroopa Liidu lepingu artikli 17 lõikele 7 valib parlament Euroopa Komisjoni presidendi oma liikmete enamusega.\n\r\
+\n\r\
+2.   Vastavalt Euroopa Liidu lepingu artikli 17 lõikele 7 valib parlament Euroopa Komisjoni presidendi oma liikmete enamusega. \n\r\
 \n\r\
 Hääletus on salajane.\n\r\
+\n\r\
 \n\r\
 3.   Kui kandidaat osutub valituks, teatab president sellest nõukogule ning palub nõukogul ja Euroopa Komisjoni ametisseastuval presidendil seada vastastikusel kokkuleppel üles kandidaadid komisjoni liikmete ametikohtadele.\n\r\
 \n\r\
@@ -1801,9 +1856,10 @@ Hääletus on salajane.\n\r\
 \n\r\
 2.   Pärast nõupidamist Euroopa Komisjoni ametisseastuva presidendiga palub parlamendi president kandidaatidel, kelle Euroopa Komisjoni ametisseastuv president ja nõukogu on volinike ametikohtadele üles seadnud, esineda asjaomaste parlamendikomisjonide või organite ees lähtuvalt nende kavandatud vastutusalast.\n\r\
 \n\r\
-3.   Kuulamised viiakse läbi parlamendikomisjonides.\n\r\
+3.   Kuulamised viiakse läbi parlamendikomisjonides. \n\r\
 \n\r\
 Erandjuhul võib kuulamine toimuda teistsuguses vormis, kui volinikukandidaadi vastutusala on peamiselt horisontaalne, tingimusel et kuulamisel osalevad ka vastutavad komisjonid. Kuulamised on avalikud.\n\r\
+\n\r\
 \n\r\
 4.   Asjaomane parlamendikomisjon või -komisjonid paluvad volinikukandidaadil esineda avaldusega ja vastata küsimustele. Kuulamised korraldatakse nii, et volinikukandidaat saab avaldada parlamendile kogu asjakohase teabe. Kuulamiste korraldamist käsitlevad sätted kehtestatakse kodukorra lisana(1).\n\r\
 \n\r\
@@ -1817,14 +1873,14 @@ Erandjuhul võib kuulamine toimuda teistsuguses vormis, kui volinikukandidaadi v
 \n\r\
 9.   Kui Euroopa Komisjoni ametiaja jooksul jagatakse vastutusalad olulisel määral ümber või muudetakse komisjoni koosseisu, kutsutakse asjaomased volinikud või volinikukandidaadid kuulamisele, mis toimub vastavalt lõigetele 3 ja 4.\n\r\
 \n\r\
-10.   Kui voliniku vastutusala või finantshuvid tema ametiaja jooksul muutuvad, peab parlament seda kontrollima kooskõlas VI lisaga.\n\r\
+10.   Kui voliniku vastutusala või finantshuvid tema ametiaja jooksul muutuvad, peab parlament seda kontrollima kooskõlas VI lisaga. \n\r\
 \n\r\
 Kui voliniku ametiaja jooksul tuvastatakse huvide konflikt ja Euroopa Komisjoni president ei täida selle lahendamiseks parlamendi soovitusi, võib parlament paluda Euroopa Komisjoni presidendil avaldada kõnealusele volinikule Euroopa Parlamendi ja Euroopa Komisjoni suhete raamkokkuleppe punkti 5 kohaselt umbusaldust ning kui see on asjakohane, võtta meetmeid, millega jätta see volinik Euroopa Liidu toimimise lepingu artikli 245 teise lõigu kohaselt ilma õigusest saada pensioni või muid seda asendavaid soodustusi.\n\r\
 \n\r\
-\n\r\
-(1)	Vt VI lisa.\n\r\
-\n\r\
-\n\r\
+ \n\r\
+ \n\r\
+(1) Vt VI lisa. \n\r\
+ \n\r\
 Artikkel 118a : Mitmeaastane programmitöö\n\r\
 \n\r\
 Uue komisjoni ametissenimetamisel vahetavad parlament, nõukogu ja Euroopa Komisjon vastavalt paremat õigusloomet käsitleva institutsioonidevahelise kokkuleppe punktile 5 arvamusi ja lepivad kokku ühistes järeldustes mitmeaastase programmitöö kohta.\n\r\
@@ -1877,10 +1933,9 @@ Enne ühistele järeldustele alla kirjutamist taotleb president esimeeste konver
 \n\r\
 4.   Kui parlament lükkab mõne kandidatuuri tagasi, palub president selle kandidatuuri tagasi võtta ja esitada parlamendile uue kandidaadi.\n\r\
 \n\r\
-\n\r\
 Artikkel 122a : Ametissenimetamised majandusjuhtimise organites\n\r\
 \n\r\
-1.   Käesolevat artiklit kohaldatakse järgmistele ametissenimetamistele:\n\r\
+1.   Käesolevat artiklit kohaldatakse järgmistele ametissenimetamistele: \n\r\
 \n\r\
 -   ühtse järelevalvemehhanismi järelevalvenõukogu esimees ja aseesimees;\n\r\
 \n\r\
@@ -1889,6 +1944,7 @@ Artikkel 122a : Ametissenimetamised majandusjuhtimise organites\n\r\
 -   Euroopa Järelevalveasutuse (Euroopa Pangandusjärelevalve, Euroopa Väärtpaberiturujärelevalve, Euroopa Kindlustus- ja Tööandjapensionide Järelevalve) eesistujad ja tegevdirektorid; ning\n\r\
 \n\r\
 -   Euroopa Strateegiliste Investeeringute Fondi tegevdirektor ja tegevdirektori asetäitja.\n\r\
+\n\r\
 \n\r\
 2.   Igal kandidaadil palutakse esineda avaldusega parlamendi vastutava komisjoni ees ja vastata selle liikmete küsimustele.\n\r\
 \n\r\
@@ -1950,11 +2006,12 @@ Artikkel 122a : Ametissenimetamised majandusjuhtimise organites\n\r\
 {
 'id': 128,
 'title': 'Artikkel 128 : Suuliselt vastatav küsimus aruteluga',
-'text': "1.   Parlamendikomisjon, fraktsioon või vähemalt miinimumlävendile vastav arv parlamendiliikmeid võivad esitada nõukogule, Euroopa Komisjonile või Euroopa Komisjoni asepresidendile ning liidu välisasjade ja julgeolekupoliitika kõrgele esindajale küsimusi, millele on lisatud taotlus kanda need küsimused parlamendi päevakorda.\n\r\
+'text': "1.   Parlamendikomisjon, fraktsioon või vähemalt miinimumlävendile vastav arv parlamendiliikmeid võivad esitada nõukogule, Euroopa Komisjonile või Euroopa Komisjoni asepresidendile ning liidu välisasjade ja julgeolekupoliitika kõrgele esindajale küsimusi, millele on lisatud taotlus kanda need küsimused parlamendi päevakorda. \n\r\
 \n\r\
 Küsimused esitatakse kirjalikult presidendile. President saadab need viivitamatult edasi esimeeste konverentsile.\n\r\
 \n\r\
 Esimeeste konverents otsustab, kas võtta küsimused päevakorra projekti vastavalt artiklis 149 sätestatud korrale või mitte. Küsimused, mida ei võeta parlamendi päevakorra projekti kolme kuu jooksul pärast nende esitamist, aeguvad.\n\r\
+\n\r\
 \n\r\
 2.   Küsimused Euroopa Komisjonile ja Euroopa Komisjoni asepresidendile ning liidu välisasjade ja julgeolekupoliitika kõrgele esindajale tuleb saata adressaadile vähemalt üks nädal enne istungit, mille päevakorda need küsimused võetakse, ja küsimused nõukogule vähemalt kolm nädalat enne vastavat istungit.\n\r\
 \n\r\
@@ -1975,7 +2032,7 @@ Esimeeste konverents otsustab, kas võtta küsimused päevakorra projekti vastav
 \n\r\
 4.   Infotunniks eraldatud aega eelnevalt ei jaotata. President tagab võimaluse piires, et kordamööda saavad küsimusi esitada erinevate poliitiliste vaadetega ja eri liikmesriikidest valitud parlamendiliikmed.\n\r\
 \n\r\
-5.   Parlamendiliikmele antakse aega üks minut küsimuse esitamiseks ja volinikule kaks minutit vastamiseks. Sama parlamendiliige võib esitada 30 sekundi pikkuse põhiküsimusega otseselt seotud täiendava küsimuse. Seejärel antakse volinikule kaks minutit aega täiendavale küsimusele vastamiseks.\n\r\
+5.   Parlamendiliikmele antakse aega üks minut küsimuse esitamiseks ja volinikule kaks minutit vastamiseks. Sama parlamendiliige võib esitada 30 sekundi pikkuse põhiküsimusega otseselt seotud täiendava küsimuse. Seejärel antakse volinikule kaks minutit aega täiendavale küsimusele vastamiseks. \n\r\
 \n\r\
 Küsimused ja täiendavad küsimused peavad olema otseselt seotud lõike 1 alusel valitud kindla horisontaalse teemaga. President võib otsustada küsimuste lubatavuse üle."
 },
@@ -1995,41 +2052,43 @@ Küsimused ja täiendavad küsimused peavad olema otseselt seotud lõike 1 aluse
 6.   Iga parlamendiliige võib esitada ühe prioriteetse küsimuse kuus.\n\r\
 \n\r\
 7.   Küsimused ja vastused ning nende lisad avaldatakse parlamendi veebisaidil.\n\r\
-\n\r\
-\n\r\
-(1)	Vt III lisa.\n\r\
-\n\r\
-\n\r\
+ \n\r\
+ \n\r\
+(1) Vt III lisa. \n\r\
+ \n\r\
 Artikkel 130a : Lühemad kirjalikult vastatavad arupärimised\n\r\
 \n\r\
-1.   Lühemate arupärimistega, mis koosnevad kirjalikult vastatavatest küsimustest, võivad parlamendikomisjon, fraktsioon või vähemalt viis protsenti parlamendi liikmetest paluda nõukogul, Euroopa Komisjonil või Euroopa Komisjoni asepresidendil ning liidu välisasjade ja julgeolekupoliitika kõrgel esindajal esitada parlamendile teavet konkreetselt kindlaks määratud teemadel.\n\r\
+1.   Lühemate arupärimistega, mis koosnevad kirjalikult vastatavatest küsimustest, võivad parlamendikomisjon, fraktsioon või vähemalt viis protsenti parlamendi liikmetest paluda nõukogul, Euroopa Komisjonil või Euroopa Komisjoni asepresidendil ning liidu välisasjade ja julgeolekupoliitika kõrgel esindajal esitada parlamendile teavet konkreetselt kindlaks määratud teemadel. \n\r\
 \n\r\
 Küsimused esitatakse presidendile, kes – tingimusel, et küsimused on üldiselt kodukorraga kooskõlas ja vastavad kodukorra lisas(1) sätestatud kriteeriumidele – palub adressaadil vastata kahe nädala jooksul; president võib tähtaega küsimuse esitajatega konsulteerides pikendada.\n\r\
+\n\r\
 \n\r\
 2.   Küsimused ja vastused avaldatakse parlamendi veebisaidil.\n\r\
 \n\r\
 \n\r\
-(1)	Vt II lisa.\n\r\
+(1) Vt II lisa. \n\r\
 \n\r\
 \n\r\
 Artikkel 130b : Põhjalikumad kirjalikult vastatavad arupärimised koos aruteluga\n\r\
 \n\r\
-1.   Põhjalikumaid arupärimisi, mis koosnevad kirjalikult vastatavatest küsimustest koos aruteluga, võivad parlamendikomisjon, fraktsioon või vähemalt viis protsenti parlamendi liikmetest esitada nõukogule, Euroopa Komisjonile või Euroopa Komisjoni asepresidendile ning liidu välisasjade ja julgeolekupoliitika kõrgele esindajale. Küsimustele võib olla lisatud lühike põhjendus.\n\r\
+1.   Põhjalikumaid arupärimisi, mis koosnevad kirjalikult vastatavatest küsimustest koos aruteluga, võivad parlamendikomisjon, fraktsioon või vähemalt viis protsenti parlamendi liikmetest esitada nõukogule, Euroopa Komisjonile või Euroopa Komisjoni asepresidendile ning liidu välisasjade ja julgeolekupoliitika kõrgele esindajale. Küsimustele võib olla lisatud lühike põhjendus. \n\r\
 \n\r\
 Küsimused esitatakse kirjalikult presidendile, kes – tingimusel, et need küsimused on üldiselt kodukorraga kooskõlas ja vastavad kodukorra lisas(1) sätestatud kriteeriumidele – teavitab viivitamata küsimuse adressaati ning palub adressaadil teatada, kas ja millal küsimusele vastatakse.\n\r\
+\n\r\
 \n\r\
 2.   Pärast kirjaliku vastuse saamist kantakse põhjalikum arupärimine parlamendi päevakorra projekti vastavalt artiklis 149 sätestatud korrale. Kui parlamendikomisjon, fraktsioon või vähemalt viis protsenti parlamendi liikmetest seda nõuab, tuleb korraldada arutelu.\n\r\
 \n\r\
 3.   Kui adressaat keeldub küsimusele vastamast või ei vasta kolme nädala jooksul, kantakse küsimus päevakorra projekti. Kui parlamendikomisjon, fraktsioon või vähemalt viis protsenti parlamendi liikmetest seda nõuab, tuleb korraldada arutelu. Enne arutelu võib ühele küsimuse esitajatest anda võimaluse küsimust täiendavalt põhjendada.\n\r\
 \n\r\
-4.   Üks küsimuse esitajatest võib küsimuse täiskogu istungil ette kanda. Üks asjaomase institutsiooni liige vastab.\n\r\
+4.   Üks küsimuse esitajatest võib küsimuse täiskogu istungil ette kanda. Üks asjaomase institutsiooni liige vastab. \n\r\
 \n\r\
 Artikli 123 lõikeid 2–5 resolutsiooni ettepanekute esitamise ja nende hääletusele panemise kohta kohaldatakse vajalike muudatustega.\n\r\
 \n\r\
+\n\r\
 5.   Need küsimused ja vastused avaldatakse parlamendi veebisaidil.\n\r\
-\n\r\
-\n\r\
-(1)	Vt II lisa."
+ \n\r\
+ \n\r\
+(1) Vt II lisa. "
 },
 {
 'id': 131,
@@ -2041,12 +2100,11 @@ Artikli 123 lõikeid 2–5 resolutsiooni ettepanekute esitamise ja nende hääle
 3.   Küsimused ja vastused avaldatakse parlamendi veebisaidil.\n\r\
 \n\r\
 4.   Kui kirjalikult vastatavale küsimusele ei ole kuue nädala jooksul vastatud, võib selle esitaja taotlusel võtta vastutava komisjoni järgmise Euroopa Keskpanga presidendi osavõtul toimuva koosoleku päevakorda.\n\r\
-\n\r\
-\n\r\
-(1)	Vt II lisa.\n\r\
-\n\r\
-\n\r\
-Artikkel 131a : Kirjalikult vastatavad küsimused ühtse järelevalvemehhanismi ja ühtse kriisilahenduskorra kohta\n\r\
+ \n\r\
+ \n\r\
+(1) Vt II lisa. \n\r\
+ \n\r\
+ Artikkel 131a : Kirjalikult vastatavad küsimused ühtse järelevalvemehhanismi ja ühtse kriisilahenduskorra kohta\n\r\
 \n\r\
 1.   Artikli 131 lõikeid 1, 2 ja 3 kohaldatakse kirjalikult vastatavatele küsimustele, mis puudutavad ühtset järelevalvemehhanismi ja ühtset kriisilahenduskorda, vajalike muudatustega. Nende küsimuste arv lahutatakse artikli 131 lõikes 1 sätestatud kuue küsimuse ülemmäärast.\n\r\
 \n\r\
@@ -2062,15 +2120,17 @@ Artikkel 131a : Kirjalikult vastatavad küsimused ühtse järelevalvemehhanismi 
 {
 'id': 133,
 'title': 'Artikkel 133 : Resolutsiooni ettepanekud',
-'text': "1.   Iga parlamendiliige võib esitada resolutsiooni ettepaneku Euroopa Liidu tegevusvaldkonda kuuluvas küsimuses.\n\r\
+'text': "1.   Iga parlamendiliige võib esitada resolutsiooni ettepaneku Euroopa Liidu tegevusvaldkonda kuuluvas küsimuses. \n\r\
 \n\r\
 Ettepanek ei tohi olla pikem kui 200 sõna.\n\r\
 \n\r\
-2.   Ettepanek ei tohi:\n\r\
+\n\r\
+2.   Ettepanek ei tohi: \n\r\
 \n\r\
 -   sisaldada otsuseid küsimustes, mille jaoks on kodukorras, eelkõige artiklis 46 sätestatud kindel kord ja pädevus, ega\n\r\
 \n\r\
 -   käsitleda küsimusi, mida parlamendis parajasti menetletakse.\n\r\
+\n\r\
 \n\r\
 3.   Iga parlamendiliige võib esitada ainult ühe niisuguse ettepaneku kuus.\n\r\
 \n\r\
@@ -2084,7 +2144,7 @@ Ettepanek ei tohi olla pikem kui 200 sõna.\n\r\
 \n\r\
 8.   Euroopa Liidu teistele institutsioonidele kirja vormis esitatavad arvamused, millele on osutatud lõikes 5, edastab neile president.\n\r\
 \n\r\
-9.   Lõike 1 alusel esitatud resolutsiooni ettepaneku võivad resolutsiooni ettepaneku autor, autorid või esimene allakirjutanu tagasi võtta seni, kuni vastutav komisjon ei ole otsustanud koostada lõike 5 alusel selle kohta raportit.\n\r\
+9.   Lõike 1 alusel esitatud resolutsiooni ettepaneku võivad resolutsiooni ettepaneku autor, autorid või esimene allakirjutanu tagasi võtta seni, kuni vastutav komisjon ei ole otsustanud koostada lõike 5 alusel selle kohta raportit. \n\r\
 \n\r\
 Kui vastutav komisjon on raporti koostamise otsusega resolutsiooni ettepaneku üle võtnud, on ainult vastutaval komisjonil õigus see tagasi võtta. Tagasivõtmise õigus on vastutaval komisjonil kuni lõpphääletuse alguseni täiskogu istungil."
 },
@@ -2098,13 +2158,15 @@ Kui vastutav komisjon on raporti koostamise otsusega resolutsiooni ettepaneku ü
 'title': 'Artikkel 135 : Inimõiguste, demokraatia ja õigusriigi põhimõtte rikkumise juhtumite arutamine',
 'text': "1.   Parlamendikomisjon, parlamentidevaheline delegatsioon, fraktsioon või vähemalt miinimumlävendile vastav arv parlamendiliikmeid võivad esitada presidendile kirjaliku taotluse korraldada arutelu inimõiguste, demokraatia ja õigusriigi põhimõtte rikkumise kiireloomuliste juhtumite üle.\n\r\
 \n\r\
-2.   Lõikes 1 osutatud taotluste ja III lisa sätete alusel koostab esimeeste konverents nimekirja arutelu teemadest, mis lisatakse järgmise inimõiguste, demokraatia või õigusriigi põhimõtte rikkumist käsitleva arutelu lõplikku päevakorra projekti. Päevakorda võetavate teemade ja alateemade koguarv ei tohi olla suurem kui kolm.\n\r\
+2.   Lõikes 1 osutatud taotluste ja III lisa sätete alusel koostab esimeeste konverents nimekirja arutelu teemadest, mis lisatakse järgmise inimõiguste, demokraatia või õigusriigi põhimõtte rikkumist käsitleva arutelu lõplikku päevakorra projekti. Päevakorda võetavate teemade ja alateemade koguarv ei tohi olla suurem kui kolm. \n\r\
 \n\r\
 Vastavalt artikli 149a sätetele võib parlament jätta kõrvale mõne teema, mille arutamine oli ette nähtud, ja asendada selle teemaga, mille arutamist ei olnud ette nähtud. Parlamendikomisjon, fraktsioon või vähemalt miinimumlävendile vastav arv parlamendiliikmeid võivad esitada resolutsiooni ettepanekuid nendel teemadel selle päeva õhtuks, kui päevakord vastu võetakse. Täpse tähtaja kõnealuste resolutsiooni ettepanekute esitamiseks määrab president.\n\r\
 \n\r\
-3.   Fraktsioonidele ja fraktsioonilise kuuluvuseta parlamendiliikmetele eraldatakse arutelude koguajast kõneaega vastavalt artikli 162 lõigetele 4 ja 5 kokku kuni 60 minutit osaistungjärgu kohta.\n\r\
+\n\r\
+3.   Fraktsioonidele ja fraktsioonilise kuuluvuseta parlamendiliikmetele eraldatakse arutelude koguajast kõneaega vastavalt artikli 162 lõigetele 4 ja 5 kokku kuni 60 minutit osaistungjärgu kohta. \n\r\
 \n\r\
 Pärast resolutsiooni ettepanekute tutvustamiseks vajaliku aja ning Euroopa Komisjonile ja nõukogule eraldatud kõneaja arvesse võtmist üle jääv aeg jagatakse fraktsioonide ja fraktsioonilise kuuluvuseta parlamendiliikmete vahel.\n\r\
+\n\r\
 \n\r\
 4.   Arutelu lõppedes toimub viivitamatult hääletus. Artiklit 183 (hääletuse kohta selgituste andmine) ei kohaldata.\n\r\
 \n\r\
@@ -2134,11 +2196,12 @@ Kui artikli 168 lõike 3 alusel nõutakse kvoorumi kontrollimist, kehtib see nõ
 'title': 'Artikkel 137 : Konsulteerimine Euroopa Majandus-ja Sotsiaalkomiteega',
 'text': "1.   Kui Euroopa Liidu toimimise leping näeb ette konsulteerimise Majandus- ja Sotsiaalkomiteega, algatab president nõuandemenetluse ja teavitab sellest parlamenti.\n\r\
 \n\r\
-2.   Parlamendikomisjon võib taotleda, et üldiste probleemide või konkreetsete küsimuste käsitlemisel konsulteeritaks Euroopa Majandus- ja Sotsiaalkomiteega.\n\r\
+2.   Parlamendikomisjon võib taotleda, et üldiste probleemide või konkreetsete küsimuste käsitlemisel konsulteeritaks Euroopa Majandus- ja Sotsiaalkomiteega. \n\r\
 \n\r\
 Parlamendikomisjon märgib oma taotluses tähtaja, mille jooksul palutakse Euroopa Majandus-ja Sotsiaalkomiteel esitada oma arvamus.\n\r\
 \n\r\
 Euroopa Majandus- ja Sotsiaalkomiteega konsulteerimise taotlus tehakse parlamendile teatavaks järgmisel osaistungjärgul ja see loetakse heakskiidetuks, kui fraktsioon või vähemalt miinimumlävendile vastav arv parlamendiliikmeid ei taotle 24 tunni jooksul alates taotlusest teatamisest, et see pandaks hääletusele.\n\r\
+\n\r\
 \n\r\
 3.   Majandus- ja Sotsiaalkomitee arvamused saadetakse vastutavale komisjonile."
 },
@@ -2147,11 +2210,12 @@ Euroopa Majandus- ja Sotsiaalkomiteega konsulteerimise taotlus tehakse parlamend
 'title': 'Artikkel 138 : Konsulteerimine Regioonide Komiteega',
 'text': "1.   Kui Euroopa Liidu toimimise leping näeb ette konsulteerimise Regioonide Komiteega, algatab president nõuandemenetluse ja teavitab sellest parlamenti.\n\r\
 \n\r\
-2.   Parlamendikomisjon võib taotleda, et üldiste probleemide või konkreetsete küsimuste käsitlemisel konsulteeritaks Regioonide Komiteega.\n\r\
+2.   Parlamendikomisjon võib taotleda, et üldiste probleemide või konkreetsete küsimuste käsitlemisel konsulteeritaks Regioonide Komiteega. \n\r\
 \n\r\
 Parlamendikomisjon märgib oma taotluses tähtaja, mille jooksul palutakse Regioonide Komiteel esitada oma arvamus.\n\r\
 \n\r\
 Regioonide Komiteega konsulteerimise taotlus tehakse parlamendile teatavaks järgmisel osaistungjärgul ja see loetakse heakskiidetuks, kui fraktsioon või vähemalt miinimumlävendile vastav arv parlamendiliikmeid ei taotle 24 tunni jooksul alates taotlusest teatamisest, et see pandaks hääletusele.\n\r\
+\n\r\
 \n\r\
 3.   Regioonide Komitee arvamused saadetakse vastutavale komisjonile."
 },
@@ -2167,9 +2231,10 @@ Regioonide Komiteega konsulteerimise taotlus tehakse parlamendile teatavaks jär
 {
 'id': 140,
 'title': 'Artikkel 140 : Institutsioonidevahelised kokkulepped',
-'text': "1.   Parlament võib aluslepingute kohaldamiseks või menetluste parandamiseks või täpsustamiseks sõlmida teiste institutsioonidega kokkuleppeid.\n\r\
+'text': "1.   Parlament võib aluslepingute kohaldamiseks või menetluste parandamiseks või täpsustamiseks sõlmida teiste institutsioonidega kokkuleppeid. \n\r\
 \n\r\
-Kokkuleppe võib vormistada ühisdeklaratsiooni, kirjavahetuse, toimimisjuhendi või muu sobiva dokumendi vormis. Kui põhiseaduskomisjon on kokkuleppe läbi vaadanud ja parlament selle heaks kiitnud, kirjutab president sellele alla.\n\r\
+Kokkuleppe võib vormistada ühisdeklaratsiooni, kirjavahetuse, toimimisjuhendi või muu sobiva dokumendi vormis. Kui põhiseaduskomisjon on kokkuleppe läbi vaadanud ja parlament selle heaks kiitnud, kirjutab president sellele alla. \n\r\
+\n\r\
 \n\r\
 2.   Kui kokkulepe eeldab parlamendiliikmete või parlamendi organite seniste kodukorrast tulenevate menetlusi puudutavate õiguste või kohustuste muutmist või uute kehtestamist või kodukorra või selle tõlgendamise muul viisil muutmist, edastatakse küsimus enne kokkuleppe allakirjutamist artikli 226 lõigete 2–6 alusel läbivaatamiseks valdkonna eest vastutavale komisjonile."
 },
@@ -2180,17 +2245,19 @@ Kokkuleppe võib vormistada ühisdeklaratsiooni, kirjavahetuse, toimimisjuhendi 
 \n\r\
 2.   Kui õigusasjade eest vastutav komisjon on seisukohal, et liidu õigust on rikutud, annab ta selle kohta parlamendile aru, vajaduse korral suuliselt. Kui see on asjakohane, võib õigusasjade eest vastutav komisjon kuulata ära valdkonna eest vastutava komisjoni seisukoha.\n\r\
 \n\r\
-3.   President esitab õigusasjade eest vastutava komisjoni soovituse alusel parlamendi nimel Euroopa Liidu Kohtule hagi.\n\r\
+3.   President esitab õigusasjade eest vastutava komisjoni soovituse alusel parlamendi nimel Euroopa Liidu Kohtule hagi. \n\r\
 \n\r\
 President võib paluda järgmise osaistungjärgu alguses parlamendil otsustada, kas hagemist jätkata. Kui parlament hääletab antud häälte enamusega hagi vastu, võtab president hagi tagasi.\n\r\
 \n\r\
 Kui president esitab kohtule hagi õigusasjade eest vastutava komisjoni soovituse vastaselt, palub ta järgmise osaistungjärgu alguses parlamendil otsustada, kas hagemist jätkata.\n\r\
 \n\r\
-4.   President esitab parlamendi nimel kohtuasjade kohta tähelepanekuid või sekkub menetlusse pärast konsulteerimist õigusasjade eest vastutava komisjoniga.\n\r\
+\n\r\
+4.   President esitab parlamendi nimel kohtuasjade kohta tähelepanekuid või sekkub menetlusse pärast konsulteerimist õigusasjade eest vastutava komisjoniga. \n\r\
 \n\r\
 Kui president kavatseb vastutava komisjoni soovitusest kõrvale kalduda, teavitab ta sellest õigusasjade eest vastutavat komisjoni ja edastab küsimuse esimeeste konverentsile, märkides ära oma otsuse põhjused.\n\r\
 \n\r\
 Kui esimeeste konverents on seisukohal, et Euroopa Liidu Kohtu menetluses olevas kohtuasjas, mis käsitleb parlamendi õigusakti kehtivust, ei ole parlamendil erandkorras vaja tähelepanekuid esitada või menetlusse sekkuda, esitatakse küsimus viivitamatult parlamendile.\n\r\
+\n\r\
 \n\r\
 Kodukord ei takista õigusasjade eest vastutaval komisjonil otsustada asjakohase menetluse üle, et edastada kiireloomulistel juhtudel oma soovitus õigeaegselt.\n\r\
 \n\r\
@@ -2205,9 +2272,10 @@ Kui otsus tuleb teha selle kohta, kas parlament peaks kasutama oma õigusi Euroo
 'title': 'Artikkel 142 : Teabevahetus, kontaktid ning vastastikune ruumide ja muude vahendite kasutamine',
 'text': "1.   Parlament hoiab liikmesriikide parlamente oma tegevusega regulaarselt kursis.\n\r\
 \n\r\
-2.   Parlamentidevahelise koostöö tulemusliku ja regulaarse korralduse ja edendamise üle liidus vastavalt riikide parlamentide rolli Euroopa Liidus käsitleva protokolli (nr 1) artiklile 9 peetakse läbirääkimisi esimeeste konverentsilt saadud volituste alusel pärast konsulteerimist komisjonide esimeeste konverentsiga.\n\r\
+2.   Parlamentidevahelise koostöö tulemusliku ja regulaarse korralduse ja edendamise üle liidus vastavalt riikide parlamentide rolli Euroopa Liidus käsitleva protokolli (nr 1) artiklile 9 peetakse läbirääkimisi esimeeste konverentsilt saadud volituste alusel pärast konsulteerimist komisjonide esimeeste konverentsiga. \n\r\
 \n\r\
 Euroopa Parlament kiidab kõik selliseid küsimusi käsitlevad kokkulepped heaks kodukorra artiklis 140 osutatud korras.\n\r\
+\n\r\
 \n\r\
 3.   Parlamendikomisjon võib alustada dialoogi otse riikide parlamentidega komisjonide tasandil selleks eraldatud eelarveassigneeringute piires. See võib hõlmata seadusandlikule tegevusele eelnevat ja järgnevat koostööd sobivas vormis.\n\r\
 \n\r\
@@ -2220,9 +2288,9 @@ Euroopa Parlament kiidab kõik selliseid küsimusi käsitlevad kokkulepped heaks
 'title': 'Artikkel 143 : Euroopa Liidu parlamentide Euroopa Liidu asjade komisjonide konverents (COSAC)',
 'text': "1.   Presidendi ettepanekul nimetab esimeeste konverents parlamendi delegatsiooni COSACi juurde ja võib anda delegatsioonile tegutsemisvolitused. Delegatsiooni juhivad Euroopa Parlamendi asepresident, kes vastutab suhete eest riikide parlamentidega, ja põhiseadusküsimuste eest vastutava komisjoni esimees.\n\r\
 \n\r\
-2.   Delegatsiooni teised liikmed valitakse COSACi koosolekul arutusele tulevatest teemadest lähtuvalt nii, et võimaluse korral on liikmeteks nende teemade eest vastutavate komisjonide esindajad.\n\r\
+2.   Delegatsiooni teised liikmed valitakse COSACi koosolekul arutusele tulevatest teemadest lähtuvalt nii, et võimaluse korral on liikmeteks nende teemade eest vastutavate komisjonide esindajad. \n\r\
 \n\r\
-3.   Delegatsiooni liikmete valmimisel võetakse arvesse poliitiliste jõudude esindatust parlamendis.\n\r\
+3.   Delegatsiooni liikmete valmimisel võetakse arvesse poliitiliste jõudude esindatust parlamendis. \n\r\
 \n\r\
 4.   Pärast iga COSACi koosolekut esitab delegatsioon esimeeste konverentsile aruande."
 },
@@ -2251,7 +2319,7 @@ Euroopa Parlament kiidab kõik selliseid küsimusi käsitlevad kokkulepped heaks
 \n\r\
 3.   Esimeeste konverents võib põhjendatud otsusega muuta lõike 1 alusel määratud katkestuste kestust vähemalt kaks nädalat enne istungjärgu jätkumise kuupäeva, mille parlament on varem kindlaks määranud. Istungjärgu jätkumise kuupäeva ei tohi edasi lükata rohkem kui kahe nädala võrra.\n\r\
 \n\r\
-4.   Parlamendi liikmete enamuse, Euroopa Komisjoni või nõukogu taotlusel, kutsub president pärast nõupidamist esimeeste konverentsiga parlamendi erandkorras kokku.\n\r\
+4.   Parlamendi liikmete enamuse, Euroopa Komisjoni või nõukogu taotlusel, kutsub president pärast nõupidamist esimeeste konverentsiga parlamendi erandkorras kokku. \n\r\
 \n\r\
 Presidendil on õigus esimeeste konverentsi heakskiidul parlamenti erandkorras kokku kutsuda ka kiireloomulistel juhtudel."
 },
@@ -2274,31 +2342,33 @@ Brüsselis peetavate täiendavate osaistungjärkude korraldamise ettepanekud ja 
 {
 'id': 149,
 'title': 'Artikkel 149 : Päevakorra projekt',
-'text': "1.   Enne iga osaistungjärgu algust koostab esimeeste konverents komisjonide esimeeste konverentsi soovituste alusel päevakorra projekti.\n\r\
+'text': "1.   Enne iga osaistungjärgu algust koostab esimeeste konverents komisjonide esimeeste konverentsi soovituste alusel päevakorra projekti. \n\r\
 \n\r\
 Euroopa Komisjon ja nõukogu võivad presidendi kutsel osaleda esimeeste konverentsi nõupidamistel, millel käsitletakse päevakorra projekti.\n\r\
+\n\r\
 \n\r\
 2.   Päevakorra projektis võib ära märkida arutusele tulevate küsimuste hääletusele panemise ajad.\n\r\
 \n\r\
 3.   Lõplik päevakorra projekt tehakse parlamendiliikmetele kättesaadavaks hiljemalt kolm tundi enne osaistungjärgu algust.\n\r\
 \n\r\
-\n\r\
 Artikkel 149a : Päevakorra kinnitamine ja muutmine\n\r\
 \n\r\
 1.   Iga osaistungjärgu alguses võtab parlament vastu päevakorra. Lõplikule päevakorra projektile võivad muudatusettepanekuid esitada parlamendikomisjon, fraktsioon või vähemalt miinimumlävendile vastav arv parlamendiliikmeid. Muudatusettepanekud tuleb esitada presidendile hiljemalt üks tund enne osaistungjärgu algust. President võib anda sõna ettepaneku esitajale ja ühele sõnavõtjale ettepaneku vastu; sõnavõtu pikkus on kuni üks minut.\n\r\
 \n\r\
-2.   Pärast kinnitamist ei ole päevakorda enam võimalik muuta, välja arvatud artiklite 154, 187, 188, 189, 190 või 191 kohaldamisel või presidendi ettepanekul.\n\r\
+2.   Pärast kinnitamist ei ole päevakorda enam võimalik muuta, välja arvatud artiklite 154, 187, 188, 189, 190 või 191 kohaldamisel või presidendi ettepanekul. \n\r\
 \n\r\
 Kui menetlusega seotud päevakorra muutmise ettepanek lükatakse tagasi, ei saa seda sama osaistungjärgu jooksul enam esitada.\n\r\
+\n\r\
 \n\r\
 3.   Enne istungi lõppenuks kuulutamist teatab president parlamendile järgmise istungi toimumise kuupäeva, kellaaja ja päevakorra."
 },
 {
 'id': 150,
 'title': 'Artikkel 150 : Menetlus täiskogul ilma muudatusettepanekute ja aruteluta',
-'text': "1.   Raport, mille parlamendikomisjon on võtnud vastu vähem kui ühe kümnendiku vastava komisjoni liikmete vastuhäälega, kantakse parlamendi osaistungjärgu päevakorra projekti hääletuseks muudatusettepanekuteta.\n\r\
+'text': "1.   Raport, mille parlamendikomisjon on võtnud vastu vähem kui ühe kümnendiku vastava komisjoni liikmete vastuhäälega, kantakse parlamendi osaistungjärgu päevakorra projekti hääletuseks muudatusettepanekuteta. \n\r\
 \n\r\
 Kõnealuse päevakorrapunkti üle toimub üks hääletus, välja arvatud juhul, kui enne lõpliku päevakorra projekti koostamist on parlamendiliikmed või fraktsioon(id) vastavalt vähemalt keskmisele lävendile komisjonis palunud kirjalikult luba esitada kõnealuse õigusakti kohta muudatusettepanekuid; sellisel juhul määrab president tähtaja muudatusettepanekute esitamiseks.\n\r\
+\n\r\
 \n\r\
 2.   Punktides, mis on lõplikku päevakorra projekti kantud hääletuseks ilma muudatusettepanekuteta, pannakse samuti hääletusele ilma aruteluta, välja arvatud juhul, kui parlament otsustab osaistungjärgu alguses päevakorra kinnitamisel esimeeste konverentsi ettepanekul teisiti või kui fraktsioon või vähemalt miinimumlävendile vastav arv parlamendiliikmeid on esitanud vastava taotluse.\n\r\
 \n\r\
@@ -2329,7 +2399,6 @@ Kõnealuse päevakorrapunkti üle toimub üks hääletus, välja arvatud juhul, 
 \n\r\
 5.   Arutelu lõpetatakse resolutsiooni vastu võtmata.\n\r\
 \n\r\
-\n\r\
 Artikkel 153a : Temaatiline arutelu fraktsiooni taotlusel\n\r\
 \n\r\
 1.   Iga osaistungjärgu päevakorra projektis eraldatakse üks või kaks vähemalt ühetunnist perioodi aruteluks Euroopa Liidu poliitika olulisel teemal.\n\r\
@@ -2355,7 +2424,7 @@ Artikkel 153a : Temaatiline arutelu fraktsiooni taotlusel\n\r\
 \n\r\
 4.   Kiireloomulisena käsitletavad küsimused võetakse päevakorda eelisjärjekorras. President määrab kindlaks arutelu ja hääletuse toimumise aja.\n\r\
 \n\r\
-5.   Kiireloomuline menetlus võib toimuda ilma raportita või erandkorras vastutava komisjoni suulise ettekande alusel.\n\r\
+5.   Kiireloomuline menetlus võib toimuda ilma raportita või erandkorras vastutava komisjoni suulise ettekande alusel. \n\r\
 \n\r\
 Kui kasutatakse kiireloomulist menetlust ja toimuvad institutsioonidevahelised läbirääkimised, ei kohaldata artikleid 69b ja 69c. Artiklit 69f kohaldatakse vajalike muudatustega."
 },
@@ -2401,9 +2470,9 @@ Kui kasutatakse kiireloomulist menetlust ja toimuvad institutsioonidevahelised l
 3.   Kohaldatakse nõukogu poolt aluslepingute alusel vastu võetud õigusaktide koostamise ajutist korda.\n\r\
 \n\r\
 4.   Parlament võib igal ajal juhatuse põhjendatud soovituse alusel võtta vastu otsuse tunnistada käesolev artikkel kehtetuks varem või lõikes 1 nimetatud tähtaja lõppemisel seda tähtaega pikendada.\n\r\
-\n\r\
-\n\r\
-(1)	Pikendatud parlamendi 26. veebruari 2014. aasta otsusega."
+ \n\r\
+ \n\r\
+(1) Pikendatud parlamendi 26. veebruari 2014. aasta otsusega. "
 },
 {
 'id': 160,
@@ -2426,7 +2495,7 @@ Ilma et see piiraks esimese lõigu kohaldamist, on parlamendiliikmetel ja frakts
 \n\r\
 3.   President võib arutelu esimeseks osaks koostada sõnavõtjate nimekirja, millesse kantakse fraktsioonide suhtelise suuruse järjekorras üks või mitu vooru sõnavõtjaid igast sõna võtta soovivast fraktsioonist.\n\r\
 \n\r\
-4.   Kõneaja eraldamisel arutelu selles osas lähtutakse järgmistest kriteeriumitest:\n\r\
+4.   Kõneaja eraldamisel arutelu selles osas lähtutakse järgmistest kriteeriumitest: \n\r\
 \n\r\
 (a)   üks osa kõneajast jaotatakse kõikide fraktsioonide vahel võrdselt;\n\r\
 \n\r\
@@ -2435,6 +2504,7 @@ Ilma et see piiraks esimese lõigu kohaldamist, on parlamendiliikmetel ja frakts
 (c)   fraktsioonilise kuuluvuseta parlamendiliikmetele eraldatakse kõneaega kokku vastavalt fraktsioonidele punktide a ja b alusel eraldatavale kõneajale;\n\r\
 \n\r\
 (d)   kõneaja eraldamisel täiskogu istungil võetakse arvesse asjaolu, et puuetega parlamendiliikmed võivad vajada rohkem aega.\n\r\
+\n\r\
 \n\r\
 5.   Kui kõneaega eraldatakse mitme päevakorrapunkti jaoks, teavitavad fraktsioonid presidenti sellest, kuidas neile eraldatud kõneaeg jaotub üksikute päevakorrapunktide vahel. President tagab kõneajast kinnipidamise.\n\r\
 \n\r\
@@ -2460,12 +2530,12 @@ Ilma et see piiraks esimese lõigu kohaldamist, on parlamendiliikmetel ja frakts
 {
 'id': 164,
 'title': 'Artikkel 164 : Isiklikud avaldused',
-'text': "1.   Parlamendiliikmetele, kes soovivad saada sõna isikliku avalduse tegemiseks, antakse selleks võimalus käsitletava päevakorrapunkti arutelu lõpus või selle istungi protokolli kinnitamise ajal, mille suhtes taotlus esitati.\n\r\
+'text': "1.   Parlamendiliikmetele, kes soovivad saada sõna isikliku avalduse tegemiseks, antakse selleks võimalus käsitletava päevakorrapunkti arutelu lõpus või selle istungi protokolli kinnitamise ajal, mille suhtes taotlus esitati. \n\r\
 \n\r\
 Parlamendiliige ei tohi võtta sõna arutelu sisu puuduvates küsimustes, vaid peab piirduma arutelu käigus tema isiku kohta tehtud märkuste või tema arvamusena esitatud väidete ümber lükkamisega, samuti võib ta parandada oma varasemaid arvamusavaldusi.\n\r\
 \n\r\
-2.   Isikliku avalduse tegemiseks on aega kuni kolm minutit, kui parlament ei otsusta teisiti.\n\r\
 \n\r\
+2.   Isikliku avalduse tegemiseks on aega kuni kolm minutit, kui parlament ei otsusta teisiti.\n\r\
 \n\r\
 Artikkel 164a : Parlamendi töö takistamise vältimine\n\r\
 \n\r\
@@ -2484,9 +2554,10 @@ Presidendil on õigus takistada erinevate ettepanekute, sõnavõttude ja taotlus
 \n\r\
 5.   Parlamendiliikme laimava, rassistliku või ksenofoobse keelekasutuse või käitumise korral võib president otsustada istungi otseülekande katkestada.\n\r\
 \n\r\
-6.   President võib anda korralduse kustutada istungi audiovisuaalsest salvestisest parlamendiliikme sõnavõtu osad, mis sisaldavad laimavaid, rassistlikke või ksenofoobseid väljendeid.\n\r\
+6.   President võib anda korralduse kustutada istungi audiovisuaalsest salvestisest parlamendiliikme sõnavõtu osad, mis sisaldavad laimavaid, rassistlikke või ksenofoobseid väljendeid. \n\r\
 \n\r\
 Korraldus jõustub viivitamata. Juhatus peab otsuse siiski kinnitama hiljemalt nelja nädala jooksul või kui selle aja jooksul juhatuse koosolekut ei toimu, siis järgmisel koosolekul.\n\r\
+\n\r\
 \n\r\
 7.   Lõigetes 1–6 sätestatud volitused antakse vajalike muudatustega parlamendi organite, komisjonide ja delegatsioonide istungite või koosolekute juhatajatele vastavalt kodukorras sätestatud korrale.\n\r\
 \n\r\
@@ -2495,7 +2566,7 @@ Korraldus jõustub viivitamata. Juhatus peab otsuse siiski kinnitama hiljemalt n
 {
 'id': 166,
 'title': 'Artikkel 166 : Karistused',
-'text': "1.   Kui parlamendiliige rikub tõsiselt korda või häirib parlamendi tööd, rikkudes artiklis 11 sätestatud põhimõtteid, teeb president põhistatud otsuse asjakohase karistuse rakendamise kohta.\n\r\
+'text': "1.   Kui parlamendiliige rikub tõsiselt korda või häirib parlamendi tööd, rikkudes artiklis 11 sätestatud põhimõtteid, teeb president põhistatud otsuse asjakohase karistuse rakendamise kohta. \n\r\
 \n\r\
 Enne otsuse tegemist palub president asjaomasel parlamendiliikmel esitada kirjalikud märkused. Erandjuhul võib president korraldada asjaomase parlamendiliikme suulise kuulamise.\n\r\
 \n\r\
@@ -2505,11 +2576,12 @@ Pärast parlamendiliikme otsusest teavitamist teeb president parlamendiliikmele 
 \n\r\
 Kui karistus on lõplik, avaldatakse see nähtaval kohal parlamendi veebisaidil, kuhu see jääb parlamendikoosseisu ametiaja lõpuni.\n\r\
 \n\r\
+\n\r\
 2.   Käitumise hindamisel tuleb arvesse võtta selle erakorralist, korduvat või alalist iseloomu, samuti selle tõsidust.\n\r\
 \n\r\
 Vahet tuleb teha visuaalselt väljenduval tegevusel, mis ei ole keelatud, kui see ei ole solvav, laimav, rassistlik ega ksenofoobne ja jääb mõistlikesse piiridesse, ning tegevusel, mis aktiivselt häirib parlamendi tegevust.\n\r\
 \n\r\
-3.   Karistus võib hõlmata ühte või mitut järgmistest meetmetest:\n\r\
+3.   Karistus võib hõlmata ühte või mitut järgmistest meetmetest: \n\r\
 \n\r\
 (a)   noomitus;\n\r\
 \n\r\
@@ -2520,6 +2592,7 @@ Vahet tuleb teha visuaalselt väljenduval tegevusel, mis ei ole keelatud, kui se
 (d)   kuni aastane keeld esindada parlamenti parlamentidevahelises delegatsioonis, parlamentidevahelisel konverentsil või institutsioonidevahelisel foorumil;\n\r\
 \n\r\
 (e)   konfidentsiaalsuskohustuste rikkumise korral kuni aastane juurepääsupiirang konfidentsiaalsele või salastatud teabele.\n\r\
+\n\r\
 \n\r\
 4.   Lõike 3 punktides b–e sätestatud meetmeid võib kahekordistada, kui tegu on korduvate rikkumistega või kui parlamendiliige keeldub täitmast artikli 165 lõike 3 alusel võetud meetmeid.\n\r\
 \n\r\
@@ -2545,10 +2618,9 @@ Elektroonilist hääletussüsteemi võib kasutada, et kontrollida lävendit (40 
 \n\r\
 5.   Kui kohal on vähem kui miinimumlävendile vastav arv parlamendiliikmeid, võib president teha otsuse kvoorumi puudumise kohta.\n\r\
 \n\r\
-\n\r\
 Artikkel 168a : Lävendid\n\r\
 \n\r\
-1.   Kui ei ole sätestatud teisiti, kasutatakse käesolevas kodukorras järgmisi mõisteid:\n\r\
+1.   Kui ei ole sätestatud teisiti, kasutatakse käesolevas kodukorras järgmisi mõisteid: \n\r\
 \n\r\
 (a)   miinimumlävend – üks kahekümnendik parlamendiliikmetest või fraktsioon;\n\r\
 \n\r\
@@ -2556,11 +2628,12 @@ Artikkel 168a : Lävendid\n\r\
 \n\r\
 (c)   kõrge lävend – üks viiendik parlamendiliikmetest; viiendiku võivad moodustada ühe või mitme fraktsiooni liikmed või üksikliikmed, või mõlema kombinatsioon.\n\r\
 \n\r\
+\n\r\
 2.   Kui on vaja parlamendiliikme allkirja, et teha kindlaks, kas vajalik lävend on saavutatud, võib allkirja anda kas käsitsi või elektrooniliselt, mispuhul toimub see parlamendi elektroonilise allkirjastamise süsteemi kaudu. Parlamendiliige võib ettenähtud tähtaja jooksul allkirja tagasi võtta, kuid ei või seda seejärel uuesti anda.\n\r\
 \n\r\
 3.   Kui lävendi saavutamiseks on vaja fraktsiooni toetust, tegutseb fraktsioon oma esimehe kaudu või esimehe poolt selleks määratud isiku kaudu.\n\r\
 \n\r\
-4.   Keskmise või kõrge lävendi kohaldamisel arvestatakse fraktsiooni toetust järgmiselt:\n\r\
+4.   Keskmise või kõrge lävendi kohaldamisel arvestatakse fraktsiooni toetust järgmiselt: \n\r\
 \n\r\
 -   kui istungi või koosoleku käigus kohaldatakse artiklit, milles on sätestatud kõnealune lävend: kõik toetavasse fraktsiooni kuuluvad parlamendiliikmed, kes on füüsiliselt kohal;\n\r\
 \n\r\
@@ -2569,11 +2642,12 @@ Artikkel 168a : Lävendid\n\r\
 {
 'id': 169,
 'title': 'Artikkel 169 : Muudatusettepanekute esitamine ja tutvustamine',
-'text': "1.   Täiskogule arutamiseks võivad muudatusettepanekuid esitada vastutav komisjon, fraktsioon või vähemalt miinimumlävendile vastav arv parlamendiliikmeid. Kõigi allakirjutanute nimed avaldatakse.\n\r\
+'text': "1.   Täiskogule arutamiseks võivad muudatusettepanekuid esitada vastutav komisjon, fraktsioon või vähemalt miinimumlävendile vastav arv parlamendiliikmeid. Kõigi allakirjutanute nimed avaldatakse. \n\r\
 \n\r\
 Muudatusettepanekud esitatakse kirjalikult ja koostajad peavad need allkirjastama.\n\r\
 \n\r\
 Õiguslikult siduvate aktide ettepanekute kohta esitatud muudatusettepanekutele võib lisada lühikese selgituse. Selgituste eest vastutab nende koostaja ja neid ei panda hääletusele.\n\r\
+\n\r\
 \n\r\
 2.   Arvestades artiklis 170 sätestatud piirangutega, võib muudatusettepanekuga taotleda teksti osa muutmist. Sellega võidakse taotleda sõnade või arvude väljajätmist, lisamist või asendamist.\n\r\
 \n\r\
@@ -2585,9 +2659,10 @@ Käesolevas artiklis ja artiklis 170 tähendab mõiste „tekst” tervet resolu
 \n\r\
 5.   Kui muudatusettepaneku esitaja võtab muudatusettepaneku tagasi ja seda ei võta kohe üle mõni teine parlamendiliige, muutub muudatusettepanek kehtetuks.\n\r\
 \n\r\
-6.   Muudatusettepanekut ei panda hääletusele enne, kui see on tehtud kättesaadavaks kõigis ametlikes keeltes, välja arvatud juhul, kui parlament otsustab teisiti. Parlament ei või teisiti otsustada, kui sellele on vastu vähemalt miinimumlävendile vastav arv parlamendiliikmeid. Parlament väldib otsuseid, mille tagajärjel seataks lubamatult ebasoodsasse olukorda parlamendiliikmed, kes kasutavad ühte kindlat keelt.\n\r\
+6.   Muudatusettepanekut ei panda hääletusele enne, kui see on tehtud kättesaadavaks kõigis ametlikes keeltes, välja arvatud juhul, kui parlament otsustab teisiti. Parlament ei või teisiti otsustada, kui sellele on vastu vähemalt miinimumlävendile vastav arv parlamendiliikmeid. Parlament väldib otsuseid, mille tagajärjel seataks lubamatult ebasoodsasse olukorda parlamendiliikmed, kes kasutavad ühte kindlat keelt. \n\r\
 \n\r\
 Kui kohal viibib vähem kui 100 parlamendiliiget, ei või parlament teha otsust, kui vähemalt kümnendik kohalviibivatest parlamendiliikmetest on vastu.\n\r\
+\n\r\
 \n\r\
 Presidendi ettepanekul käsitletakse suulist muudatusettepanekut või iga muud suulist muudatust samamoodi kui muudatusettepanekut, mis ei ole tehtud kättesaadavaks kõigis ametlikes keeltes. Kui president leiab, et see on artikli 170 lõike 2 kohaselt lubatav, ja välja arvatud juhul kui sellele ollakse vastu artikli 169 lõike 6 kohaselt, pannakse see hääletusele vastavalt ettenähtud hääletuse järjekorrale.\n\r\
 \n\r\
@@ -2596,7 +2671,7 @@ Parlamendikomisjonis määratakse sellise muudatusettepaneku või muudatuse hä�
 {
 'id': 170,
 'title': 'Artikkel 170 : Muudatusettepanekute lubatavus',
-'text': "1.   Ilma et see piiraks artikli 52 lõikes 4 sätestatud lisatingimusi algatusraportitele ja artikli 69 lõiget 2 nõukogu seisukoha muudatusettepanekute kohta, ei ole muudatusettepanek lubatav, kui:\n\r\
+'text': "1.   Ilma et see piiraks artikli 52 lõikes 4 sätestatud lisatingimusi algatusraportitele ja artikli 69 lõiget 2 nõukogu seisukoha muudatusettepanekute kohta, ei ole muudatusettepanek lubatav, kui: \n\r\
 \n\r\
 (a)   see ei puuduta otseselt teksti, mida soovitakse muuta;\n\r\
 \n\r\
@@ -2610,19 +2685,21 @@ Parlamendikomisjonis määratakse sellise muudatusettepaneku või muudatuse hä�
 \n\r\
 (f)   selle eesmärk on üksnes teksti keeleline korrektsus või terminoloogiline ühtsus keeles, milles muudatusettepanek esitati; sellisel juhul püüab president koos asjaomaste isikutega leida probleemile sobiva keelelise lahenduse.\n\r\
 \n\r\
+\n\r\
 2.   Muudatusettepanekute lubatavuse üle otsustab president.\n\r\
 \n\r\
 Lõike 2 alusel tehtav presidendi otsus muudatusettepanekute lubatavuse kohta ei põhine üksnes käesoleva artikli lõikel 1, vaid kodukorral tervikuna.\n\r\
 \n\r\
-3.   Fraktsioon või vähemalt miinimumlävendile vastav arv parlamendiliikmeid võib esitada alternatiivse resolutsiooni ettepaneku, mille eesmärk on asendada parlamendikomisjoni raportis sisalduv muu kui seadusandliku resolutsiooni ettepanek.\n\r\
+3.   Fraktsioon või vähemalt miinimumlävendile vastav arv parlamendiliikmeid võib esitada alternatiivse resolutsiooni ettepaneku, mille eesmärk on asendada parlamendikomisjoni raportis sisalduv muu kui seadusandliku resolutsiooni ettepanek. \n\r\
 \n\r\
 Sellisel juhul ei või fraktsioon ega asjaomased parlamendiliikmed esitada muudatusettepanekuid vastutava komisjoni resolutsiooni ettepaneku kohta. Alternatiivne resolutsiooni ettepanek ei tohi olla pikem kui vastutava komisjoni esitatud ettepanek. See pannakse parlamendis muudatusettepanekuteta ühele hääletusele.\n\r\
 \n\r\
 Artikli 123 lõikeid 4 ja 5 resolutsiooni ühisettepanekute kohta kohaldatakse vajalike muudatustega.\n\r\
 \n\r\
+\n\r\
 4.   Presidendi nõusolekul võib muudatusettepanekuid erandkorras esitada ka pärast muudatusettepanekute esitamise tähtaega, kui tegemist on kompromissmuudatusettepanekutega või kui on tehnilisi probleeme. Selliste muudatusettepanekute lubatavuse kohta teeb otsuse president. President peab saama nende muudatusettepanekute hääletusele panemiseks parlamendi eelneva nõusoleku.\n\r\
 \n\r\
-Kompromissmuudatusettepanekutele võib kohaldada järgmisi üldisi lubatavuse kriteeriume:\n\r\
+Kompromissmuudatusettepanekutele võib kohaldada järgmisi üldisi lubatavuse kriteeriume: \n\r\
 \n\r\
 -   kompromissmuudatusettepanekud puudutavad üldjuhul teksti neid osi, mille kohta on enne muudatusettepanekute esitamise tähtaja lõppu esitatud muudatusettepanekuid;\n\r\
 \n\r\
@@ -2630,12 +2707,13 @@ Kompromissmuudatusettepanekutele võib kohaldada järgmisi üldisi lubatavuse kr
 \n\r\
 -   kompromissmuudatusettepaneku esitamine eeldab üldjuhul teiste sama tekstiosa puudutavate muudatusettepanekute tagasivõtmist.\n\r\
 \n\r\
+\n\r\
 Ettepaneku võtta kompromissmuudatusettepanek arutusele saab teha üksnes president. Kompromissmuudatusettepaneku hääletusele panemiseks taotleb president parlamendi nõusolekut, küsides, kas keegi on ettepaneku hääletusele panemise vastu. Kui keegi on hääletuse vastu, teeb parlament otsuse ettepaneku hääletusele panemise kohta antud häälte enamusega."
 },
 {
 'id': 171,
 'title': 'Artikkel 171 : Hääletamise kord',
-'text': "1.   Kui kodukorras ei ole otsesõnu sätestatud teisiti, kohaldatakse parlamendile esitatud dokumentide hääletamisel järgmist menetlust:\n\r\
+'text': "1.   Kui kodukorras ei ole otsesõnu sätestatud teisiti, kohaldatakse parlamendile esitatud dokumentide hääletamisel järgmist menetlust: \n\r\
 \n\r\
 (a)   esiteks – õiguslikult siduva akti ettepaneku kohta esitatud muudatusettepanekute hääletus,\n\r\
 \n\r\
@@ -2646,6 +2724,7 @@ Ettepaneku võtta kompromissmuudatusettepanek arutusele saab teha üksnes presid
 (d)   lõpuks – resolutsiooni ettepaneku hääletus tervikuna (lõpphääletus).\n\r\
 \n\r\
 Raportis sisalduvat seletuskirja parlamendis hääletusele ei panda.\n\r\
+\n\r\
 \n\r\
 2.   Õiguslikult siduvate aktide ettepanekute ja muu kui seadusandliku resolutsiooni ettepanekute hääletamisel pannakse kõigepealt hääletusele sisulised osad ja seejärel volitused ja põhjendused.\n\r\
 \n\r\
@@ -2670,9 +2749,10 @@ Raportis sisalduvat seletuskirja parlamendis hääletusele ei panda.\n\r\
 \n\r\
 2.   Kui teksti sama osa kohta on esitatud kaks või enam üksteist välistavat muudatusettepanekut, on prioriteetne see muudatusettepanek, mis kõige rohkem originaalteksti muudab, ning see pannakse hääletusele esimesena. Kui see vastu võetakse, loetakse teised muudatusettepanekud tagasilükatuks. Kui see muudatusettepanek lükatakse tagasi, pannakse hääletusele prioriteetsuselt järgmine muudatusettepanek ja seda menetlust kasutatakse kõigi ülejäänud muudatusettepanekute puhul. Sama kehtib kõigi muudatusettepanekute hääletuste kohta. Kui prioriteeti on raske kindlaks määrata, teeb otsuse president. Kui kõik muudatusettepanekud lükatakse tagasi, loetakse vastuvõetuks originaaltekst, juhul kui kindlaksmääratud tähtaja jooksul ei ole nõutud selle üle eraldi hääletuse korraldamist.\n\r\
 \n\r\
-3.   Kui ta leiab, et see hõlbustab hääletus, võib president panna esimesena hääletusele originaalteksti; samuti võib ta originaalteksti vähem muutva muudatusettepaneku panna hääletusele enne teksti kõige enam muutvat muudatusettepanekut.\n\r\
+3.   Kui ta leiab, et see hõlbustab hääletus, võib president panna esimesena hääletusele originaalteksti; samuti võib ta originaalteksti vähem muutva muudatusettepaneku panna hääletusele enne teksti kõige enam muutvat muudatusettepanekut. \n\r\
 \n\r\
 Kui üks neist võetakse vastu, muutuvad teised sama tekstiosa puudutavad muudatusettepanekud kehtetuks.\n\r\
+\n\r\
 \n\r\
 4.   Kui hääletusele pannakse ka kompromissmuudatusettepanekuid, hääletatakse nende üle esmajärjekorras.\n\r\
 \n\r\
@@ -2682,9 +2762,10 @@ Kui üks neist võetakse vastu, muutuvad teised sama tekstiosa puudutavad muudat
 \n\r\
 7.   Kui teised muudatusettepanekud on üksteist täiendavad, võib president need hääletusele panna ühiselt, välja arvatud juhul, kui fraktsioon või vähemalt miinimumlävendile vastav arv parlamendiliikmeid on taotlenud eraldi või osade kaupa hääletamist. Ka muudatusettepanekute autorid võivad teha ettepaneku ühiseks hääletuseks, kui nende muudatusettepanekud on üksteist täiendavad.\n\r\
 \n\r\
-8.   President võib otsustada, et pärast teatava muudatusettepaneku vastuvõtmist või tagasilükkamist pannakse teised sarnase sisu või sarnase eesmärgiga muudatusettepanekud hääletusele ühiselt. President võib taotleda selleks parlamendi nõusolekut.\n\r\
+8.   President võib otsustada, et pärast teatava muudatusettepaneku vastuvõtmist või tagasilükkamist pannakse teised sarnase sisu või sarnase eesmärgiga muudatusettepanekud hääletusele ühiselt. President võib taotleda selleks parlamendi nõusolekut. \n\r\
 \n\r\
 Selline muudatusettepanekute kogum võib puudutada originaalteksti eri osi.\n\r\
+\n\r\
 \n\r\
 9.   Kui eri autorid on esitanud kaks või enam ühesugust muudatusettepanekut, pannakse need hääletusele ühe muudatusettepanekuna.\n\r\
 \n\r\
@@ -2714,13 +2795,15 @@ Käesoleva artikli rikkumist loetakse artikli 166 lõike 1 tähenduses istungi k
 {
 'id': 178,
 'title': 'Artikkel 178 : Hääletamine',
-'text': "1.   Üldjuhul hääletab parlament käe tõstmisega.\n\r\
+'text': "1.   Üldjuhul hääletab parlament käe tõstmisega. \n\r\
 \n\r\
 President võib igal ajal otsustada kasutada hääletamiseks elektroonilist hääletussüsteemi.\n\r\
 \n\r\
-2.   Hääletuse kuulutab alanuks ja lõppenuks president.\n\r\
+\n\r\
+2.   Hääletuse kuulutab alanuks ja lõppenuks president. \n\r\
 \n\r\
 Pärast hääletuse alanuks kuulutamist ei ole kuni hääletuse lõppenuks kuulutamiseni kellelgi peale presidendi õigust sõna võtta.\n\r\
+\n\r\
 \n\r\
 3.   Teksti vastuvõtmiseks või tagasilükkamiseks võetakse arvesse ainult poolt- ja vastuhääli, välja arvatud juhul, kui aluslepingute kohaselt on vajalik spetsiifiline enamus.\n\r\
 \n\r\
@@ -2736,7 +2819,6 @@ Pärast hääletuse alanuks kuulutamist ei ole kuni hääletuse lõppenuks kuulu
 'text': "Kui parlament teeb otsuse raporti alusel, toimub üks hääletus ja/või lõpphääletus nimeliselt vastavalt artikli 180 lõikele 3.\n\r\
 \n\r\
 Artikli 179 sätteid, mis käsitlevad nimelist hääletust, ei kohaldata artikli 8 lõikes 2 ja artikli 9 lõigetes 4, 7 ja 9 sätestatud raportitele parlamendiliikme puutumatusega seonduvates asjades.\n\r\
-\n\r\
 \n\r\
 Artikkel 179a : Häälte võrdne jagunemine\n\r\
 \n\r\
@@ -2759,24 +2841,25 @@ Artikli 180 sätteid, mis käsitlevad nimelist hääletust, ei kohaldata artikli
 \n\r\
 2.   Iga fraktsioon võib ühe osaistungjärgu kohta esitada kuni sada nimelise hääletuse taotlust.\n\r\
 \n\r\
-3.   Nimeline hääletus toimub elektroonilise hääletussüsteemi abil.\n\r\
+3.   Nimeline hääletus toimub elektroonilise hääletussüsteemi abil. \n\r\
 \n\r\
 Kui süsteemi ei saa tehnilistel põhjustel kasutada, võib nimeline hääletus toimuda tähestikulises järjekorras, alustades loosi teel esimeseks määratud parlamendiliikmest. Viimasena hääletab president. Hääletatakse suuliselt ja oma seisukoht väljendatakse sõnadega „jah“, „ei“ või „erapooletu“.\n\r\
 \n\r\
-4.   Hääletustulemus kantakse istungi protokolli fraktsioonide kaupa parlamendiliikmete nimede tähestikulises järjekorras ja märgitakse ära, kuidas iga parlamendiliige hääletas.\n\r\
 \n\r\
+4.   Hääletustulemus kantakse istungi protokolli fraktsioonide kaupa parlamendiliikmete nimede tähestikulises järjekorras ja märgitakse ära, kuidas iga parlamendiliige hääletas.\n\r\
 \n\r\
 Artikkel 180a : Salajane hääletus\n\r\
 \n\r\
-1.   Ametisse nimetamise puhul toimub salajane hääletus, ilma et see piiraks artikli 15 lõike 1 ja artikli 204 lõike 2 esimese lõigu kohaldamist.\n\r\
+1.   Ametisse nimetamise puhul toimub salajane hääletus, ilma et see piiraks artikli 15 lõike 1 ja artikli 204 lõike 2 esimese lõigu kohaldamist. \n\r\
 \n\r\
 Häälte arvu kindlakstegemisel võetakse arvesse ainult need hääletussedelid, millel seisab ülesseatud kandidaadi nimi.\n\r\
+\n\r\
 \n\r\
 2.   Salajane hääletus korraldatakse ka siis, kui seda taotlevad parlamendiliikmed või fraktsioon(id) vastavalt vähemalt kõrgele lävendile. Taotlus tuleb esitada enne hääletuse algust.\n\r\
 \n\r\
 3.   Salajase hääletuse korraldamise nõue on prioriteetne nimelise hääletuse korraldamise nõude suhtes.\n\r\
 \n\r\
-4.   Salajase hääletuse tulemused loevad kokku loosi teel valitud kaks kuni kaheksa parlamendiliiget, välja arvatud juhul, kui toimus elektrooniline hääletus.\n\r\
+4.   Salajase hääletuse tulemused loevad kokku loosi teel valitud kaks kuni kaheksa parlamendiliiget, välja arvatud juhul, kui toimus elektrooniline hääletus. \n\r\
 \n\r\
 Lõike 1 alusel korraldatava hääletuse puhul ei tohi häälte lugemisse kaasata kandidaate.\n\r\
 \n\r\
@@ -2805,13 +2888,14 @@ Salajasest hääletusest osa võtnud parlamendiliikmete nimed kantakse selle ist
 {
 'id': 183,
 'title': 'Artikkel 183 : Hääletuse kohta selgituste andmine',
-'text': "1.   Pärast hääletuse lõppu on parlamendiliikmel õigus anda kuni ühe minuti vältel suulisi selgitusi parlamendile esitatud hääletuspunktide kohta, mille puhul toimus üks hääletus ja/või lõpphääletus. Iga parlamendiliige võib ühel osaistungjärgul esitada hääletuste kohta kõige rohkem kolm suulist selgitust.\n\r\
+'text': "1.   Pärast hääletuse lõppu on parlamendiliikmel õigus anda kuni ühe minuti vältel suulisi selgitusi parlamendile esitatud hääletuspunktide kohta, mille puhul toimus üks hääletus ja/või lõpphääletus. Iga parlamendiliige võib ühel osaistungjärgul esitada hääletuste kohta kõige rohkem kolm suulist selgitust. \n\r\
 \n\r\
 Igal parlamendiliikmel on õigus esitada hääletuse kohta kuni 200 sõna pikkune kirjalik selgitus, mis lisatakse parlamendiliikme lehele parlamendi veebisaidil.\n\r\
 \n\r\
 Fraktsioonid võivad anda selgitusi hääletuse kohta kuni kahe minuti vältel.\n\r\
 \n\r\
 Pärast esimese hääletuspunkti kohta käiva esimese selgituse algust uusi selgituste andmise taotlusi ei rahuldata.\n\r\
+\n\r\
 \n\r\
 Hääletuse kohta selgituste andmise taotlusi võetakse vastu kõikide parlamendile esitatud hääletuspunktide kohta, mille puhul toimus üks hääletus ja/või lõpphääletus. Käesolevas artiklis ei tähenda mõiste „lõpphääletus“ hääletuse liiki, vaid viimast antud teema üle toimunud hääletust.\n\r\
 \n\r\
@@ -2841,7 +2925,7 @@ Kodukorda puudutava märkuse tegemise taotlus peab puudutama arutatavat päevako
 {
 'id': 185,
 'title': 'Artikkel 185 : Menetlusega seotud ettepanekud',
-'text': "1.   Järgmistel menetlusega seotud ettepaneku esitamise taotlustel on eelisõigus muude sõnavõtutaotluste ees:\n\r\
+'text': "1.   Järgmistel menetlusega seotud ettepaneku esitamise taotlustel on eelisõigus muude sõnavõtutaotluste ees: \n\r\
 \n\r\
 (a)   küsimuse käsitlemata jätmine (artikkel 187);\n\r\
 \n\r\
@@ -2857,6 +2941,7 @@ Kodukorda puudutava märkuse tegemise taotlus peab puudutama arutatavat päevako
 \n\r\
 Ülaltoodud ettepanekute puhul võib peale ettepaneku esitaja sõna anda ühele sõnavõtjale ettepaneku vastu ning vastutava komisjoni esimehele või raportöörile.\n\r\
 \n\r\
+\n\r\
 2.   Sõnavõtt ei tohi olla pikem kui üks minut."
 },
 {
@@ -2867,18 +2952,20 @@ Kodukorda puudutava märkuse tegemise taotlus peab puudutama arutatavat päevako
 {
 'id': 187,
 'title': 'Artikkel 187 : Ettepanek asja käsitlemata jätmiseks',
-'text': "1.   Päevakorrapunkti arutelu alguses võivad fraktsioon või vähemalt miinimumlävendile vastav arv parlamendiliikmeid esitada ettepaneku asja käsitlemata jätmiseks. Taotlus pannakse viivitamatult hääletusele.\n\r\
+'text': "1.   Päevakorrapunkti arutelu alguses võivad fraktsioon või vähemalt miinimumlävendile vastav arv parlamendiliikmeid esitada ettepaneku asja käsitlemata jätmiseks. Taotlus pannakse viivitamatult hääletusele. \n\r\
 \n\r\
 Käsitlemata jätmise ettepaneku esitamise kavatsusest tuleb presidendile vähemalt 24 tundi ette teatada. President teavitab sellest viivitamatult parlamenti.\n\r\
+\n\r\
 \n\r\
 2.   Kui ettepaneku alusel tehakse otsus asi käsitlemata jätta, asub parlament viivitamatult järgmise päevakorrapunkti juurde."
 },
 {
 'id': 188,
 'title': 'Artikkel 188 : Tagasisaatmine vastutavale komisjonile',
-'text': "1.   Vastutavale komisjonile tagasisaatmist võivad taotleda fraktsioon või vähemalt miinimumlävendile vastav arv parlamendiliikmeid päevakorra kinnitamisel või enne arutelu algust.\n\r\
+'text': "1.   Vastutavale komisjonile tagasisaatmist võivad taotleda fraktsioon või vähemalt miinimumlävendile vastav arv parlamendiliikmeid päevakorra kinnitamisel või enne arutelu algust. \n\r\
 \n\r\
 Kavatsusest esitada vastutavale komisjonile tagasisaatmise taotlus tuleb presidendile vähemalt 24 tundi ette teatada. President teavitab sellest viivitamatult parlamenti.\n\r\
+\n\r\
 \n\r\
 2.   Vastutavale komisjonile tagasisaatmise taotluse võivad fraktsioon või vähemalt miinimumlävendile vastav arv parlamendiliikmeid esitada ka enne hääletust või hääletuse ajal. Taotlus pannakse viivitamatult hääletusele.\n\r\
 \n\r\
@@ -2902,9 +2989,10 @@ Kavatsusest esitada vastutavale komisjonile tagasisaatmise taotlus tuleb preside
 {
 'id': 190,
 'title': 'Artikkel 190 : Arutelu või hääletuse edasilükkamine',
-'text': "1.   Päevakorrapunkti arutelu alguses võivad fraktsioon või vähemalt miinimumlävendile vastav arv parlamendiliikmeid teha ettepaneku lükata arutelu kindla kuupäeva ja kellaajani edasi. Taotlus pannakse viivitamatult hääletusele.\n\r\
+'text': "1.   Päevakorrapunkti arutelu alguses võivad fraktsioon või vähemalt miinimumlävendile vastav arv parlamendiliikmeid teha ettepaneku lükata arutelu kindla kuupäeva ja kellaajani edasi. Taotlus pannakse viivitamatult hääletusele. \n\r\
 \n\r\
 Kavatsusest esitada arutelu edasilükkamise ettepanek tuleb presidendile vähemalt 24 tundi ette teatada. President teavitab igast teatest parlamenti viivitamata.\n\r\
+\n\r\
 \n\r\
 2.   Kui ettepanek võetakse vastu, läheb parlament edasi järgmise päevakorrapunkti juurde. Edasilükatud arutelu toimub kindlaksmääratud kuupäeval ja kellaajal.\n\r\
 \n\r\
@@ -2973,10 +3061,10 @@ Analoogselt artikli 149a lõike 2 teises lõigus sätestatuga tuleb järgida nõ
 'text': "Esimeeste konverentsi ettepanekul moodustab parlament alalisi komisjone. Nende vastutusalad määratakse kindlaks kodukorra lisas(2). Lisa võetakse vastu antud häälte enamusega. Komisjonide liikmed valitakse vastvalitud parlamendi esimesel osaistungjärgul ning uuesti kahe ja poole aasta pärast.\n\r\
 \n\r\
 Alaliste komisjonide vastutusalasid on võimalik kindlaks määrata ka muul ajal kui komisjoni moodustamise otsuse vastuvõtmisel.\n\r\
-\n\r\
-\n\r\
-(1)	Artikli 196 muudatused, mis võeti vastu 13. detsembril 2016 (P8_TA(2016)0484), jõustuvad 2019. aastal toimuvatele parlamendivalimistele järgneva esimese osaistungjärgu avamisel. Seetõttu ei kajastu muudatused käesolevas versioonis.\n\r\
-(2)	Vt V lisa."
+ \n\r\
+ \n\r\
+(1) Artikli 196 muudatused, mis võeti vastu 13. detsembril 2016 (P8_TA(2016)0484), jõustuvad 2019. aastal toimuvatele parlamendivalimistele järgneva esimese osaistungjärgu avamisel. Seetõttu ei kajastu muudatused käesolevas versioonis. \n\r\
+(2) Vt V lisa. "
 },
 {
 'id': 197,
@@ -2986,16 +3074,17 @@ Alaliste komisjonide vastutusalasid on võimalik kindlaks määrata ka muul ajal
 2.   Erikomisjoni ametiaeg ei tohi ületada 12 kuud, välja arvatud juhul, kui parlament seda erikomisjoni ametiaja lõppemisel pikendab. Kui parlamendi otsuses erikomisjoni moodustamise kohta ei ole öeldud teisiti, hakatakse erikomisjoni ametiaega arvestama selle avakoosolekust.\n\r\
 \n\r\
 3.   Erikomisjonil ei ole õigust teistele komisjonidele arvamusi esitada.\n\r\
-\n\r\
-\n\r\
-(1)	Artikli 197 lõike 1 muudatused, mis võeti vastu 13. detsembril 2016 (P8_TA(2016)0484), jõustuvad 2019. aastal toimuvatele parlamendivalimistele järgneva esimese osaistungjärgu avamisel. Seetõttu ei kajastu muudatused käesolevas versioonis."
+ \n\r\
+ \n\r\
+(1) Artikli 197 lõike 1 muudatused, mis võeti vastu 13. detsembril 2016 (P8_TA(2016)0484), jõustuvad 2019. aastal toimuvatele parlamendivalimistele järgneva esimese osaistungjärgu avamisel. Seetõttu ei kajastu muudatused käesolevas versioonis. "
 },
 {
 'id': 198,
 'title': 'Artikkel 198 : Uurimiskomisjonid',
-'text': "1.   Kooskõlas Euroopa Liidu toimimise lepingu artikliga 226 ning Euroopa Parlamendi, nõukogu ja komisjoni otsuse 95/167/EÜ, Euratom, ESTÜ(1) artikliga 2 võib parlament veerandi oma koosseisu taotlusel moodustada uurimiskomisjoni, et uurida väidetavaid rikkumisi või liidu õiguse väidetavat ebaõiget rakendamist Euroopa Liidu institutsiooni või asutuse, liikmesriigi ametiasutuse või isiku poolt, kes on liidu õigusega volitatud seda õigust rakendama.\n\r\
+'text': "1.   Kooskõlas Euroopa Liidu toimimise lepingu artikliga 226 ning Euroopa Parlamendi, nõukogu ja komisjoni otsuse 95/167/EÜ, Euratom, ESTÜ(1) artikliga 2 võib parlament veerandi oma koosseisu taotlusel moodustada uurimiskomisjoni, et uurida väidetavaid rikkumisi või liidu õiguse väidetavat ebaõiget rakendamist Euroopa Liidu institutsiooni või asutuse, liikmesriigi ametiasutuse või isiku poolt, kes on liidu õigusega volitatud seda õigust rakendama. \n\r\
 \n\r\
 Uurimisobjekti, mille on kindlaks määranud veerand parlamendi koosseisust, ega lõikes 11 nimetatud tähtaega ei ole võimalik muuta.\n\r\
+\n\r\
 \n\r\
 2.   Uurimiskomisjoni moodustamise otsus avaldatakse ühe kuu jooksul pärast selle tegemist Euroopa Liidu Teatajas.\n\r\
 \n\r\
@@ -3011,25 +3100,26 @@ Uurimisobjekti, mille on kindlaks määranud veerand parlamendi koosseisust, ega
 \n\r\
 8.   Kahe koosoleku vahelisel ajal on uurimiskomisjoni koordinaatoritel õigus kiireloomulistel juhtudel ja vajaduse korral rakendada komisjoni volitusi, millele tuleb järgmisel komisjoni koosolekul taotleda nimetatud komisjoni heakskiitu.\n\r\
 \n\r\
-9.   Kasutatavate keelte osas kohaldab uurimiskomisjon artiklit 158, kuid uurimiskomisjoni juhatus\n\r\
+9.   Kasutatavate keelte osas kohaldab uurimiskomisjon artiklit 158, kuid uurimiskomisjoni juhatus \n\r\
 \n\r\
 -   võib piirata suulise tõlke korraldamist, võimaldades tõlke ainult arutelul osalevate komisjoni liikmete ametlikesse keeltesse, kui ta peab seda konfidentsiaalsuse tagamiseks vajalikuks,\n\r\
 \n\r\
 -   otsustab saadud dokumentide tõlke korraldamise üle, et tagada komisjoni arutelude tõhusus ja kiirus ning vajalik salajasus ja konfidentsiaalsus.\n\r\
 \n\r\
+\n\r\
 10.   Kui väidetava rikkumise või haldusliku omavoli eest liidu õiguse rakendamisel võib olla vastutav liikmesriigi organ või asutus, võib uurimiskomisjon paluda asjaomase liikmesriigi parlamendil teha uurimisel koostööd.\n\r\
 \n\r\
-11.   Uurimiskomisjon koostab pärast töö lõpetamist ja hiljemalt 12 kuu jooksul pärast komisjoni avakoosolekut parlamendile raporti oma töö tulemuste kohta. Parlament võib kaks korda otsustada seda tähtaega kolme kuu võrra pikendada. Raport võib asjakohasel juhul sisaldada vähemuse arvamusi, järgides artiklis 52a sätestatud tingimusi. Raport avaldatakse.\n\r\
+11.   Uurimiskomisjon koostab pärast töö lõpetamist ja hiljemalt 12 kuu jooksul pärast komisjoni avakoosolekut parlamendile raporti oma töö tulemuste kohta. Parlament võib kaks korda otsustada seda tähtaega kolme kuu võrra pikendada. Raport võib asjakohasel juhul sisaldada vähemuse arvamusi, järgides artiklis 52a sätestatud tingimusi. Raport avaldatakse. \n\r\
 \n\r\
 Uurimiskomisjoni taotlusel korraldab parlament raporti esitamisele järgneval osaistungjärgul selle üle arutelu.\n\r\
 \n\r\
+\n\r\
 12.   Lisaks võib uurimiskomisjon esitada parlamendile Euroopa Liidu või liikmesriikide institutsioonidele või asutustele suunatud soovituse projekti.\n\r\
 \n\r\
-13.   President teeb IV lisas nimetatud vastutavale komisjonile ülesandeks jälgida uurimiskomisjoni töö tulemuste alusel võetavaid meetmeid ja palub vajaduse korral selle kohta aru anda. President võtab kõik asjakohased meetmed, et tagada uurimiskomisjoni järelduste rakendamine.\n\r\
-\n\r\
-\n\r\
-(1)	Euroopa Parlamendi, nõukogu ja komisjoni 19. aprilli 1995. aasta otsus 95/167/EÜ, Euratom, ESTÜ Euroopa Parlamendi uurimisõiguse kasutamise erisätete kohta (EÜT L 113, 19.5.1995, lk 1).\n\r\
-(2)	Artikli 198 lõike 3 (nüüd artikli 198 lõige 4) muudatused, mis võeti vastu 13. detsembril 2016 (P8_TA(2016)0484), jõustuvad 2019. aastal toimuvatele parlamendivalimistele järgneva esimese osaistungjärgu avamisel. Seetõttu ei kajastu muudatused käesolevas versioonis."
+13.   President teeb IV lisas nimetatud vastutavale komisjonile ülesandeks jälgida uurimiskomisjoni töö tulemuste alusel võetavaid meetmeid ja palub vajaduse korral selle kohta aru anda. President võtab kõik asjakohased meetmed, et tagada uurimiskomisjoni järelduste rakendamine. \n\r\
+ \n\r\
+(1) Euroopa Parlamendi, nõukogu ja komisjoni 19. aprilli 1995. aasta otsus 95/167/EÜ, Euratom, ESTÜ Euroopa Parlamendi uurimisõiguse kasutamise erisätete kohta (EÜT L 113, 19.5.1995, lk 1). \n\r\
+(2) Artikli 198 lõike 3 (nüüd artikli 198 lõige 4) muudatused, mis võeti vastu 13. detsembril 2016 (P8_TA(2016)0484), jõustuvad 2019. aastal toimuvatele parlamendivalimistele järgneva esimese osaistungjärgu avamisel. Seetõttu ei kajastu muudatused käesolevas versioonis. "
 },
 {
 'id': 199,
@@ -3051,7 +3141,7 @@ Komisjoni kohtade jaotuse proportsionaalsus fraktsioonide vahel peab vastama lä
 6.   Muudatused esitatakse järgmisel istungil parlamendile kinnitamiseks.\n\r\
 \n\r\
 \n\r\
-(1)	Artikli 199 muudatused, mis võeti vastu 13. detsembril 2016 (P8_TA(2016)0484), jõustuvad 2019. aastal toimuvatele parlamendivalimistele järgneva esimese osaistungjärgu avamisel. Seetõttu ei kajastu muudatused käesolevas versioonis."
+(1) Artikli 199 muudatused, mis võeti vastu 13. detsembril 2016 (P8_TA(2016)0484), jõustuvad 2019. aastal toimuvatele parlamendivalimistele järgneva esimese osaistungjärgu avamisel. Seetõttu ei kajastu muudatused käesolevas versioonis. "
 },
 {
 'id': 200,
@@ -3064,17 +3154,20 @@ Kui mõne parlamendikomisjoni täisliikme koht on vabaks jäänud, on samasse fr
 \n\r\
 Lõige 2 kehtib vajalike muudatustega ka fraktsioonilise kuuluvuseta parlamendiliikmetele.\n\r\
 \n\r\
-Lõike 2 viimases lauses ettenähtud eelnev teatamine peab toimuma enne selle või nende punktide arutelu lõppu või enne selle või nende punktide hääletusele panemist, mille osas täisliige end esindada laseb.\n\r\
+Lõike 2 viimases lauses ettenähtud eelnev teatamine peab toimuma enne selle või nende punktide arutelu lõppu või enne selle või nende punktide hääletusele panemist, mille osas täisliige end esindada laseb. \n\r\
 \n\r\
 *\n\r\
 *        *\n\r\
-Käesoleva artikli sätted väljendavad selgelt kaht olulist põhimõtet:\n\r\
+\n\r\
+\n\r\
+Käesoleva artikli sätted väljendavad selgelt kaht olulist põhimõtet: \n\r\
 \n\r\
 -   fraktsioonil ei saa komisjonis olla rohkem alalisi asendusliikmeid kui täisliikmeid;\n\r\
 \n\r\
 -   ainult fraktsioonidel on õigus määrata alalisi asendusliikmeid; ainsaks tingimuseks on sel juhul presidendi teavitamine.\n\r\
 \n\r\
-Kokkuvõtteks:\n\r\
+\n\r\
+Kokkuvõtteks: \n\r\
 \n\r\
 -   alalise asendusliikme staatus sõltub ainult tema kuuluvusest vastavasse fraktsiooni;\n\r\
 \n\r\
@@ -3085,21 +3178,22 @@ Kokkuvõtteks:\n\r\
 -   mitte mingil tingimusel ei saa komisjoni liige olla teise fraktsiooni kuuluva kolleegi asendusliige.\n\r\
 \n\r\
 \n\r\
-(1)	Artikli 200 väljajätmine, mis kiideti heaks 13. detsembril 2016 (P8_TA(2016)0484), jõustub 2019. aastal toimuvatele parlamendivalimistele järgneva esimese osaistungjärgu avamisel. Seetõttu on artikkel käesolevas versioonis ära toodud."
+\n\r\
+(1) Artikli 200 väljajätmine, mis kiideti heaks 13. detsembril 2016 (P8_TA(2016)0484), jõustub 2019. aastal toimuvatele parlamendivalimistele järgneva esimese osaistungjärgu avamisel. Seetõttu on artikkel käesolevas versioonis ära toodud. "
 },
 {
 'id': 201,
 'title': 'Artikkel 201 : Komisjonide ülesanded',
 'text': "1.   Alalised komisjonid käsitlevad küsimusi, mida neile edastab parlament või istungjärgu vaheajal esimeeste konverentsi nimel president.\n\r\
 \n\r\
-2.   Kui küsimus kuulub mitme alalise komisjoni pädevusse, määratakse üks neist vastutavaks komisjoniks ja teised nõuandvateks komisjonideks.\n\r\
+2.   Kui küsimus kuulub mitme alalise komisjoni pädevusse, määratakse üks neist vastutavaks komisjoniks ja teised nõuandvateks komisjonideks. \n\r\
 \n\r\
 Reeglina tohib ühe küsimusega korraga tegeleda kuni kolm komisjoni, välja arvatud juhul, kui lõikes 1 nimetatud tingimustel otsustatakse sellest reeglist kõrvale kalduda.\n\r\
+\n\r\
 \n\r\
 3.   Kaks või enam komisjoni või allkomisjoni võivad oma pädevusse kuuluvaid küsimusi vaadata läbi ühiselt, kuid nad ei tohi teha ühist otsust, välja arvatud juhul, kui kohaldatakse artiklit 55.\n\r\
 \n\r\
 4.   Komisjon võib anda parlamendi asjaomaste organite nõusolekul ühele või mitmele liikmele uurimisülesande või ülesande hankida teavet.\n\r\
-\n\r\
 \n\r\
 Artikkel 201a : Pädevus\n\r\
 \n\r\
@@ -3132,11 +3226,12 @@ Artikkel 201a : Pädevus\n\r\
 'title': 'Artikkel 204 : Komisjoni juhatus',
 'text': "1.   Esimesel komisjoni koosolekul, mis järgneb artikli 199 alusel toimuvale komisjoni liikmete valimisele, valib komisjon juhatuse, kuhu kuuluvad esimees ja aseesimehed, kes valitakse komisjoni täisliikmete seast eraldi hääletusvoorudes. Valitavate aseesimeeste arvu määrab parlament kindlaks esimeeste konverentsi ettepaneku alusel. Iga komisjoni juhatuse koosseisus peab kajastuma parlamendi mitmekesisus; juhatus ei tohi koosneda ainult meestest või ainult naistest, samuti ei tohi kõik aseesimehed olla samast liikmesriigist.\n\r\
 \n\r\
-2.   Kui ülesseatud kandidaatide arv vastab vabade kohtade arvule, toimub valimine ühise heakskiitmise teel. Kui hääletusvoorus osaleb rohkem kui üks kandidaat või kui parlamendiliikmed või fraktsioon(id) vastavalt vähemalt kõrgele lävendile komisjoni liikmetest taotlevad hääletust, korraldatakse salajane hääletus.\n\r\
+2.   Kui ülesseatud kandidaatide arv vastab vabade kohtade arvule, toimub valimine ühise heakskiitmise teel. Kui hääletusvoorus osaleb rohkem kui üks kandidaat või kui parlamendiliikmed või fraktsioon(id) vastavalt vähemalt kõrgele lävendile komisjoni liikmetest taotlevad hääletust, korraldatakse salajane hääletus. \n\r\
 \n\r\
 Kui esitatud on üksainus kandidaat, osutub ta valituks antud häälte absoluutse enamusega; antud häälteks loetakse kandidaadi poolt ja vastu antud hääled.\n\r\
 \n\r\
 Kui osaleb mitu kandidaati, osutub valituks kandidaat, kes kogub esimeses hääletusvoorus antud häälte absoluutse enamuse. Teises hääletusvoorus osutub valituks kandidaat, kes saab kõige rohkem hääli. Võrdse häältearvu korral osutub valituks vanim kandidaat.\n\r\
+\n\r\
 \n\r\
 3.   Komisjonides kohaldatakse vajalike muudatustega järgmisi parlamendi ametikandjaid käsitlevaid artikleid: artikkel 14 (Ajutine istungi juhataja), artikkel 15 (Kandidaatide ülesseadmine ja üldsätted), artikkel 16 (Presidendi valimine ja avakõne), artikkel 19 (Ametikandjate ametiaeg) ja artikkel 20 (Vabaks jäävad ametikohad)."
 },
@@ -3145,7 +3240,7 @@ Kui osaleb mitu kandidaati, osutub valituks kandidaat, kes kogub esimeses hääl
 'title': 'Artikkel 205 : Komisjonide koordinaatorid',
 'text': "1.   Fraktsioonid võivad määrata igas komisjonis ühe oma liikme koordinaatoriks.\n\r\
 \n\r\
-2.   Komisjoni esimees kutsub vajadusel kokku komisjoni koordinaatorite koosoleku, et valmistada ette komisjonis tehtavaid otsuseid, eelkõige otsuseid menetluse ja raportööride nimetamise kohta. Komisjon võib koordinaatoritele delegeerida teatavate otsuste tegemise, välja arvatud raportite, resolutsiooni ettepanekute, arvamuste ja muudatusettepanekute vastuvõtmist puudutavad otsused.\n\r\
+2.   Komisjoni esimees kutsub vajadusel kokku komisjoni koordinaatorite koosoleku, et valmistada ette komisjonis tehtavaid otsuseid, eelkõige otsuseid menetluse ja raportööride nimetamise kohta. Komisjon võib koordinaatoritele delegeerida teatavate otsuste tegemise, välja arvatud raportite, resolutsiooni ettepanekute, arvamuste ja muudatusettepanekute vastuvõtmist puudutavad otsused. \n\r\
 \n\r\
 Komisjoni aseesimehi võib kutsuda koordinaatorite koosolekutel osalema nõuandvas rollis.\n\r\
 \n\r\
@@ -3153,10 +3248,10 @@ Kui konsensuse saavutamine ei ole võimalik, võivad koordinaatorid tegutseda ai
 \n\r\
 Esimees teeb komisjonis teatavaks kõik koordinaatorite otsused ja soovitused, mis loetakse vastuvõetuks, kui nende kohta ei esitata vastuväiteid. Need kantakse nõuetekohaselt komisjoni koosoleku protokolli.\n\r\
 \n\r\
+\n\r\
 Sõltumatud parlamendiliikmed ei moodusta fraktsiooni artikli 32 tähenduses, seega ei saa nad määrata koordinaatoreid, kellel on ainsate liikmetena õigus osaleda koordinaatorite koosolekutel.\n\r\
 \n\r\
 Igal juhul tuleb diskrimineerimiskeelu põhimõtet järgides kindlustada sõltumatute parlamendiliikmete ligipääs teabele neile teabe edastamise ja sõltumatute parlamendiliikmete sekretariaadi liikme koordinaatorite koosolekutel viibimise teel.\n\r\
-\n\r\
 \n\r\
 Artikkel 205a : Variraportöörid\n\r\
 \n\r\
@@ -3165,19 +3260,22 @@ Fraktsioonid võivad iga raporti puhul nimetada variraportööri, kes jälgib ra
 {
 'id': 206,
 'title': 'Artikkel 206 : Komisjonide koosolekud',
-'text': "1.   Komisjonide koosolekud toimuvad komisjoni esimehe kutsel või parlamendi presidendi palvel.\n\r\
+'text': "1.   Komisjonide koosolekud toimuvad komisjoni esimehe kutsel või parlamendi presidendi palvel. \n\r\
 \n\r\
 Komisjoni kokku kutsudes esitab esimees päevakorra projekti. Komisjon võtab koosoleku alguses vastu otsuse päevakorra kohta.\n\r\
 \n\r\
-2.   Komisjoni kutsel võivad komisjoni koosolekutel sõna võtta ka Euroopa Komisjoni, nõukogu ja teiste liidu institutsioonide esindajad. Kutsed edastab komisjoni nimel selle esimees.\n\r\
+\n\r\
+2.   Komisjoni kutsel võivad komisjoni koosolekutel sõna võtta ka Euroopa Komisjoni, nõukogu ja teiste liidu institutsioonide esindajad. Kutsed edastab komisjoni nimel selle esimees. \n\r\
 \n\r\
 Komisjoni otsusel võib koosolekul osalema ja sõna võtma kutsuda ka teisi isikuid.\n\r\
 \n\r\
+\n\r\
 Vastutav komisjon võib juhatuse nõusolekul korraldada ekspertide kuulamise, kui ta peab seda vajalikuks oma ülesannete edukaks täitmiseks teatavas valdkonnas.\n\r\
 \n\r\
-3.   Ilma et see piiraks artikli 53 lõike 8 kohaldamist ja kui asjaomane komisjon ei otsusta teisiti, ei või komisjoni koosolekutel osalevad, kuid komisjoni mittekuuluvad parlamendiliikmed võtta osa komisjonis toimuvatest aruteludest.\n\r\
+3.   Ilma et see piiraks artikli 53 lõike 8 kohaldamist ja kui asjaomane komisjon ei otsusta teisiti, ei või komisjoni koosolekutel osalevad, kuid komisjoni mittekuuluvad parlamendiliikmed võtta osa komisjonis toimuvatest aruteludest. \n\r\
 \n\r\
 Komisjon võib anda neile siiski õiguse osaleda komisjoni koosolekutel nõuandjana.\n\r\
+\n\r\
 \n\r\
 4.   Kõneaja eraldamist käsitleva artikli 162 lõiget 2 kohaldatakse vajalike muudatustega ka parlamendikomisjonides.\n\r\
 \n\r\
@@ -3209,8 +3307,7 @@ Artikli 208 lõike 3 sätteid, mis käsitlevad nimelist hääletust, ei kohaldat
 {
 'id': 210,
 'title': 'Artikkel 210 : Komisjoni infotund',
-'text': "Komisjon võib otsustada pidada infotunni. Infotunni pidamise korra määrab iga komisjon ise.\n\r\
-\n\r\
+'text': "Komisjon võib otsustada pidada infotunni. Infotunni pidamise korra määrab iga komisjon ise\n\r\
 \n\r\
 Artikkel 210a : Parlamendikomisjonide juurdepääs parlamendile edastatud konfidentsiaalsele teabele\n\r\
 \n\r\
@@ -3218,47 +3315,52 @@ Artikkel 210a : Parlamendikomisjonide juurdepääs parlamendile edastatud konfid
 \n\r\
 2.   Ilma et see piiraks lõike 1 kohaldamist, on juhul, kui saadud teabe konfidentsiaalsena käsitlemiseks ei ole mingit õiguslikku kohustust, igal komisjonil õigus kohaldada lõikes 3 ette nähtud salajast menetlust teabele või dokumendile omal algatusel, kui komisjoni liige on esitanud selleks kirjaliku või suulise taotluse. Sellisel juhul on salajase menetluse kohaldamise otsuse vastuvõtmiseks vaja kohalolevate parlamendiliikmete kahekolmandikulist häälteenamust.\n\r\
 \n\r\
-3.   Kui parlamendikomisjoni esimees on kuulutanud menetluse salajaseks, võivad koosolekutel viibida ainult selle komisjoni liikmed ning ametnikud ja eksperdid, kellele esimees on eelnevalt andnud vastava loa ja kelle kohalolek on tingimata vajalik.\n\r\
+3.   Kui parlamendikomisjoni esimees on kuulutanud menetluse salajaseks, võivad koosolekutel viibida ainult selle komisjoni liikmed ning ametnikud ja eksperdid, kellele esimees on eelnevalt andnud vastava loa ja kelle kohalolek on tingimata vajalik. \n\r\
 \n\r\
 Dokumendid jagatakse koosoleku alguses välja ja kogutakse koosoleku lõppedes taas kokku. Dokumendid on nummerdatud. Märkmete ja fotokoopiate tegemine nendest dokumentidest on keelatud.\n\r\
 \n\r\
 Koosoleku protokoll ei käsitle salajase küsimuse läbivaatamise üksikasju. Protokollida võib ainult otsuseid.\n\r\
+\n\r\
 \n\r\
 4.   Salajast menetlust kohaldava komisjoni parlamendiliikmed või fraktsioon(id) vastavalt vähemalt keskmisele lävendile võivad esitada taotluse konfidentsiaalsusnõuete rikkumise arutamiseks. Taotluse võib võtta komisjoni järgmise koosoleku päevakorda. Komisjon võib liikmete häälteenamusega võtta vastu otsuse edastada küsimus presidendile selle läbivaatamiseks artiklite 11 ja 166 alusel."
 },
 {
 'id': 211,
 'title': 'Artikkel 211 : Kodanikualgatustega seotud avalikud kuulamised',
-'text': "1.   Kui Euroopa Komisjon on kodanikualgatuse vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 211/2011(1) artikli 10 lõike 1 punktile a vastavas registris avaldanud, teeb Euroopa Parlamendi president komisjonide esimeeste konverentsi esimehe ettepanekul järgmist:\n\r\
+'text': "1.   Kui Euroopa Komisjon on kodanikualgatuse vastavalt Euroopa Parlamendi ja nõukogu määruse (EL) nr 211/2011(1) artikli 10 lõike 1 punktile a vastavas registris avaldanud, teeb Euroopa Parlamendi president komisjonide esimeeste konverentsi esimehe ettepanekul järgmist: \n\r\
 \n\r\
 (a)   teeb V lisa kohaselt valdkonna eest vastutavale komisjonile ülesandeks korraldada määruse (EL) nr 211/2011 artiklis 11 ette nähtud avalik kuulamine; petitsioonide eest vastutav komisjon kaasatakse menetlusse automaatselt kodukorra artikli 54 kohaselt;\n\r\
 \n\r\
 (b)   kui kaks või enam vastavalt määruse (EL) nr 211/2011 artikli 10 lõike 1 punktile a vastavas registris avaldatud kodanikualgatust käsitlevad sarnast teemat, võib pärast korraldajatega konsulteerimist otsustada, et korraldatakse ühine avalik kuulamine, kus käsitletakse võrdsel alusel kõiki asjaomaseid kodanikualgatusi.\n\r\
 \n\r\
-2.   Valdkonna eest vastutav komisjon:\n\r\
+\n\r\
+2.   Valdkonna eest vastutav komisjon: \n\r\
 \n\r\
 (a)   kontrollib, kas Euroopa Komisjon on korraldajad määruse (EL) nr 211/2011 artikli 10 lõike 1 punkti b kohaselt asjakohasel tasandil vastu võtnud;\n\r\
 \n\r\
 (b)   tagab – vajaduse korral komisjonide esimeeste konverentsi toetusel –, et Euroopa Komisjon on nõuetekohaselt kaasatud avaliku kuulamise korraldamisse ja on kuulamisel asjakohasel tasandil esindatud.\n\r\
 \n\r\
+\n\r\
 3.   Valdkonna eest vastutava komisjoni esimees kutsub avaliku kuulamise kokku sobival kuupäeval kolme kuu jooksul pärast seda, kui algatus on vastavalt määruse (EL) nr 211/2011 artiklile 9 Euroopa Komisjonile esitatud.\n\r\
 \n\r\
-4.   Valdkonna eest vastutav komisjon korraldab avaliku kuulamise Euroopa Parlamendis, vajaduse korral koos teiste liidu institutsioonide ja asutustega, kes soovivad osaleda. Ta võib kuulamisele kutsuda ka teisi sidusrühmi.\n\r\
+4.   Valdkonna eest vastutav komisjon korraldab avaliku kuulamise Euroopa Parlamendis, vajaduse korral koos teiste liidu institutsioonide ja asutustega, kes soovivad osaleda. Ta võib kuulamisele kutsuda ka teisi sidusrühmi. \n\r\
 \n\r\
 Valdkonna eest vastutav komisjon kutsub kuulamisele algatust tutvustama korraldajaid esindava rühma, kuhu kuulub vähemalt üks määruse (EL) nr 211/2011 artikli 3 lõike 2 teises lõigus osutatud kontaktisik.\n\r\
+\n\r\
 \n\r\
 5.   Juhatus kehtestab Euroopa Komisjoniga kokku lepitud korra kohaselt reeglid, mis käsitlevad tekkinud kulude hüvitamist.\n\r\
 \n\r\
 6.   Parlamendi president ja komisjonide esimeeste konverentsi esimees võivad käesoleva artikli kohased volitused delegeerida vastavalt asepresidendile ja mõne teise komisjoni esimehele.\n\r\
 \n\r\
-7.   Kui artiklites 54 või 55 sätestatud tingimused on täidetud, kohaldatakse neid sätteid vajalike muudatustega ka teistele komisjonidele. Kohaldatakse ka artikleid 201 ja 201a.\n\r\
+7.   Kui artiklites 54 või 55 sätestatud tingimused on täidetud, kohaldatakse neid sätteid vajalike muudatustega ka teistele komisjonidele. Kohaldatakse ka artikleid 201 ja 201a. \n\r\
 \n\r\
 Artikli 25 lõiget 9 kodanikualgatustega seotud avalikele kuulamistele ei kohaldata.\n\r\
+\n\r\
 \n\r\
 8.   Kui Euroopa Komisjon ei esita kooskõlas määruse (EL) nr 211/2011 artikliga 9 esitatud eduka kodanikualgatuse alusel õigusakti ettepanekut 12 kuu jooksul pärast selle kohta positiivse arvamuse esitamist ja kavandatavate meetmete kohta teatise avaldamist, võib valdkonna eest vastutav komisjon korraldada kuulamise, konsulteerida kodanikualgatuse korraldajatega ja kasutada vajaduse korral artiklis 46 ette nähtud menetlust, mis võimaldab parlamendil nõuda Euroopa Komisjonilt asjakohase ettepaneku esitamist.\n\r\
 \n\r\
 \n\r\
-(1)	Euroopa Parlamendi ja nõukogu 16. veebruari 2011. aasta määrus (EL) nr 211/2011 kodanikualgatuse kohta (ELT L 65, 11.3.2011, lk 1)."
+(1) Euroopa Parlamendi ja nõukogu 16. veebruari 2011. aasta määrus (EL) nr 211/2011 kodanikualgatuse kohta (ELT L 65, 11.3.2011, lk 1). "
 },
 {
 'id': 212,
@@ -3276,9 +3378,9 @@ Artikli 25 lõiget 9 kodanikualgatustega seotud avalikele kuulamistele ei kohald
 6.   Delegatsiooni juht annab delegatsiooni tegevuse kohta korrapäraselt aru välisasjade eest vastutavale komisjonile.\n\r\
 \n\r\
 7.   Kui päevakorras on punkt, mis puudutab delegatsiooni vastutusala, antakse delegatsiooni juhile võimalus vastavas komisjonis arvamust avaldada. Sama kehtib asjaomase komisjoni esimehe või raportööri osalemise kohta delegatsiooni koosolekutel.\n\r\
-\n\r\
-\n\r\
-(1)	Artikli 212 lõigete 1 ja 2 muudatused, mis võeti vastu 13. detsembril 2016 (P8_TA(2016)0484), jõustuvad olemasolevate delegatsioonide suhtes järgmistele, 2019. aastal toimuvatele parlamendivalimistele järgneva esimese osaistungjärgu avamisel. Seetõttu ei kajastu muudatused käesolevas versioonis."
+ \n\r\
+ \n\r\
+(1) Artikli 212 lõigete 1 ja 2 muudatused, mis võeti vastu 13. detsembril 2016 (P8_TA(2016)0484), jõustuvad olemasolevate delegatsioonide suhtes järgmistele, 2019. aastal toimuvatele parlamendivalimistele järgneva esimese osaistungjärgu avamisel. Seetõttu ei kajastu muudatused käesolevas versioonis. "
 },
 {
 'id': 213,
@@ -3288,9 +3390,10 @@ Artikli 25 lõiget 9 kodanikualgatustega seotud avalikele kuulamistele ei kohald
 {
 'id': 214,
 'title': 'Artikkel 214 : Parlamentaarsed ühiskomisjonid',
-'text': "1.   Euroopa Parlament võib moodustada parlamentaarseid ühiskomisjone liiduga assotsieerunud riikide parlamentide või nende riikide parlamentidega, millega liit on alustanud ühinemisläbirääkimisi.\n\r\
+'text': "1.   Euroopa Parlament võib moodustada parlamentaarseid ühiskomisjone liiduga assotsieerunud riikide parlamentide või nende riikide parlamentidega, millega liit on alustanud ühinemisläbirääkimisi. \n\r\
 \n\r\
 Ühiskomisjonid võivad koostada asjaomastele parlamentidele soovitusi. Euroopa Parlament saadab soovitused vastutavale komisjonile, kes esitab ettepanekud meetmete kohta.\n\r\
+\n\r\
 \n\r\
 2.   Eri parlamentaarsete ühiskomisjonide üldised volitused määrab kindlaks Euroopa Parlament kooskõlas kolmandate riikidega sõlmitud kokkulepetega.\n\r\
 \n\r\
@@ -3299,7 +3402,6 @@ Artikli 25 lõiget 9 kodanikualgatustega seotud avalikele kuulamistele ei kohald
 4.   Parlamentaarsed ühiskomisjonid võtavad vastu oma kodukorra ning edastavad selle heakskiitmiseks Euroopa Parlamendi juhatusele ja osaleva partnerriigi parlamendi pädevale organile.\n\r\
 \n\r\
 5.   Parlamentaarsetes ühiskomisjonides osalevate Euroopa Parlamendi delegatsioonide liikmete valimine ja delegatsioonide juhatuste moodustamine toimub vastavalt parlamentidevaheliste delegatsioonide jaoks kindlaksmääratud korrale.\n\r\
-\n\r\
 \n\r\
 Artikkel 214a : Koostöö Euroopa Nõukogu parlamentaarse assambleega\n\r\
 \n\r\
@@ -3316,19 +3418,22 @@ Artikkel 214a : Koostöö Euroopa Nõukogu parlamentaarse assambleega\n\r\
 \n\r\
 3.   Parlamendile esitatud dokumente, mida ei ole ilmselgelt mõeldud petitsioonina, ei registreerita petitsioonina; need edastatakse viivitamata käsitlemiseks asjakohasele teenistusele.\n\r\
 \n\r\
-4.   Kui petitsioonile on alla kirjutanud mitu füüsilist või juriidilist isikut, määravad allakirjutanud ühe esindaja ja tema asetäitjad, keda käsitletakse käesoleva osa rakendamisel petitsiooni esitajatena.\n\r\
+4.   Kui petitsioonile on alla kirjutanud mitu füüsilist või juriidilist isikut, määravad allakirjutanud ühe esindaja ja tema asetäitjad, keda käsitletakse käesoleva osa rakendamisel petitsiooni esitajatena. \n\r\
 \n\r\
 Kui esindajat ei ole määratud, loetakse petitsiooni esitajaks esimene allakirjutanu või mõni teine asjaomane isik.\n\r\
 \n\r\
-5.   Petitsiooni esitaja võib igal ajal oma allkirja petitsioonilt tagasi võtta.\n\r\
+\n\r\
+5.   Petitsiooni esitaja võib igal ajal oma allkirja petitsioonilt tagasi võtta. \n\r\
 \n\r\
 Kui kõik petitsiooni esitajad võtavad oma allkirjad tagasi, muutub petitsioon kehtetuks.\n\r\
 \n\r\
-6.   Petitsioon tuleb esitada ühes Euroopa Liidu ametlikus keeles.\n\r\
+\n\r\
+6.   Petitsioon tuleb esitada ühes Euroopa Liidu ametlikus keeles. \n\r\
 \n\r\
 Muus keeles koostatud petitsioon vaadatakse läbi ainult juhul, kui petitsiooni esitaja on lisanud tõlke ühes ametlikus keeles. Parlamendi kirjavahetus petitsiooni esitajaga toimub selles ametlikus keeles, milles on koostatud tõlge.\n\r\
 \n\r\
 Juhatus võib otsustada, et petitsioone võib koostada ja kirjavahetust petitsiooni esitajatega pidada muus keeles, millel vastavalt asjaomase liikmesriigi põhiseaduslikule korrale on ametliku keele staatus kas riigis tervikuna või osal riigi territooriumist.\n\r\
+\n\r\
 \n\r\
 7.   Petitsiooni saab esitada posti teel või Euroopa Parlamendi veebisaidil avatava petitsiooniportaali kaudu, mille ülesehitus aitab petitsiooni esitajal koostada lõigete 1 ja 2 tingimustele vastava petitsiooni.\n\r\
 \n\r\
@@ -3336,17 +3441,19 @@ Juhatus võib otsustada, et petitsioone võib koostada ja kirjavahetust petitsio
 \n\r\
 9.   Kui petitsioonid vastavad lõikes 2 sätestatud tingimustele kantakse need saabumise järjekorras registrisse. Petitsioonid, mis ei vasta nendele tingimustele, arhiveeritakse ja petitsiooni esitajat teavitatakse selle põhjustest.\n\r\
 \n\r\
-10.   President edastab registrisse kantud petitsiooni petitsioonide eest vastutavale komisjonile, kes teeb esmalt kindlaks petitsiooni lubatavuse vastavalt Euroopa Liidu toimimise lepingu artiklile 227.\n\r\
+10.   President edastab registrisse kantud petitsiooni petitsioonide eest vastutavale komisjonile, kes teeb esmalt kindlaks petitsiooni lubatavuse vastavalt Euroopa Liidu toimimise lepingu artiklile 227. \n\r\
 \n\r\
 Kui komisjon ei saavuta petitsiooni lubatavuse küsimuses konsensust, loetakse petitsioon lubatavaks, kui seda taotleb vähemalt kolmandik komisjoni liikmetest.\n\r\
+\n\r\
 \n\r\
 11.   Petitsioon, mida vastutav komisjon ei ole tunnistanud lubatavaks, arhiveeritakse. Petitsiooni esitajat teavitatakse otsusest ja selle põhjustest. Võimaluse korral võib soovitada teisi õiguskaitsevahendeid.\n\r\
 \n\r\
 12.   Registreeritud petitsioone käsitletakse avalike dokumentidena ning parlament võib läbipaistvuse huvides avaldada petitsiooni esitaja, võimalike kaasesitajate ja petitsiooni võimalike toetajate nimed ning petitsiooni sisu. Petitsiooni esitajale, kaasesitajatele ja toetajatele antakse sellest teada.\n\r\
 \n\r\
-13.   Olenemata lõikest 12, võib petitsiooni esitaja, kaasesitaja või toetaja taotleda, et tema nime privaatsuse kaitse huvides ei avaldata; sellisel juhul peab parlament seda taotlust arvestama.\n\r\
+13.   Olenemata lõikest 12, võib petitsiooni esitaja, kaasesitaja või toetaja taotleda, et tema nime privaatsuse kaitse huvides ei avaldata; sellisel juhul peab parlament seda taotlust arvestama. \n\r\
 \n\r\
 Kui petitsiooni esitaja kaebust ei ole võimalik tema anonüümsuse tõttu uurida, konsulteeritakse edasise tegevuse osas petitsiooni esitajaga.\n\r\
+\n\r\
 \n\r\
 14.   Kui parlament peab seda vajalikuks, võib ta omal algatusel või asjaomase kolmanda isiku taotlusel muuta petitsiooni ja/või selles sisalduvad andmed kolmandate isikute õiguste kaitsmise eesmärgil anonüümseks.\n\r\
 \n\r\
@@ -3367,9 +3474,10 @@ Kui petitsiooni esitaja kaebust ei ole võimalik tema anonüümsuse tõttu uurid
 \n\r\
 6.   Vastutav komisjon võib paluda presidendil edastada komisjoni arvamus või soovitus meetmete võtmiseks või vastuse saamiseks Euroopa Komisjonile, nõukogule või asjaomase liikmesriigi ametiasutusele.\n\r\
 \n\r\
-7.   Komisjon esitab parlamendile igal aastal raporti oma arutelude tulemustest ning asjakohasel juhul meetmetest, mida nõukogu või Euroopa Komisjon on parlamendi edastatud petitsioonide alusel võtnud.\n\r\
+7.   Komisjon esitab parlamendile igal aastal raporti oma arutelude tulemustest ning asjakohasel juhul meetmetest, mida nõukogu või Euroopa Komisjon on parlamendi edastatud petitsioonide alusel võtnud. \n\r\
 \n\r\
 Kui lubatavaks tunnistatud petitsiooni läbivaatamine on lõpetatud, kuulutatakse käsitlemine vastutava komisjoni otsusega lõppenuks.\n\r\
+\n\r\
 \n\r\
 8.   Petitsiooni esitajale antakse teada kõikidest komisjoni asjakohastest otsustest ja nende põhjendustest.\n\r\
 \n\r\
@@ -3377,18 +3485,18 @@ Kui lubatavaks tunnistatud petitsiooni läbivaatamine on lõpetatud, kuulutataks
 \n\r\
 10.   Vastutav komisjon võtab liikmete häälteenamusega ja kooskõlas kodukorra sätetega vastu petitsioonide käsitlemise suunised.\n\r\
 \n\r\
-\n\r\
 Artikkel 216a : Teabekogumiskülastused\n\r\
 \n\r\
 1.   Petitsioonide uurimisel, faktide tuvastamisel ja lahenduste otsimisel võib vastutav komisjon korraldada teabekogumiskülastusi liikmesriiki või piirkonda, mida komisjonis arutatud ja lubatavaks tunnistatud petitsioon käsitleb. Üldreeglina uuritakse teabekogumiskülastuse käigus mitmes petitsioonis käsitletud teemasid. Kohaldatakse juhatuse eeskirju, millega reguleeritakse komisjonide delegatsioonide lähetamist Euroopa Liidu piires.\n\r\
 \n\r\
 2.   Delegatsiooni koosseisu ei või kuuluda külastatavast liikmesriigist valitud parlamendiliikmeid. Neil võib lubada teabekogumiskülastusele suunduva delegatsiooniga liituda ex officio.\n\r\
 \n\r\
-3.   Pärast külastust koostavad delegatsiooni ametlikud liikmed lähetusaruande. Delegatsiooni juht koordineerib selle koostamist ning püüab tagada, et kõik delegatsiooni ametlikud liikmed on aruande sisu osas üksmeelel. Kui üksmeelele ei jõuta, tuleb lähetusaruandes esitada kõik lahknevad seisukohad.\n\r\
+3.   Pärast külastust koostavad delegatsiooni ametlikud liikmed lähetusaruande. Delegatsiooni juht koordineerib selle koostamist ning püüab tagada, et kõik delegatsiooni ametlikud liikmed on aruande sisu osas üksmeelel. Kui üksmeelele ei jõuta, tuleb lähetusaruandes esitada kõik lahknevad seisukohad. \n\r\
 \n\r\
 Delegatsiooniga ex officio liitunud parlamendiliikmed aruande koostamisel ei osale.\n\r\
 \n\r\
-4.   Lähetusaruanne ja võimalikud soovitused esitatakse vastutavale komisjonile. Parlamendiliikmed võivad esitada muudatusettepanekuid soovituste kohta, kuid mitte aruande selle osa kohta, milles käsitletakse delegatsiooni tuvastatud fakte.\n\r\
+\n\r\
+4.   Lähetusaruanne ja võimalikud soovitused esitatakse vastutavale komisjonile. Parlamendiliikmed võivad esitada muudatusettepanekuid soovituste kohta, kuid mitte aruande selle osa kohta, milles käsitletakse delegatsiooni tuvastatud fakte. \n\r\
 \n\r\
 Kõigepealt paneb komisjon hääletusele  soovituste kohta esitatud muudatusettepanekud ning seejärel lähetusaruande tervikuna.\n\r\
 \n\r\
@@ -3397,15 +3505,15 @@ Kui lähetusaruanne kiidetakse heaks, edastatakse see teavitamise eesmärgil pre
 {
 'id': 217,
 'title': 'Artikkel 217 : Petitsioonidest teadaandmine',
-'text': "1.   Parlamenti teavitatakse artikli 215 lõikes 9 osutatud registrisse kantud petitsioonidest ja olulisematest petitsioonide läbivaatamise menetlust puudutavatest otsustestil. Teadaanded kantakse istungi protokolli.
-
+'text': "1.   Parlamenti teavitatakse artikli 215 lõikes 9 osutatud registrisse kantud petitsioonidest ja olulisematest petitsioonide läbivaatamise menetlust puudutavatest otsustestil. Teadaanded kantakse istungi protokolli.\n\r\
+\n\r\
 2.   Registrisse kantud petitsioonide pealkirjad ja sisukokkuvõtted ning petitsioonide läbivaatamisel esitatud arvamused ja olulisemad vastuvõetud otsused tehakse Euroopa Parlamendi veebisaidil petitsiooniportaalis üldsusele kättesaadavaks."
 },
 {
 'id': 218,
 'title': 'Artikkel 218 : Kodanikualgatus',
-'text': "1.   Kui parlamenti teavitatakse, et Euroopa Komisjonil on palutud esitada õigusakti ettepanek Euroopa Liidu lepingu artikli 11 lõike 4 alusel ja vastavalt määrusele (EL) nr 211/2011, selgitab petitsioonide eest vastutav komisjon välja, kas see võib mõjutada tema tööd, ja teavitab vajaduse korral sellega seotud teemadel petitsioone esitanuid.
-
+'text': "1.   Kui parlamenti teavitatakse, et Euroopa Komisjonil on palutud esitada õigusakti ettepanek Euroopa Liidu lepingu artikli 11 lõike 4 alusel ja vastavalt määrusele (EL) nr 211/2011, selgitab petitsioonide eest vastutav komisjon välja, kas see võib mõjutada tema tööd, ja teavitab vajaduse korral sellega seotud teemadel petitsioone esitanuid.\n\r\
+\n\r\
 2.   Petitsioonide eest vastutav komisjon võib kavandatud kodanikualgatused, mis on kooskõlas määruse (EL) nr 211/2011 artikliga 4 registreeritud, kuid mida ei ole võimalik kooskõlas nimetatud määruse artikliga 9 Euroopa Komisjonile esitada kuna kõiki ettenähtud menetlusi ja tingimusi ei ole järgitud, läbi vaadata, kui ta peab järelmeetmeid asjakohaseks. Artikleid 215, 216, 216a ja 217 kohaldatakse vajalike muudatustega."
 },
 {
@@ -3413,11 +3521,12 @@ Kui lähetusaruanne kiidetakse heaks, edastatakse see teavitamise eesmärgil pre
 'title': 'Artikkel 219 : Ombudsmani valimine',
 'text': "1.   President esitab parlamendi ametiaja alguses või pärast eelmise ombudsmani surma, tagasiastumist või ametist vabastamist üleskutse ombudsmani ametikohale kandidaatide esitamiseks ning määrab kindlaks kandidaatide ülesseadmise tähtaja. Üleskutse avaldatakse Euroopa Liidu Teatajas.\n\r\
 \n\r\
-2.   Kandidaat peab saama toetuse vähemalt 40 parlamendiliikmelt, kes peavad olema vähemalt kahe liikmesriigi kodanikud.\n\r\
+2.   Kandidaat peab saama toetuse vähemalt 40 parlamendiliikmelt, kes peavad olema vähemalt kahe liikmesriigi kodanikud. \n\r\
 \n\r\
 Parlamendiliige võib toetada ainult ühte kandidaati.\n\r\
 \n\r\
 Kandidaatide ülesseadmisel tuleb esitada kõik nõutavad dokumendid, mis kinnitavad, et kandidaat vastab nõuetele, mis on esitatud Euroopa Parlamendi otsuse 94/262/ESTÜ, EÜ, Euratom(1) artikli 6 lõikes 2.\n\r\
+\n\r\
 \n\r\
 3.   Kandidaatide nimekiri edastatakse vastutavale komisjonile. Kandidaatidele toetust avaldanud parlamendiliikmete täielik nimekiri tehakse üldsusele aegsasti kättesaadavaks.\n\r\
 \n\r\
@@ -3425,25 +3534,27 @@ Kandidaatide ülesseadmisel tuleb esitada kõik nõutavad dokumendid, mis kinnit
 \n\r\
 5.   Seejärel esitatakse parlamendile hääletamiseks sobivate kandidaatide nimekiri (tähestikulises järjekorras).\n\r\
 \n\r\
-6.   Ombudsman valitakse antud häälte enamusega.\n\r\
+6.   Ombudsman valitakse antud häälte enamusega. \n\r\
 \n\r\
 Kui esimeses kahes hääletusvoorus ei osutu ükski kandidaat valituks, pääsevad järgmisesse hääletusvooru edasi kaks kandidaati, kes said teises hääletusvoorus kõige rohkem hääli.\n\r\
 \n\r\
 Võrdse häälte arvu korral osutub valituks vanem kandidaat.\n\r\
+\n\r\
 \n\r\
 7.   Enne hääletuse algust teeb president kindlaks, et kohal on vähemalt pool parlamendi koosseisust.\n\r\
 \n\r\
 8.   Ombudsman täidab oma kohustusi kuni järgmise ombudsmani ametisse astumiseni, välja arvatud tema surma või ametist vabastamise korral.\n\r\
 \n\r\
 \n\r\
-(1)	Euroopa Parlamendi 9. märtsi 1994. aasta otsus 94/262/ESTÜ, EÜ, Euratom ombudsmani ülesannete täitmist reguleeriva korra ja üldtingimuste kohta (EÜT L 113, 4.5.1994, lk 15)."
+(1) Euroopa Parlamendi 9. märtsi 1994. aasta otsus 94/262/ESTÜ, EÜ, Euratom ombudsmani ülesannete täitmist reguleeriva korra ja üldtingimuste kohta (EÜT L 113, 4.5.1994, lk 15). "
 },
 {
 'id': 220,
 'title': 'Artikkel 220 : Ombudsmani tegevus',
-'text': "1.   Vastutav komisjon vaatab läbi haldusomavoli juhtumid, millest ombudsman on teada andnud vastavalt otsuse 94/262/ESTÜ, EÜ, Euratom artikli 3 lõigetele 6 ja 7, mille järel võib vastutav komisjon vastavalt kodukorra artiklile 52 otsustada koostada raporti.\n\r\
+'text': "1.   Vastutav komisjon vaatab läbi haldusomavoli juhtumid, millest ombudsman on teada andnud vastavalt otsuse 94/262/ESTÜ, EÜ, Euratom artikli 3 lõigetele 6 ja 7, mille järel võib vastutav komisjon vastavalt kodukorra artiklile 52 otsustada koostada raporti. \n\r\
 \n\r\
 Vastutav komisjon vaatab läbi aruande, mille ombudsman esitab iga-aastase tööperioodi lõpus oma uurimistulemuste kohta vastavalt otsuse 94/262/ESTÜ, EÜ, Euratom artikli 3 lõikele 8. Vastutav komisjon võib esitada parlamendile resolutsiooni ettepaneku, kui ta leiab, et parlament peaks võtma selle aruande mõne aspekti kohta seisukoha.\n\r\
+\n\r\
 \n\r\
 2.   Ombudsman võib ka anda vastutavale komisjonile viimase taotlusel teavet või esineda vastutava komisjoni ees omal algatusel."
 },
@@ -3456,20 +3567,21 @@ Vastutav komisjon vaatab läbi aruande, mille ombudsman esitab iga-aastase töö
 \n\r\
 3.   Enne hääletuse algust teeb president kindlaks, et kohal on vähemalt pool parlamendi koosseisust.\n\r\
 \n\r\
-4.   Kui parlament teeb hääletusel otsuse ombudsmani ametist tagandamise kohta, kuid ombudsman ei astu ise ametist tagasi, esitab president hiljemalt hääletusele järgneval osaistungjärgul Euroopa Kohtule taotluse ombudsmani ametist tagandamiseks ja palub kohtul teha otsus viivitamatult.\n\r\
+4.   Kui parlament teeb hääletusel otsuse ombudsmani ametist tagandamise kohta, kuid ombudsman ei astu ise ametist tagasi, esitab president hiljemalt hääletusele järgneval osaistungjärgul Euroopa Kohtule taotluse ombudsmani ametist tagandamiseks ja palub kohtul teha otsus viivitamatult. \n\r\
 \n\r\
 Ombudsmani vabatahtlik tagasiastumine lõpetab menetluse."
 },
 {
 'id': 222,
 'title': 'Artikkel 222 : Parlamendi peasekretariaat',
-'text': "1.   Parlamenti abistab tema töös peasekretär, kelle nimetab ametisse juhatus.\n\r\
+'text': "1.   Parlamenti abistab tema töös peasekretär, kelle nimetab ametisse juhatus. \n\r\
 \n\r\
 Peasekretär annab juhatuse ees vande täita oma ametikohustusi kohusetundlikult ja erapooletult.\n\r\
 \n\r\
+\n\r\
 2.   Peasekretär juhib peasekretariaati, mille koosseisu ja töökorralduse määrab kindlaks juhatus.\n\r\
 \n\r\
-3.   Juhatus määrab kindlaks parlamendi peasekretariaadi ametikohad ning korra, mis reguleerib ametnike ja muude teenistujate teenistus- ja tasustamistingimusi.\n\r\
+3.   Juhatus määrab kindlaks parlamendi peasekretariaadi ametikohad ning korra, mis reguleerib ametnike ja muude teenistujate teenistus- ja tasustamistingimusi. \n\r\
 \n\r\
 Parlamendi president edastab vajaliku teabe Euroopa Liidu asjaomastele institutsioonidele."
 },
@@ -3478,7 +3590,7 @@ Parlamendi president edastab vajaliku teabe Euroopa Liidu asjaomastele instituts
 'title': 'Artikkel 223 : (välja jäetud)',
 'text': "Artikkel 223a : Euroopa tasandi erakondi ja poliitilisi sihtasutusi puudutavad volitused ja kohustused(1)\n\r\
 \n\r\
-1.   Kui parlament otsustab kooskõlas finantsmääruse artikli 65 lõikega 1 võtta endale õiguse kiita heaks kulukohustusi, on selleks pädev organ parlamendi juhatus.\n\r\
+1.   Kui parlament otsustab kooskõlas finantsmääruse artikli 65 lõikega 1 võtta endale õiguse kiita heaks kulukohustusi, on selleks pädev organ parlamendi juhatus. \n\r\
 \n\r\
 Sellest lähtuvalt on juhatusel pädevus teha otsuseid määruse (EL, Euratom) nr 1141/2014(2) artiklite 17, 18, 24, artikli 27 lõike 3 ja artikli 30 alusel.\n\r\
 \n\r\
@@ -3486,17 +3598,18 @@ Sellest lähtuvalt on juhatusel pädevus teha otsuseid määruse (EL, Euratom) n
 \n\r\
 Juhatus võib igal ajal pidada nõu esimeeste konverentsiga.\n\r\
 \n\r\
+\n\r\
 2.   Kui seda taotleb veerand parlamendiliikmetest, kes esindavad vähemalt kolme fraktsiooni, pannakse parlamendis hääletusele otsus esitada kooskõlas määruse (EL, Euratom) nr 1141/2014 artikli 10 lõikega 3 Euroopa tasandi erakondade ja sihtasutuste ametile taotlus kontrollida, kas registreeritud Euroopa tasandi erakond või sihtasutus täidab tingimusi, mis on sätestatud määruse (EL, Euratom) nr 1141/2014 artikli 3 lõike 1 punktis c ja artikli 3 lõike 2 punktis c.\n\r\
 \n\r\
-3.   Kui seda taotleb veerand parlamendiliikmetest, kes esindavad vähemalt kolme fraktsiooni, pannakse parlamendis hääletusele ettepanek teha põhjendatud otsus esitada kooskõlas määruse (EL, Euratom) nr 1141/2014 artikli 10 lõikega 4 vastuväide Euroopa tasandi erakondade ja sihtasutuste ameti otsuse kohta Euroopa tasandi erakond või sihtasutus registrist kustutada; seda tuleb teha kolme kuu jooksul pärast otsusest teatamist.\n\r\
+3.   Kui seda taotleb veerand parlamendiliikmetest, kes esindavad vähemalt kolme fraktsiooni, pannakse parlamendis hääletusele ettepanek teha põhjendatud otsus esitada kooskõlas määruse (EL, Euratom) nr 1141/2014 artikli 10 lõikega 4 vastuväide Euroopa tasandi erakondade ja sihtasutuste ameti otsuse kohta Euroopa tasandi erakond või sihtasutus registrist kustutada; seda tuleb teha kolme kuu jooksul pärast otsusest teatamist. \n\r\
 \n\r\
-Vastutav komisjon esitab põhjendatud otsuse ettepaneku. Ettepaneku tagasilükkamise korral loetakse vastuvõetuks sellele vastupidine otsus.\n\r\
-\n\r\
-4.   Vastutava komisjoni ettepaneku põhjal nimetab esimeeste konverents kaks liiget sõltumatute väljapaistvate isikute komiteesse vastavalt määruse (EL, Euratom) nr 1141/2014 artikli 11 lõikele 1.\n\r\
+Vastutav komisjon esitab põhjendatud otsuse ettepaneku. Ettepaneku tagasilükkamise korral loetakse vastuvõetuks sellele vastupidine otsus. \n\r\
 \n\r\
 \n\r\
-(1)	Artiklit 223a kohaldatakse ainult nende Euroopa tasandi erakondade ja poliitiliste sihtasutuste suhtes, mis vastavad määruse (EL, Euratom) nr 1141/2014 artikli 2 lõigetele 3 ja 4. Vt ka artiklite 224 ja 225 joonealuseid märkuseid.\n\r\
-(2)	Euroopa Parlamendi ja nõukogu 22. oktoobri 2014. aasta määrus (EL, Euratom) nr 1141/2014, mis käsitleb Euroopa tasandi erakondade ja Euroopa tasandi poliitiliste sihtasutuste põhikirja ning rahastamist (ELT L 317, 4.11.2014, lk 1)."
+4.   Vastutava komisjoni ettepaneku põhjal nimetab esimeeste konverents kaks liiget sõltumatute väljapaistvate isikute komiteesse vastavalt määruse (EL, Euratom) nr 1141/2014 artikli 11 lõikele 1.  \n\r\
+ \n\r\
+(1) Artiklit 223a kohaldatakse ainult nende Euroopa tasandi erakondade ja poliitiliste sihtasutuste suhtes, mis vastavad määruse (EL, Euratom) nr 1141/2014 artikli 2 lõigetele 3 ja 4. Vt ka artiklite 224 ja 225 joonealuseid märkuseid. \n\r\
+(2) Euroopa Parlamendi ja nõukogu 22. oktoobri 2014. aasta määrus (EL, Euratom) nr 1141/2014, mis käsitleb Euroopa tasandi erakondade ja Euroopa tasandi poliitiliste sihtasutuste põhikirja ning rahastamist (ELT L 317, 4.11.2014, lk 1). "
 },
 {
 'id': 224,
@@ -3514,7 +3627,7 @@ Vastutav komisjon esitab põhjendatud otsuse ettepaneku. Ettepaneku tagasilükka
 6.   Kui parlament tuvastab kontrolli käigus, et Euroopa tasandi erakond ei pea enam kinni vabaduse, demokraatia, inimõiguste ja põhivabaduste austamise ning õigusriigi põhimõtetest, teeb juhatus otsuse lõpetada asjaomase erakonna rahastamine.\n\r\
 \n\r\
 \n\r\
-(1)	Artikli 224 kohaldamist jätkatakse toimingute ja kohustuste suhtes, mis on seotud Euroopa tasandi erakondade ja poliitiliste sihtasutuste rahastamisega 2014., 2015., 2016. ja 2017. eelarveaastal ning millele kohaldatakse määruse (EL, Euratom) nr 1141/2014 artikli 40 alusel jätkuvalt Euroopa Parlamendi ja nõukogu määrust (EÜ) nr 2004/2003 Euroopa tasandi erakondi reguleerivate määruste ja erakondade rahastamise eeskirjade kohta. Vt ka artiklite 223a ja 225 joonealuseid märkuseid."
+(1) Artikli 224 kohaldamist jätkatakse toimingute ja kohustuste suhtes, mis on seotud Euroopa tasandi erakondade ja poliitiliste sihtasutuste rahastamisega 2014., 2015., 2016. ja 2017. eelarveaastal ning millele kohaldatakse määruse (EL, Euratom) nr 1141/2014 artikli 40 alusel jätkuvalt Euroopa Parlamendi ja nõukogu määrust (EÜ) nr 2004/2003 Euroopa tasandi erakondi reguleerivate määruste ja erakondade rahastamise eeskirjade kohta. Vt ka artiklite 223a ja 225 joonealuseid märkuseid. "
 },
 {
 'id': 225,
@@ -3532,14 +3645,15 @@ Vastutav komisjon esitab põhjendatud otsuse ettepaneku. Ettepaneku tagasilükka
 6.   Vastutav komisjon koostab Euroopa Parlamendi ja nõukogu määruses (EÜ) nr 2004/2003 ettenähtud aruande määruse kohaldamise ja rahastatud tegevuste kohta ning esitab selle täiskogu istungile.\n\r\
 \n\r\
 \n\r\
-(1)	Artikli 225 kohaldamist jätkatakse Euroopa tasandi erakondade ja poliitiliste sihtasutuste (määruse (EÜ) nr 2004/2003 artikli 2 tähenduses) suhtes seni, kuni neid rahastatakse 2014., 2015., 2016. ja 2017. eelarveaasta eest nimetatud määrust kohaldades. Vt ka artiklite 223a ja 224 joonealuseid märkuseid."
+(1) Artikli 225 kohaldamist jätkatakse Euroopa tasandi erakondade ja poliitiliste sihtasutuste (määruse (EÜ) nr 2004/2003 artikli 2 tähenduses) suhtes seni, kuni neid rahastatakse 2014., 2015., 2016. ja 2017. eelarveaasta eest nimetatud määrust kohaldades. Vt ka artiklite 223a ja 224 joonealuseid märkuseid. "
 },
 {
 'id': 226,
 'title': 'Artikkel 226 : Kodukorra kohaldamine',
-'text': "1.   Kui kodukorra kohaldamisel või tõlgendamisel tekib kahtlusi, võib president saata küsimuse arutamiseks vastutavale komisjonile.\n\r\
+'text': "1.   Kui kodukorra kohaldamisel või tõlgendamisel tekib kahtlusi, võib president saata küsimuse arutamiseks vastutavale komisjonile. \n\r\
 \n\r\
 Komisjonide esimehed võivad toimida samamoodi, kui selliseid kahtlusi tekib komisjoni töö käigus ja sellega seotult.\n\r\
+\n\r\
 \n\r\
 2.   Vastutav komisjon otsustab, kas on vaja teha ettepanek kodukorra muutmiseks. Vastutav komisjon järgib artiklis 227 sätestatud menetlust.\n\r\
 \n\r\
@@ -3558,11 +3672,12 @@ Komisjonide esimehed võivad toimida samamoodi, kui selliseid kahtlusi tekib kom
 {
 'id': 227,
 'title': 'Artikkel 227 : Kodukorra muutmine',
-'text': "1.   Iga parlamendiliige võib teha ettepaneku kodukorra ja selle lisade muutmiseks ning lisada ettepanekule asjakohasel juhul lühikesed selgitused.\n\r\
+'text': "1.   Iga parlamendiliige võib teha ettepaneku kodukorra ja selle lisade muutmiseks ning lisada ettepanekule asjakohasel juhul lühikesed selgitused. \n\r\
 \n\r\
 Vastutav komisjon vaatab ettepanekud läbi ja otsustab, kas esitada need parlamendile.\n\r\
 \n\r\
 Muudatusettepanekute täiskogul arutamisele kohaldatakse artikleid 169, 170 ja 174 ning nendes artiklites kasutatud väljendeid „algtekst” ja „õiguslikult siduva akti ettepanek” tõlgendatakse kui viidet kehtivale sättele.\n\r\
+\n\r\
 \n\r\
 2.   Kooskõlas Euroopa Liidu toimimise lepingu artikliga 232 võetakse kodukorrale esitatud muudatusettepanekud vastu parlamendi liikmete häälteenamusega.\n\r\
 \n\r\
@@ -3571,13 +3686,14 @@ Muudatusettepanekute täiskogul arutamisele kohaldatakse artikleid 169, 170 ja 1
 {
 'id': 228,
 'title': 'Artikkel 228 : Liidu sümbolid',
-'text': "1.   Parlament tunnistab ja kasutab järgmisi liidu sümboleid:\n\r\
+'text': "1.   Parlament tunnistab ja kasutab järgmisi liidu sümboleid: \n\r\
 \n\r\
 -   lipp, mille sinisel taustal on kaheteistkümnest kuldsest tähest koosnev ring;\n\r\
 \n\r\
 -   hümn, mille aluseks on „Ood rõõmule” Ludwig van Beethoveni üheksandast sümfooniast;\n\r\
 \n\r\
 -   juhtlause „Ühinenud mitmekesisuses”.\n\r\
+\n\r\
 \n\r\
 2.   Parlament tähistab 9. mail Euroopa päeva.\n\r\
 \n\r\
@@ -3632,8 +3748,5 @@ Neid sätteid ei kohaldata petitsioonide ja teatiste suhtes, mille puhul ei ole 
     
 
 }]);
-
-
-
 
 
