@@ -1,0 +1,27 @@
+
+STEPS TO PUSH TO GITHUB
+
+cd /Users/rodriguezsanz/Documents/gitRepoIonic/eprules
+
+
+
+ionic git remote
+git remote add ionic git@git.ionicjs.com:gusrodsanz/eprules.git
+[OK] Added remote ionic.
+[OK] Project linked with app 6de95bf3!
+git add -A
+git commit -m "update langs" --no-gpg-sign
+
+
+Ionic serve -c
+
+
+git push ionic master
+Pwd :  asdf0987
+
+
+
+
+
+
+
