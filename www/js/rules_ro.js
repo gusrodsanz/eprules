@@ -2,7 +2,7 @@
 
 angular.module('rules_ro', [])
 
-
+ 
 .service('Rules_ro', [function(){
 
 
