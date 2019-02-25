@@ -1,0 +1,40 @@
+<ion-view title="Home" hide-nav-bar="true" id="page1" style="background-color:#FFFFFF;" class="pageHome" ng-init="loadHome()">
+  <ion-content padding="false" class="manual-ios-statusbar-padding">
+    <div id="home-container1">
+      <div class="ep_logo">
+        <img src="img/t0OlmndZQBKJZxant2VU_EPlogoRGB_EN.png" style="display: block; width: 40%; height: auto; margin-left: auto; margin-right: auto;">
+      </div>
+      <h4 id="home-heading3" style="color:#FEFEFE;font-weight:400;text-align:center;" class="ep_logo_text">Rules of Procedure v.1.0</h4>
+      <div id="home-button-bar3" class="button-bar buttonBarHead">
+        <button id="home-button18" ng-click="showLanguage()" ng-class="{ 'active': data.isLanguageActive == true}" style="font-weight:500;border-radius:15px 15px 15px 15px;" class="button button-positive button-block icon ion-headphone buttonBarHead_1">
+        {{data.language}}</button>
+        <a ui-sref="searchRules({&quot;language&quot;:&quot;&quot;+data.language+&quot;&quot;,&quot;keyword&quot;:&quot;&quot;+data.keyword+&quot;&quot;})" id="home-button19" ng-init="loadHome()" style="border-radius:15px 15px 15px 15px;"
+          class="button button-positive button-block icon ion-search buttonBarHead_1"></a>
+        <a ui-sref="ePRULES({&quot;language&quot;:&quot;&quot;+data.language+&quot;&quot;})" id="home-button20" style="border-radius:15px 15px 15px 15px;" class="button button-positive button-block icon ion-information-circled buttonBarHead_1"></a>
+      </div>
+    </div>
+    <form id="home-form3" class="list">
+      <label class="item item-select selectLang" id="home-select2" ng-show="data.isLanguageActive">
+        <span class="input-label">Select Language :</span>
+        <select ng-model="data.language" ng-options="language.id as language.label for language in listLanguages" ng-change="changeLanguage( )" ng-class="{'active': data.isLanguageActive == true}"></select>
+      </label>
+      <ion-item class="range range-positive sliderBar" id="home-range3">
+        <input type="range" value="1" min="1" max="231" step="1" name="ROPrange" ng-model="activeROPrange" ng-change="changeROPrange(   activeROPrange )" ng-value="{{activeSelection}}">
+      </ion-item>
+      <label class="item item-input rulenum" id="home-input2" name="rule_num">
+        <span class="input-label">Rule number:</span>
+        <input type="text" placeholder="" ng-model="activeSelection" ng-change="changeSelection( activeSelection  )" readonly="true" ng-value="1">
+      </label>
+      <div id="home-button-bar1" class="button-bar">
+        <button id="home-button4" ng-class="{'active': activeBtn ==1}" ng-click="changeBtn( 1 )" ng-model="activeBtn" class="button button-stable button-small button-block icon ion-ios-skipbackward-outline"></button>
+        <button id="home-button9" ng-class="{'active': activeBtn == 2}" ng-click="changeBtn(  2 )" ng-model="activeBtn" class="button button-stable button-small button-block icon ion-ios-arrow-back"></button>
+        <button id="home-button10" ng-class="{'active': activeBtn == 3}" ng-click="changeBtn(  3 )" ng-model="activeBtn" class="button button-stable button-small button-block icon ion-ios-arrow-forward"></button>
+        <button id="home-button11" ng-class="{'active': activeBtn == 4}" ng-click="changeBtn( 4 )" ng-model="activeBtn" style="border-radius:-1px -1px -1px -1px;" class="button button-stable button-small button-block icon ion-ios-skipforward-outline"></button>
+      </div>
+      <h3 id="home-heading4" ng-model="listRules[ activeSelection -1 ].title" ng-value="listRules[ activeSelection -1 ].title" style="color:#014A73;font-weight:400;" class="lineBrake">{{listRules[ activeSelection -1 ].title}}</h3>
+      <div id="home-markdown267" ng-model="listRules[ activeSelection -1 ].text" class="show-list-numbers-and-dots lineBrake">
+        <p style="margin-top:5%;color:#014A73;font-size:15px;">{{listRules[ activeSelection -1 ].text }}</p>
+      </div>
+    </form>
+  </ion-content>
+</ion-view>

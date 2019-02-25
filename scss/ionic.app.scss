@@ -1,0 +1,296 @@
+$calm: #014A73;
+$positive: #3059A0;
+$ionicons-font-path: "../lib/ionic/fonts" !default;
+@import "../www/lib/ionic/scss";
+.rule-selection {
+	background-color: #014A73;
+	font-size: 14px;
+	padding: 5px;
+}
+
+.rulenum {
+	text-align: center;
+}
+
+.button-bar {
+	background-color: #014A73;
+	max-height: 50px;
+	float: auto;
+	//margin-top: 2%;
+}
+
+.ep_header_img_logo {
+	float: middle;
+	margin-left: 10px;
+	height: 30%;
+	width: 45%;
+}
+
+.ep_logo {
+	z-index: 1;
+	background-color: #014A73;
+	margin: 2% 0% 1% 0%;
+	//padding-top: -1%;
+	//padding-botton: 1%;
+}
+
+.ep_logo_text {
+	font-size: 1em;
+	z-index: 1;
+	background-color: #014A73;
+	margin: -5% 0 0 0;
+}
+
+// @media screen and (min-width: 680px) and (max-width: 679px) {}
+// @media creen and (min-width: 1024px) and (max-width: 1024px) {}
+@media screen and (min-width: 320px) {
+	.ep_logo_text {
+		font-size: 11px  !important;
+	}
+	
+	.ep_logo img {
+		width: 30% !important;
+		margin: -3% 0% 2% 0%;
+	}
+	
+}
+@media screen and (min-width: 504px) {
+	.ep_logo_text {
+		font-size: 12px  !important;
+	}
+	
+	.ep_logo img {
+		width: 27% !important;
+		margin: -3% 0% 2% 0%;
+	}
+	
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 568px) {
+	.ep_logo_text {
+		font-size: 14px  !important;
+		margin: -3% 0% 2% 0%;
+	}
+	
+	.ep_logo img {
+		width: 25% !important;
+		margin: -3% 0 0 0;
+	}
+	
+}
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 736px) {
+	.ep_logo_text {
+		font-size: 16px  !important;
+		margin: -3% 0% 2% 0%;
+	}
+	
+	.ep_logo img {
+		width: 25% !important;
+		margin-top: -4%;
+	}
+	
+}
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 834px) {
+	.ep_logo_text {
+		font-size: 20px  !important;
+		margin: -3% 0% 2% 0%;
+	}
+	
+	.ep_logo img {
+		width: 20% !important;
+		margin-top: -4%;
+	}
+	
+}
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+	.ep_logo_text {
+		font-size: 20px  !important;
+		margin: -3% 0% 2% 0%;
+	}
+	
+	.ep_logo img {
+		width: 20% !important;
+		margin-top: -4%;
+	}
+	
+}
+@media only screen and (min-width: 1336px) {
+	.ep_logo_text {
+		font-size: 25px  !important;
+		margin: -3% 0% 2% 0%;
+	}
+	
+	.ep_logo img {
+		width: 17% !important;
+		margin-top: -4%;
+	}
+	
+}
+ion-view,.pane,.view {
+	background-color: #4C99D3;
+}
+
+/*   HEADER for the DOCUMENT WINDOW (sides/sipade)  */
+
+#header_neutral {
+	background: url("../img/background/sides_header_bg.png") repeat-x scroll 0 0 transparent;
+	height: 132px;
+}
+
+#header_neutral .wrapper {
+	margin: 0 auto;
+	position: relative;
+	width: 990px;
+}
+
+#header_neutral img {
+	left: 9px;
+	position: absolute;
+	top: 8px;
+}
+
+#header_neutral span {
+	color: white;
+	font: 2em Arial, Helvetica, sans-serif;
+	left: 33px;
+	letter-spacing: -0.04em;
+	position: absolute;
+	text-shadow: 1px 1px 1px #0D0D0D;
+	top: 55px;
+	white-space: nowrap;
+}
+
+#header_neutral .language_select {
+	height: 20px;
+	position: absolute;
+	right: 45px;
+	top: 100px;
+}
+
+#header_neutral .language_select li {
+	float: left;
+	height: 15px;
+	margin-left: 4px;
+	text-indent: -10000px;
+	width: 15px;
+}
+
+#header_neutral .language_select li a {
+	background-position: left top;
+	background-repeat: no-repeat;
+	cursor: default;
+	display: block;
+	height: 15px;
+	overflow: hidden;
+	padding: 0;
+	text-indent: -10000px;
+	width: 15px;
+}
+
+#header_neutral .language_select li a.on {
+	background-position: -15px top !important;
+	cursor: pointer;
+}
+
+#header_neutral .language_select li.selected {
+	background-position: right top !important;
+}
+
+.buttonBarHead {
+	//background-color: red;
+	//border: 0.5px solid white;
+	font: 1em Arial, Helvetica, sans-serif;
+	max-height: 50px;
+	//margin-top: 2%;
+}
+
+.buttonBarHead_1 {
+	//margin-left: -5%;
+	background-color: #014A73;
+	padding: 2px 2px 2px 2px;
+}
+
+.buttonBarHeadWidth {
+	width: 50%;
+}
+
+.searchBar {
+	display: none;
+	border: solid 1px black;
+}
+
+.sliderBar {
+	max-height: 45px;
+	float: auto;
+}
+
+.ruleNum {
+	text-align: center;
+	max-height: 40px;
+	font: 1.2em Arial, Helvetica, sans-serif;
+	line-height: normal;
+}
+
+.selectLang {
+	//display: none;
+	vertical-align: top;
+	text-align: top;
+	line-height: 60px;
+	font: 1.4em Arial, Helvetica, sans-serif;
+	max-height: 45px;
+	float: auto;
+	.input-label {
+		padding: 0;
+	}
+	
+}
+/*    PAGE SALECT LANGUAGE */
+//(56,178,238,0.4);
+.pageHome {
+	background-color: #3C6E89;
+}
+
+.pageSelectLanguage {
+	background-color: #3C6E89;
+}
+
+.pageSearchByKeyword {
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+.usefulInformation {
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+// ion-header-bar.bar-calm.bar.bar-header {
+	//     margin: -40px;
+	//}
+.lineBrake {
+	white-space: pre-wrap;
+}
+
+ion-view,.pane,.view {
+	background-color: #FAFCFD;
+}
+
+#home-markdown267 {
+	margin-left: 2px;
+	margin-right: 2px;
+}
+
+#home-heading4 {
+	font: bold;
+	margin-bottom: -8%;
+	margin-left: 2px;
+	margin-right: 2px;
+}
+
+ion-view,.pane,.view {
+	background-color: #FAFCFD;
+}
+

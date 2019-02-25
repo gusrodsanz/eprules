@@ -1,0 +1,19 @@
+{
+  "name": "eprules",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ],
+  "id": "2dbb7cdb"
+  ,
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ]
+}
