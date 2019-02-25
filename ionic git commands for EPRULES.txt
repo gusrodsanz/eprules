@@ -17,7 +17,7 @@ Ionic serve -c
 
 
 git push ionic master
-Pwd :  asdf0987
+Pwd :  
 
 
 
