@@ -1,7 +1,12 @@
 $calm: #014A73;
 $positive: #3059A0;
 $ionicons-font-path: "../lib/ionic/fonts" !default;
+<<<<<<< HEAD
 @import "../www/lib/ionic/scss";
+=======
+// Include all of Ionic
+@import "www/lib/ionic/scss/ionic";
+>>>>>>> 4204740dd90f59e6c8539324de437f5cef31cb30
 .rule-selection {
 	background-color: #014A73;
 	font-size: 14px;
@@ -42,6 +47,7 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 }
 
 // @media screen and (min-width: 680px) and (max-width: 679px) {}
+<<<<<<< HEAD
 // @media creen and (min-width: 1024px) and (max-width: 1024px) {}
 @media screen and (min-width: 320px) {
 	.ep_logo_text {
@@ -129,6 +135,48 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 	}
 	
 }
+=======
+// @media creen and (min-width : 1024px) and (max-width: 1024px) {}
+
+@media screen and (min-width : 320px) {
+	.ep_logo_text { font-size: 11px  !important; }
+	.ep_logo img { width: 30% !important; margin: -3% 0% 2% 0%; }
+}
+@media screen and (min-width : 504px) {
+	.ep_logo_text { font-size: 12px  !important; }
+	.ep_logo img { width: 27% !important; margin: -3% 0% 2% 0%; }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 568px) {
+	.ep_logo_text { font-size: 14px  !important; margin: -3% 0% 2% 0%; }
+	.ep_logo img { width: 25% !important; margin: -3% 0 0 0; }
+} 
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 736px) {
+	.ep_logo_text { font-size: 16px  !important;  margin: -3% 0% 2% 0%; }
+	.ep_logo img { width: 25% !important;  margin-top: -4%; }
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 834px) {
+	.ep_logo_text { font-size: 20px  !important; margin: -3% 0% 2% 0%; }
+	.ep_logo img { width: 20% !important; margin-top: -4%;  }
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+	.ep_logo_text { font-size: 20px  !important; margin: -3% 0% 2% 0%; }
+	.ep_logo img { width: 20% !important; margin-top: -4%; }
+}
+@media only screen and (min-width: 1336px) {
+	.ep_logo_text { font-size: 25px  !important; margin: -3% 0% 2% 0%; }
+	.ep_logo img { width: 17% !important; margin-top: -4%; }
+	//#home-markdown267 p{ margin-top: 6%; }
+}
+
+	
+>>>>>>> 4204740dd90f59e6c8539324de437f5cef31cb30
 ion-view,.pane,.view {
 	background-color: #4C99D3;
 }
@@ -245,7 +293,11 @@ ion-view,.pane,.view {
 	.input-label {
 		padding: 0;
 	}
+<<<<<<< HEAD
 	
+=======
+
+>>>>>>> 4204740dd90f59e6c8539324de437f5cef31cb30
 }
 /*    PAGE SALECT LANGUAGE */
 //(56,178,238,0.4);
@@ -282,7 +334,10 @@ ion-view,.pane,.view {
 	margin-left: 2px;
 	margin-right: 2px;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4204740dd90f59e6c8539324de437f5cef31cb30
 #home-heading4 {
 	font: bold;
 	margin-bottom: -8%;
@@ -290,7 +345,10 @@ ion-view,.pane,.view {
 	margin-right: 2px;
 }
 
+<<<<<<< HEAD
 ion-view,.pane,.view {
 	background-color: #FAFCFD;
 }
 
+=======
+>>>>>>> 4204740dd90f59e6c8539324de437f5cef31cb30

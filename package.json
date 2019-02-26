@@ -3,13 +3,18 @@
   "version": "0.0.1",
   "description": "An Ionic project",
   "devDependencies": {
+<<<<<<< HEAD
     "@ionic/v1-toolkit": "^1.0.0",
     "gulp": "^4.0.0",
+=======
+    "gulp": "^3.5.6",
+>>>>>>> 4204740dd90f59e6c8539324de437f5cef31cb30
     "gulp-clean-css": "^3.7.0",
     "gulp-rename": "^1.2.0",
     "gulp-sass": "^3.1.0"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@ionic-native/transfer": "^3.14.0",
     "@ionic/pro": "2.0.4",
     "cordova-ios": "4.5.5",
@@ -28,13 +33,37 @@
     "plugins": {
       "cordova-plugin-whitelist": {},
       "cordova-plugin-statusbar": {},
+=======
+    "@ionic-native/splash-screen": "^4.5.3",
+    "@ionic/pro": "1.0.20",
+    "cordova-ios": "4.5.4",
+    "cordova-plugin-device": "^2.0.1",
+    "cordova-plugin-ionic-keyboard": "^2.0.5",
+    "cordova-plugin-ionic-webview": "^1.1.16",
+    "cordova-plugin-splashscreen": "^5.0.2",
+    "cordova-plugin-whitelist": "^1.3.3",
+    "ionic-app-lib": "^2.2.1",
+    "cordova-android": "~7.0.0"
+  },
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-whitelist": {},
+>>>>>>> 4204740dd90f59e6c8539324de437f5cef31cb30
       "cordova-plugin-device": {},
       "cordova-plugin-splashscreen": {},
       "cordova-plugin-ionic-webview": {},
       "cordova-plugin-ionic-keyboard": {}
     },
     "platforms": [
+<<<<<<< HEAD
       "ios"
     ]
   }
 }
+=======
+      "ios",
+      "android"
+    ]
+  }
+}
+>>>>>>> 4204740dd90f59e6c8539324de437f5cef31cb30

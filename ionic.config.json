@@ -1,17 +1,29 @@
 {
   "name": "eprules",
+<<<<<<< HEAD
   "integrations": {
     "cordova": {}
   },
   "type": "ionic1",
+=======
+  "app_id": "2dbb7cdb",
+  "type": "ionic1",
+  "integrations": {
+    "gulp": {},
+    "cordova": {}
+  },
+>>>>>>> 4204740dd90f59e6c8539324de437f5cef31cb30
   "watchPatterns": [
     "scss/**/*",
     "www/**/*",
     "!www/lib/**/*",
     "!www/**/*.map"
   ],
+<<<<<<< HEAD
   "id": "2dbb7cdb"
   ,
+=======
+>>>>>>> 4204740dd90f59e6c8539324de437f5cef31cb30
   "gulpStartupTasks": [
     "sass",
     "watch"
