@@ -1,0 +1,121 @@
+commands:   
+
+https://docs.docker.com/engine/reference/commandline/network_create/
+
+
+https://hub.docker.com
+Go to explore, check ionic images
+
+Ejemplo
+https://hub.docker.com/r/sevenn/ionic3
+
+Start open DOCKER APP. (See the TOP BAR in Mac)
+
+Try the first one,  container
+See to run the pull ITERM :
+
+cd  /Users/rodriguezsanz/Documents/docker
+
+docker pull sevenn/ionic3:latest
+
+
+——————————————————
+
+Tests
+docker run --detach --publish=80:80 --name=webserver nginx
+
+docker container ls
+docker container stop webserver
+docker container ls -a
+docker container rm webserver
+docker image ls
+docker image rm nginx
+
+get id container:
+docker ps -a
+
+docker commit  IIIIIDDDDD  gusrodsanz/npm:1.00
+
+docker images
+
+( IMAGES ARE MADE OF FILE SYSTEM LAYERS )
+
+docker run -it gusrodsanz/npm:1.00
+ls
+
+==================================================
+
+
+
+==================================================
+
+
+test :  pull 1 already as image in docker,  and then modify it with EPRULES source and config.
+if builds and works, then create image in dockerhub
+
+1.
+docker pull sevenn/ionic3:latest
+
+
+2.
+docker run -it sevenn/ionic3:latest bash
+ionic -v
+java -version
+npm -v
+node -v
+
+(  latest versions)
+
+3.
+ionic login
+
+
+
+4. INSTALLATION OF EPRULES IN THE DOCKER IMAGE:
+cd /srv
+git clone https://github.com/gusrodsanz/eprules
+this will install this app that is in ionic 1
+
+
+< enter >
+appflow sdk < yes >
+? Which would you like to do? Link to master branch only
+[OK] App 2dbb7cdb connected to https://github.com/gusrodsanz/eprules
+
+       - Go to your newly created project: cd ./eprules
+       - Run ionic serve within the app directory to see your app
+       - Build features and components: https://ion.link/scaffolding-docs
+       - Get Ionic DevApp for easy device testing: https://ion.link/devapp
+       - Push your code to Ionic Appflow to perform real-time updates, and more: git push ionic master
+
+
+docker images
+
+CONTAINER ID        IMAGE                  COMMAND             CREATED             STATUS                         PORTS               NAMES
+5d6de9027b76        9caf73805ab4           "/bin/bash"         3 hours ago         Exited (0) About an hour ago                       priceless_brown
+a17412fcef87        sevenn/ionic3:latest   "/bin/bash"         5 days ago          Exited (0) 5 days ago                              nostalgic_visvesvaraya
+ 
+ 
+
+==================================================
+
+
+m1:docker rodriguezsanz$ docker network ls
+NETWORK ID          NAME                DRIVER              SCOPE
+43ea4b97458a        bridge              bridge              local
+25297d32d0f4        host                host                local
+1fcfede62629        none                null                local
+
+docker run -it  -p 8100:8100  -t 18d1fb6af547 bash -c 'cd /srv/eprules ; ionic serve -l'
+
+IT WORKS !!
+
+http://localhost:8100/#/page1
+
+docker stop 18d1fb6af547
+
+
+==================================================
+
+
+
